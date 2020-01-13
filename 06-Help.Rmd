@@ -1,0 +1,21 @@
+# Teaching students (and you) how to get help
+
+We just practiced one of the most challenging aspects for students:  debugging errors!  Here are some more ways to get help:
+
+Searching for help:
+
+* Using ```??```
+* Using ```?```
+* ```browseVignettes()```
+* Search for a descriptions of the task, not your specific case (students have to be reminded of this)
+* [Stack Overflow](https://stackoverflow.com/)
+* [RSeek.org](https://rseek.org/)
+
+One of the wonderful things about R is all of the publicly available support.  There are nearly limitless places to go.  Here are a few links that we find helpful.
+
+* [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+* [ggplot Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+* [R Graphics Gallery](https://www.r-graph-gallery.com/)
+
+
+

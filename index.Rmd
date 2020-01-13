@@ -1,0 +1,75 @@
+---
+title: "SIGMAA Stat Ed Mini-course for JMM 2020: Teaching Reproducible Statistics with R and R Studio"
+author: "Judith E. Canner & Ryan Botts"
+date: "`r Sys.Date()`"
+#site: bookdown::bookdown_site
+#output: bookdown::pdf_book#bookdown::gitbook
+documentclass: book
+link-citations: yes
+description: A short workshop in R.
+
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment="", message = FALSE, warning = FALSE)
+
+# enter bookdown::render_book("index.Rmd", "bookdown::gitbook") to convert to book)
+```
+
+#Preface {-}
+Teaching Reproducible Statistics with R and R Studio
+
+##Welcome {-}
+
+R is a freely available language and environment for statistical computing and graphics that has become popular in academia and in many industries. In addition, RStudio and RMarkdown have become standard tools in reproducible analysis and reporting.  This mini-course will introduce participants to teaching applied statistics courses using integrated computing to facilitate learning and develop best practices in statistical learning.  The presenters will share different approaches to teaching statistics using R and some favorite examples for using R to teach statistics to undergraduates at all levels, including in introductory courses for mathematics and science majors. 
+ 
+Topics will include simple approaches to provide novices with a powerful, but manageable, set of tools, workflow in the RStudio environment, data visualization, basic statistical inference using R, and using R Markdown to create documents that include both text and R output. This mini-course is designed to be accessible to those with little or no experience using R or teaching with R and will provide participants with skills, examples, and resources that they can use in their own teaching.
+
+##Purpose {-}
+The aim of this workshop is to introduce the users to beginning and intermediate uses of R, along with best practices of using R in the classroom as well as in real-world data analysis projects.  We assume no prior background with R.  As you learn R, we also aim to provide many practical examples of the tools we commonly use in our own work.  During the workshop there are many places where optional questions are given.  If you have been successful, with the code provided we encourage you to try these extra bonuses to test your abilities. 
+
+##Outline {-}
+
+Day 1
+1. Introduction to R Studio Environment
+2. Introduction to R Markdown and Reproducible Documentation 
+3. Introduction to Statistics using R Markdown 
+3a. Data Visualization (base and ggplot2)
+3b. Statistical Inference (basic inference, central limit theorem, resampling methods) 
+
+Day 2
+4. Teaching R across the Math and Stat Curriculum 
+4a.Pedagogy for Programming
+4b. Examples, Assignments, and Projects
+4c. Packages for assisting learning (e.g., mosaic, ggformula)
+5. Teaching students (and you) how to get help in R 
+
+##Downloading software {-}
+
+We are excited to meet you next week and support you as you start your journey to learning R and teaching R in your classes.  We do not expect anyone to have seen R before so we will structure the minicourse such that day one focuses on using R and day two focuses on teaching with R.  Though the second day will emphasize teaching, we will try to model pedagogical practices for teaching R and statistics throughout the workshop.  You will need your laptops and there is some prep work to do!
+
+
+To get you ready for the minicourse, register for the FREE course [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) and complete the first few modules on how to download and install R, R Studio, and getting started with Projects (~20 minutes).  There is no need to complete the rest of the course unless you want to as only the first three lessons are necessary for the minicourse (though I recommend completing it at some point).  One of the great things about R is the vibrant online community and abundance of free resources to support learning the language so we thought taking advantage of the community built resources would be a great way to welcome you to R.  
+
+
+If you are using a tablet or perhaps you computer just doesn’t have the memory for more programs (just like our students!) sign up for an account with [](https://rstudio.cloud) which provides free access to the RStudio environment through your internet browser.
+
+
+If anyone has issues getting R/RStudio installed prior to the minicourse, Ryan and I will be in the workshop room at 8:30am the first day to help troubleshoot any issues.
+
+
+##Who we are{-}
+
+**Judith E Canner** Associate Professor of Statistics, California State University, Monterey Bay
+
+Dr. Canner has been using R to teach undergraduate introductory statistics for biologists and mathematicians/statisticians since 2010.  She has presented numerous times on R pedagogy in statistics courses and regularly teaches a statistical computing seminar using R,  R Studio, and R Markdown.    
+ 
+
+**Ryan Botts** Associate Professor of Mathematics, Point Loma Nazarene University
+
+Dr. Botts has been teaching R extensively to undergraduates from across many disciplines since 2014, and regularly advises students in undergraduate research using R and RShiny.  Additionally, he has published on teaching pedagogy in non-major mathematics courses, including introductory statistics.
+
+
+<!-- ## Introductions {-} -->
+<!-- * What is your name and where are you from?   -->
+<!-- * What classes do you typically teach?   -->
+<!-- * What do you hope to get from today’s workshop? -->
