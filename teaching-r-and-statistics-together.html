@@ -273,7 +273,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p>One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is <code>mean</code>, if you want a boxplot, the command is ‘boxplot’.</p>
 <p>Run the command ‘boxplot(cleanTeslaBattery$MaxRangeKM)’. You should get the following:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(cleanTeslaBattery<span class="op">$</span>MaxRangeKM)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-7-1.png" width="672" /> The x- and y-axis labels, main title, as well as color can be set using optional variables, xlab, ylab, main and color, respectively. Modify your command to <code>boxplot(cleanTeslaBattery$MaxRangeKM, xlab = &quot;All&quot;, ylab = &quot;KM&quot;, main = &quot;Max Range&quot;, col = &quot;green&quot;)</code>. R has many other colors built in and also accepts hexadecimals. Search the web to find some other possible colors to modify your graph.</p>
+<p><img src="figure-html/unnamed-chunk-7-1.png" width="672" /> The x- and y-axis labels, main title, as well as color can be set using optional variables, xlab, ylab, main and color, respectively. Modify your command to <code>boxplot(cleanTeslaBattery$MaxRangeKM, xlab = &quot;All&quot;, ylab = &quot;KM&quot;, main = &quot;Max Range&quot;, col = &quot;green&quot;)</code>. R has many other colors built in and also accepts hexadecimals. Search the web to find some other possible colors to modify your graph.</p>
 <p>Replacing <code>boxplot()</code> with <code>hist</code> will give the expected effect. Try it on one of the other quantitative variables.</p>
 <ul>
 <li>Note that histograms have an optional argument to control how many bins called breaks. Try adding the option ‘breaks = 50’</li>
@@ -282,7 +282,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </ul>
 <p>One other feature that is nice is that comparisons between quantitative variables can easily be done as well. Suppose we want to compare the maximum range based on how frequently they supercharge their batteries. Enter the command</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>SuperchargeFreq, <span class="dt">data =</span> cleanTeslaBattery, <span class="dt">las =</span> <span class="dv">2</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-9-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-9-1.png" width="672" /></p>
 <ul>
 <li>Note the relational notation <code>y ~ x</code></li>
 <li>In many functions we can specify the data set to avoid extra typing</li>
@@ -299,7 +299,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <h3><span class="header-section-number">3.1.4</span> Scatterplots</h3>
 <p>Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the <code>plot</code> function and replacing the qualitative explanatory variable with a quantitative one. Let’s explore the effect of Mileage (<code>MileageKM</code>) and the Maximum Range (<code>MaxRangeKM</code>).</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">plot</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>MileageKM, <span class="dt">data =</span> cleanTeslaBattery, <span class="dt">col =</span> <span class="st">&quot;darkblue&quot;</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-10-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-10-1.png" width="672" /></p>
 <p>Note that the type of point can be controlled using the optional <code>pch = 2</code> command and changing the number for different point types. Color and labels are done as before. Try adjusting your colors and labeling your plot.</p>
 <p>Another nice alternative for large data sets is the <code>smoothScatter</code>, however it doesn’t support the specification of data and will require explicitly referring to the x and y using the data frame name and ‘$’ symbol. Try it if you are interested.</p>
 <p>Clearly this graph shows multiple trends due to the different battery sizes, so we would want to separate these out separately for regression or use a more advanced regression model. For simplicity we are going to add a regression line without accounting for the car model.</p>
@@ -313,7 +313,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">plot</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>MileageKM, <span class="dt">data =</span> cleanTeslaBattery, <span class="dt">col =</span> <span class="st">&quot;darkblue&quot;</span>)
 line =<span class="st"> </span><span class="kw">lm</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>MileageKM, <span class="dt">data =</span> cleanTeslaBattery)
 <span class="kw">abline</span>(line, <span class="dt">col =</span> <span class="st">&quot;red&quot;</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-11-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-11-1.png" width="672" /></p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">summary</span>(line)</code></pre></div>
 <pre><code>
 Call:
@@ -351,7 +351,7 @@ F-statistic: 0.9262 on 1 and 1336 DF,  p-value: 0.336</code></pre>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">tble =<span class="st"> </span><span class="kw">table</span>(cleanTeslaBattery<span class="op">$</span>SuperchargeFreq, cleanTeslaBattery<span class="op">$</span>Location)
 ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span class="dv">2</span>)
 <span class="kw">barplot</span>(ptable, <span class="dt">beside =</span> <span class="ot">TRUE</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-12-1.png" width="672" /> Note the organization of the table and the relationship between the rows and columns.</p>
+<p><img src="figure-html/unnamed-chunk-12-1.png" width="672" /> Note the organization of the table and the relationship between the rows and columns.</p>
 <p>We can also add a legend and a location with the options <code>legend.text = TRUE</code> and <code>args.legend = list(x = &quot;topright&quot;)</code>.</p>
 <p>Try adding them to your plot.</p>
 <p>Note, there are many options for the placement of the legend other than “topright” that you may want to use if the legend overlaps your bars. These include “bottomright”, “bottom”, “bottomleft”, “left”, “topleft”, “top”, “topright”, “right”, and “center.”</p>
@@ -366,7 +366,7 @@ ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span c
 <p>Run the following code in your notebook to make a graph, paying strict attention to spelling, capitalization, and parentheses.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">ggplot</span>(<span class="dt">data=</span>tesla) <span class="op">+</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">geom_point</span>(<span class="dt">mapping=</span><span class="kw">aes</span>(<span class="dt">x=</span>BatteryAgeDays, <span class="dt">y=</span>MileageSinceNewKM))</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-16-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-16-1.png" width="672" /></p>
 <p>Notice a few key things.</p>
 <ol style="list-style-type: decimal">
 <li><code>ggplot(data)</code> initializes the plot<br />
@@ -384,14 +384,14 @@ ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span c
 <p>Let’s add on some more layers! What if we want to make the variable Replacement Battery to a color aesthetic?</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">ggplot</span>(<span class="dt">data=</span>tesla) <span class="op">+</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">geom_point</span>(<span class="dt">mapping=</span><span class="kw">aes</span>(<span class="dt">x=</span>BatteryAgeDays, <span class="dt">y=</span>MileageSinceNewKM, <span class="dt">color=</span>ReplacementBatt))</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-18-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-18-1.png" width="672" /></p>
 <p>If we didn’t care about mapping the new variable to an aesthetic, but wanted to change the color, that would come outside of the <code>aes()</code> function.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">ggplot</span>(<span class="dt">data=</span>tesla) <span class="op">+</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">geom_point</span>(<span class="dt">mapping=</span><span class="kw">aes</span>(<span class="dt">x=</span>BatteryAgeDays, <span class="dt">y=</span>MileageSinceNewKM), <span class="dt">color=</span><span class="st">&quot;blue&quot;</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-19-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-19-1.png" width="672" /></p>
 <p>There are a lot of resources available, including a the <a href="Documents/ggplot2%20Cheatsheet.pdf">“ggplot2 Cheatsheet”</a></p>
 <p><strong>Your Turn 2</strong> Make the following density plot, using the Cheatsheet to help you. What does the plot tell you about the Tesla driver habits in different regions?</p>
-<p><img src="_main_files/figure-html/unnamed-chunk-20-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-20-1.png" width="672" /></p>
 </div>
 <div id="layering-graphics" class="section level3">
 <h3><span class="header-section-number">3.1.6</span> Layering Graphics</h3>
@@ -419,7 +419,7 @@ ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span c
 <p>Here is a look at a scatterplot of the data</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">library</span>(ggplot2)
 <span class="kw">ggplot</span>(<span class="dt">data=</span>cleanTeslaBattery) <span class="op">+</span><span class="st"> </span><span class="kw">geom_point</span>(<span class="kw">aes</span>(<span class="dt">x=</span>MileageKM, <span class="dt">y=</span>WattHoursPerKM))</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-22-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-22-1.png" width="672" /></p>
 <p>Implement the linear model from before to look at the relationship between the Mileage (<code>MileageKM</code>) and Watt Hours Per KM (<code>WattHoursPerKM</code>) and assign the model to the variable <code>mod</code></p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">mod =<span class="st"> </span><span class="kw">lm</span>(WattHoursPerKM <span class="op">~</span><span class="st"> </span>MileageKM, <span class="dt">data =</span> cleanTeslaBattery)
 <span class="kw">summary</span>(mod)</code></pre></div>
@@ -444,7 +444,7 @@ Multiple R-squared:  0.03655,   Adjusted R-squared:  0.03582
 F-statistic: 49.89 on 1 and 1315 DF,  p-value: 2.628e-12</code></pre>
 <p>We can also easily inspect the residuals by calling the <code>residual()</code> function on the model. Try it:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">hist</span>(<span class="kw">residuals</span>(mod))</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-24-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-24-1.png" width="672" /></p>
 <p>Additionally transforms of any of the variables can be performed in the following way:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">lm</span>(WattHoursPerKM <span class="op">~</span><span class="st"> </span><span class="kw">log</span>(MileageKM), <span class="dt">data =</span> cleanTeslaBattery)</code></pre></div>
 <pre><code>
@@ -471,7 +471,7 @@ Coefficients:
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">Kings &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&quot;Data/KingCounty2001.csv&quot;</span>) </code></pre></div>
 <p>Take a look at the relationship between <code>smoker</code> and <code>wgain</code>.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(wgain <span class="op">~</span><span class="st"> </span>smoker, <span class="dt">data =</span> Kings )</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-28-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-28-1.png" width="672" /></p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">summary</span>(Kings<span class="op">$</span>smoker)</code></pre></div>
 <pre><code>   N    Y 
 2325  175 </code></pre>

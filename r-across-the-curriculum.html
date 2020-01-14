@@ -344,13 +344,13 @@ max, mean, min, prod, range, sample, sum</p>
 2      Y 414 2856.5   3275 3544 4508 3185.737 583.4798  175       0</code></pre>
 <p>In addition, it allows for some simple graphics that allow faceting:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">histogram</span>(<span class="op">~</span>bwt<span class="op">|</span>smoker, <span class="dt">data=</span>king)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-54-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-54-1.png" width="672" /></p>
 <p>and easy bar graphs without the need to create a count table:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">bargraph</span>(<span class="op">~</span>smoker, <span class="dt">data=</span>king)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-55-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-55-1.png" width="672" /></p>
 <p>and overlay summary values:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">histogram</span>(<span class="op">~</span>bwt, <span class="dt">v=</span><span class="dv">2500</span>, <span class="dt">data =</span> king)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-56-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-56-1.png" width="672" /></p>
 </div>
 <div id="package-ggformula" class="section level3">
 <h3><span class="header-section-number">4.3.3</span> Package ggformula</h3>
@@ -361,7 +361,7 @@ Install the package and load it into R.</p>
 <p>You can easily “pipe” using the <code>%&gt;%</code> symbol to overlay two graphs and you can use many of the <code>ggplot2</code> arguments within the <code>ggformula</code> functions. For example:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">gf_boxplot</span>(bwt<span class="op">~</span>smoker, <span class="dt">data=</span>king) <span class="op">%&gt;%</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">gf_violin</span>(bwt<span class="op">~</span>smoker, <span class="dt">data=</span>king, <span class="dt">fill=</span><span class="op">~</span>smoker, <span class="dt">alpha=</span><span class="fl">0.3</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-58-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-58-1.png" width="672" /></p>
 <p>Try out a few other plots using the King County birth weight data and <code>ggformula</code>.</p>
 <p>To learn more about the pipe <code>%&gt;%</code> in R, read the <a href="https://r4ds.had.co.nz/pipes.html">Pipes</a> chapter in R for Data Science.</p>
 </div>
@@ -392,7 +392,7 @@ Install the package and load it into R.</p>
 <p>Finally, we can visualize the null distribution and p-value. What conclusion should we draw from our inference?</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">visualise</span>(null_dist) <span class="op">+</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">shade_p_value</span>(<span class="dt">obs_stat =</span> d_hat, <span class="dt">direction =</span> <span class="st">&quot;two_sided&quot;</span>)</code></pre></div>
-<p><img src="_main_files/figure-html/unnamed-chunk-63-1.png" width="672" /></p>
+<p><img src="figure-html/unnamed-chunk-63-1.png" width="672" /></p>
 <p>You can learn more about the infer package for different tests by reading the <a href="https://cran.r-project.org/web/packages/infer/index.html"><code>infer</code> vignettes</a>.</p>
 </div>
 <div id="packages-for-learning-r---swirl" class="section level3">
