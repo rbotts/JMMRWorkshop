@@ -30,7 +30,7 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
         - Value (“brightness”)  
     - Text  
 
-![https://serialmentor.com/dataviz/aesthetic-mapping.html](common-aesthetics-1.png)
+![https://serialmentor.com/dataviz/aesthetic-mapping.html](Images/common-aesthetics-1.png)
     
 - Not all aesthetics are available for every geometry
 
@@ -40,7 +40,7 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
     - Rows represent cases: at most one geometry per case (assuming no aggregation)  
     - Columns represent variables: to be mapped to aesthetic attributes  
 
-![https://r4ds.had.co.nz/tidy-data.html#tidy-data-1](tidy-1.png)  
+![https://r4ds.had.co.nz/tidy-data.html#tidy-data-1](Images/tidy-1.png)  
 
 - Differences in geometry aesthetics map to differences in data variables  
 - Available mappings depend on whether data variable is continuous (height) or discrete (race)  
@@ -89,7 +89,7 @@ boxplot(MaxRangeKM ~ SuperchargeFreq, data = cleanTeslaBattery, las = 2)
 
 
 
-**Teaching tip**  One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
+>**Teaching tip** One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
 
 ### Scatterplots
 Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the  `plot` function and replacing the qualitative explanatory variable with a quantitative one.  Let's explore the effect of Mileage (`MileageKM`) and the Maximum Range (`MaxRangeKM`).
@@ -121,7 +121,7 @@ summary(line)
 ```
 
 
-**Teaching tip**  students frequently forget to create the plot first. The entire R chunk must be run in RMarkdown to preview the image.  
+> **Teaching tip** Students frequently forget to create the plot first. The entire R chunk must be run in RMarkdown to preview the image.  
     
 The correlation can be computed using the `cor` function.  Look up how to use it using `?cor` and try it.
 
