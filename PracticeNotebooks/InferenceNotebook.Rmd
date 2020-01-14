@@ -1,0 +1,63 @@
+---
+title: "Inference Practice Notebook"
+output: html_notebook
+---
+For the first practice here we will be using 
+
+1.  Load the [](Data/cleanTeslaBattery.csv) and run a quick summary to view your data.
+```{r}
+
+```
+
+2. Use what you have already learned to plot the relationship between ```WattHoursPerKM``` and ```MileageKM```.
+```{r}
+
+```
+
+3.  We will perform a linear regression using the ```lm()``` function.  The syntax requires a function describing the form ```(y ~ x)``` as you have seen in other cases, and the name of the data.
+
+```{r}
+
+```
+
+4.  Go back and assign a name to the previous model and rerun it so that we can use the name in other analyses.  
+
+5.  You will notice that the model doesn't produce all of the values we might want.  You can now apply the ```summary()``` command to your model to get statistics on the regression model.
+```{r}
+
+```
+
+
+6.  R allows easy accessibility to other things you may want for inspecting the quality of your regression fit.  For example, run the command ```hist(residuals(mod))``` in the box below.  What would you expect it to produce?
+```{r}
+
+```
+
+7. R also makes transformations of data very simple.  Run the code below, which model gives the best fit?
+
+```{r}
+# a log transform
+summary(lm(WattHoursPerKM ~ log(MileageKM), data = cleanTeslaBattery))
+
+# a sqrt transform
+summary(lm(sqrt(WattHoursPerKM) ~ MileageKM, data = cleanTeslaBattery))
+```
+
+8. Now we will try a *t*-test.  Load the Kings county birth data [](Data/KingCounty2001.csv) and check a quick summary to make sure it loaded as you would expect.
+```{r}
+
+```
+
+9.  Next we are going to run a test to determine if the smoking status of the mother has a significant effect (```smoker```) on weight gain (```wgain```) using the ```t.test()``` command with a relational input describing the two variables you want to compare and the name of the data.
+```{r}
+
+```
+What useful information is provided in the output that your introductory students might want?
+
+10.  The default is to a two-sided test, but this can be easily controlled by using the option ```alternative = "less"``` or ```alternative = "greater"``` options.  Modify your previous command for a one-sided greater than alternative.
+
+```{r}
+
+```
+
+What do you notice about the confidence interval given?  Students often forget this so it is helpful to remind them.

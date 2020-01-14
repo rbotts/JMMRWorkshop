@@ -1,0 +1,79 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an R Notebook. You can use it to take notes and run code. For example, you can write your name on the line below. Try it: 
+
+
+
+```{r}
+# You can write code in chunks that look like this.
+# This chunk uses some code from base R to plot a data set.
+# To run the code click the Green play button to the right. Try it!
+plot(cars)
+```
+
+Good job! The results of a code chunk will appear beneath the chunk. You can click the x above the results to make them go away, but let's not do that.
+
+You can open a new R Notebook by going to **File > New File > R Notebook**.  Notice that the Notebooks come prepopulated with content.  You will want to delete and replace that content for your own documents, but it is always worth reading through when you open new templates and types to learn how the Markdown language works.
+
+# Adding code chunks
+
+To add a new chunk, press *Cmd+Option+I* (Mac) or *Ctrl+Alt+I* (Windows), or click the *Insert* button at the top of this document, then select *R*. 
+
+Try making a code chunk below:
+
+
+
+Good job! For now, you should place all of your R code inside of code chunks.
+
+# HTML version
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it. This makes a nice, polished report of your work to share.
+
+Click the *Preview* button at the top of this document or press *Cmd+Shift+K* (*Ctrl+Shift+K* on Windows) to preview the HTML file. Try clicking *Preview* now.
+
+
+# Data in the R Markdown Environment
+
+One thing that trips people up is that you can have data loaded in R and code dependent on the data will work in the notebook environment.  When you knit the notebook, though, you will get an error.  That is because the R Markdown environment acts as its own R session.  Therefore, we always need to load the data first!  
+
+```{r}
+#Insert the code we created before to insert the iris data
+```
+
+We also need to make sure the code is in the right order within the Notebook.  That means we need to have code to load packages, data, and create output in the same order as we would if we were regularly coding.  A great way to test this is to use the downward facing arrow on a code chunk to see if all previous code runs without error.
+
+```{r}
+# You can click the downward facing arrow to the left of the play button to run every chunk above the current code chunk. 
+#This is useful if the code in your chunk depends on the code in previous chunks. 
+#For example, if you use an object or data set made in a previous chunk.
+```
+
+# Packages
+
+You can immediately run any function from base R within a notebook, But if you'd like to run a function that comes in an R package, you will need to first load the package in the notebook.
+
+Do you remember how to run the core tidyverse packages? Load them in the chunk below:
+
+```{r}
+# We've already installed the ggplot2 package
+# So all you need to do is load it using the same code
+
+```
+
+Good job! You'll need to reload your packages every time you begin a new notebook.
+
+# Finalizing a Notebook  
+
+Once you are done with the creation of the content of the Notebook, you can knit it into it's final form (HTML, .docx, .pdf).  Note that to knit to a PDF you will need to have Miktex installed and possibly the package `tinytex` to knit to PDF.
+
+
+# Some Other Cool Features  
+
+Not only can you insert R Code (and other programming languages like python, SQL, and bash), you can also insert LaTex code such as $\alpha$ or $x^2$ inline or as a display! Check it out:
+
+$$t = \frac{\bar{x}-\mu}{s/\sqrt{n}}$$
+
+You can also use HTML coding for formatting if knitting to HTML and LaTex coding for formatting if knitting to PDF in addition to Markdown coding for formatting in general.  

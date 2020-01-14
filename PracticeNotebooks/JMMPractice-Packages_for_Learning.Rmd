@@ -1,0 +1,102 @@
+---
+title: "R Packages for Learning"
+output: html_notebook
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment="") 
+```
+
+## Base R vs. Packages for Learning  
+
+In 2001, a sample of 2500 births from King County, Washington contained information on both the mother and the infant at birth. Load in the data `KingCounty2011.csv`
+```{r}
+king<-read.csv()
+```
+
+Suppose we want to compare the birth weight (`bwt`) of a baby between mothers who smoke (Y) versus do not smoke (N) (`smoker`).  
+
+In base R, here is what the code would look like:
+
+```{r}
+mean(king$bwt[king$smoker=="Y"]) #smoke
+mean(king$bwt[king$smoker=="N"]) #do not smoke
+```
+
+How would we calculate the standard deviation as well?
+
+```{r}
+
+```
+
+## Package mosaic  
+
+The `mosaic` package was developed by Randall Pruim, Danny Kaplan, and Nicholas Horton.  The goal of [Project mosiac](http://mosaic-web.org/) is to support the learning of R in colleges and universities.  Let's try our previous problem using functions in `mosaic`.  
+
+First, install the package if you haven't done so already.  
+
+Now, before we load the package, let's take a peak at the `mean()` function in base R.  What error results?
+
+```{r}
+mean(king$bwt~king$smoker)
+```
+
+
+Now load the `mosaic` pacakge and note the message provided when loaded.
+
+```{r}
+
+```
+
+
+We can now run our `mean()` function (overwritten by `mosaic`)
+```{r}
+mean(bwt~smoker, data=king)
+```
+
+Many of the summary statistic functions of base R will now work in function form.  `mosaic` also adds new functions, such as `favstats` 
+
+```{r}
+favstats(bwt~smoker, data=king)
+```
+
+In addition, it allows for some simple graphics that allow faceting:  
+
+```{r}
+histogram(~bwt|smoker, data=king)
+```
+
+and easy bargraphs without the need to create a count table:
+```{r}
+bargraph(~smoker, data=king)
+```
+
+and overlay summary values: 
+```{r}
+histogram(~bwt, v=2500, data = king)
+```
+
+
+## Package ggformula  
+You can easily "pipe" using the ` %>% ` symbol to overlay two graphs and you can use many of the `ggplot2` arguments within the `ggformula` functions.  For example:
+```{r}
+library(ggformula)
+gf_boxplot(bwt~smoker, data=king) %>% 
+  gf_violin(bwt~smoker, data=king, fill=~smoker, alpha=0.3)
+```
+
+Try out a few other plots using the King County birthweight data and `ggformula`.  
+
+
+
+# Packages for Learning R - Swirl
+
+To get started, you just have to load the library (after you install it of course).
+
+```{r}
+library(swirl)
+```
+
+
+
+

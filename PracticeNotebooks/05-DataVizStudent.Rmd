@@ -1,0 +1,134 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Visualization using base graphics
+We will explore graphics using [cleanTeslaBattery.csv](Data/cleanTeslaBattery.csv).  Read it in using what you have done previously.
+
+```{r}
+
+```
+
+
+## Histograms and boxplots
+One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is `mean`, if you want a boxplot, the command is 'boxplot'.  Run the command below to compute the mean of the `MaxRangeKM` 
+
+```{r}
+
+```
+
+A boxplot can be constructed by replacing the `mean()` function with `boxplot()`.  **Try it** below.
+
+```{r}
+
+```
+
+
+The x- and y-axis labels, main title, as well as color can be set using optional variables, xlab, ylab, main and color, respectively.  
+
+Modify your previous com `boxplot(cleanTeslaBattery$MaxRangeKM, xlab = "All", ylab = "KM", main = "Max Range", col = "green")`.  R has many other colors built in and also accepts hexadecimals.  Search the web to find some other possible colors to modify your graph.
+
+Replacing `boxplot()` with `hist` will give the expected effect.  **Try it** on one of the other quantitative variables.
+```{r}
+
+```
+
+*  Note that histograms have an optional argument to control how many bins called breaks.  Try adding the option 'breaks = 50'
+*  Set the number of breaks to 5, notice anything strange?
+*  Set your histogram to another color
+```{r}
+
+```
+
+One other feature that is nice is that comparisons between quantitative variables can easily be done as well.  Suppose we want to compare the maximum range based on how frequently they supercharge their batteries.  Enter the command `boxplot(MaxRangeKM ~ SuperchargeFreq, data = cleanTeslaBattery)`
+```{r}
+
+```
+
+*  Note the relational notation `y ~ x`
+*  In many functions we can specify the dataset to avoid extra typing
+*  The optional axis labels are as before
+
+**Try it**
+*  Add the  `las = 2` argument.  What does it do?
+*  Colors can still be specified, but now we need a list of colors, one for each box.  Add the optional argument `col = heat.colors(8)`.  Note you must specify one for each category.  There are many color palettes.  You can view some with the command `?colors`. 
+*  Add axis labels as you have previously
+
+**Try it** 
+Create a summary of the relationship between the `Model` and `MileageKM`.
+```{r}
+
+```
+
+
+
+    Teaching tip:  One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
+
+## Scatterplots
+Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the  `plot` function and replacing the qualitative explanatory variable with a quantitative one.  Let's explore the effect of Mileage (`MileageKM`) and the Maximum Range (`MaxRangeKM`). Try it.
+
+```{r}
+
+```
+
+Try adding the option `pch = 2`.  What happens?
+
+
+Another nice alternative for large datasets is the `smoothScatter`, however it doesn't support the specification of data and will require explicitly referring to the x and y using the data frame name and '$' symbol.  Try it if you are interested.
+
+Regression lines are implemented using the followng process:
+
+1.  Fit and save the model to the data using `lm()` (x and y are specified as in the plot).  This model is used for all other steps.
+2.  Add the line to the scatterplot that has already been created using `abline()` applied to the model you have saved.  Colors for the line can be specified as before.
+3.  Summarize the model using `summary()`.
+
+Try it.
+
+```{r}
+
+```
+   
+    Teaching tip:  students frequently forget to create the plot before adding the line.
+    
+The correlation can be computed using the `cor` function.  Look up how to use it using `?cor` and try it.
+```{r}
+
+```
+
+
+## Bar graphs
+Categorical data isn't much harder, but does require a preprocessing step for base graphics.  Let's create a boxplot of the Supercharging Frequency.  We will go straight to grouped bar plots.  Let's summarize the relationship between supercharging frequency and the location.  This is done in three steps:  
+
+1. tabulate and save (using `tble = table(colvar,rowvar)`, with the desired column and row variables), 
+2. compute conditional percentages on the tabulated data (use `prop.table(tble, 2)` and save it)
+2. plot the table of percents(`barplot()` with the `beside = TRUE` option)
+
+Try it:
+```{r}
+
+```
+Note the organization of the table and the relationship between the rows and columns.
+
+We can also add a legend and a location with the options
+`legend.text = TRUE` and `args.legend = list(x = "topright")`.
+
+Try adding them to your plot.
+
+Other legend placement options are “bottomright”,
+“bottom”, “bottomleft”, “left”, “topleft”, “top”, “topright”, “right”, and “center.”
+
+Set the main title and colors (the number of colors should be the same as the number of rows in the table).  A quick way to get the number of colors is to count the number of levels of a factor.  You can replace the count with `length(levels(vblname))`, and substitute your 'vblname`.  
+
+
+A bar plot for a single variable can be accomplished by only passing in one variable.  Try it on one of the other categorical variables.
+
+
+

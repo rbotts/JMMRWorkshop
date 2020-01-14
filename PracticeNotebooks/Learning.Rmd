@@ -1,0 +1,175 @@
+# R Packages for Teaching and Learning
+
+## Base R vs. Packages for Learning  
+
+There are a lot of options in base R, but often they can be clunky and a bit of a challenge for students.  Download the [Packages for Learning Notebook](Practice Notebooks/09-Packages_for_Learning.Rmd)
+
+Let's look at an example (you can find the data called `KingCounty2011.csv` in [linked here](Data/KingCounty2001.csv): In 2001, a sample of 2500 births from King County, Washington contained information on both the mother and the infant at birth.
+```{r}
+king<-read.csv("Data/KingCounty2001.csv")
+```
+
+Suppose we want to compare the birth weight (`bwt`) of a baby between mothers who smoke (Y) versus do not smoke (N) (`smoker`).  
+
+In base R, here is what the code would look like:
+
+```{r}
+mean(king$bwt[king$smoker=="Y"]) #smoke
+mean(king$bwt[king$smoker=="N"]) #do not smoke
+```
+
+How would we calculate the standard deviation as well?
+
+```{r}
+sd(king$bwt[king$smoker=="Y"]) #smoke
+sd(king$bwt[king$smoker=="N"]) #do not smoke
+```
+
+It quickly becomes cumbersome to do this for multiple summary statistics.  So what if there is a better way?  
+
+
+## Package mosaic  
+
+The `mosaic` package was developed by Randall Pruim, Danny Kaplan, and Nicholas Horton.  The goal of [Project mosiac](http://mosaic-web.org/) is to support the learning of R in colleges and universities.  Let's try our previous problem using functions in `mosaic`.  
+
+First, install the package if you haven't done so already.  
+
+```{r eval=FALSE}
+install.packages("mosaic")
+```  
+
+Now, before we load the package, let's take a peak at the `mean()` function in base R.  What error results?
+
+```{r eval=FALSE}
+mean(king$bwt~king$smoker)
+```
+
+> `argument is not numeric or logical: returning NA[1] NA` 
+
+What does that error message mean?
+
+
+
+
+Now load the `mosaic` package and note the message provided when loaded:
+```{r}
+library(mosaic)
+```
+
+Notice that it states that   
+
+> The following objects are masked from package:base:    
+> max, mean, min, prod, range, sample, sum   
+
+Package Mosaic overwrites several of the base package functions with new functions of the same name to make them adaptable to the formula notation. 
+![](Images/mosaic.png)
+
+
+We can now run our `mean()` function (overwritten by `mosaic`)
+```{r}
+mean(bwt~smoker, data=king)
+```
+
+Many of the summary statistic functions of base R will now work in function form.  `mosaic` also adds new functions, such as `favstats` 
+
+```{r}
+favstats(bwt~smoker, data=king)
+```
+
+In addition, it allows for some simple graphics that allow faceting:  
+
+```{r}
+histogram(~bwt|smoker, data=king)
+```
+
+and easy bar graphs without the need to create a count table:
+```{r}
+bargraph(~smoker, data=king)
+```
+
+and overlay summary values: 
+```{r}
+histogram(~bwt, v=2500, data = king)
+```
+
+
+## Package ggformula  
+Just like `mosaic`, `ggformula` was written to get students doing powerful visualization quickly, without having to learn the ins and outs of `ggplot2` or even base R. While `mosaic` has some graphing functionality, `ggformula` serves as an overlay for `ggplot2`, allowing the user to create quality graphics and to support multivariate reasoning via formulas.  To learn more, check out the vignette from the [ggformula package](https://cran.r-project.org/web/packages/ggformula/vignettes/ggformula-blog.html).  
+Install the package and load it into R.
+```{r}
+#install.packages("ggformula")
+library(ggformula)
+```
+
+You can easily "pipe" using the ` %>% ` symbol to overlay two graphs and you can use many of the `ggplot2` arguments within the `ggformula` functions.  For example:
+```{r}
+gf_boxplot(bwt~smoker, data=king) %>% 
+  gf_violin(bwt~smoker, data=king, fill=~smoker, alpha=0.3)
+```
+
+Try out a few other plots using the King County birth weight data and `ggformula`.  
+
+To learn more about the pipe `%>%` in R, read the [Pipes](https://r4ds.had.co.nz/pipes.html) chapter in R for Data Science.  
+
+
+## Package infer
+The objective of the `infer` package is to perform statistical inference using an expressive statistical grammar that mimics the `tidyverse` design framework.  The goal is to have students run a hypothesis test by using functions that follow these steps:
+
+![`infer` Grammar for Inference](Images/ht-diagram.png)
+
+Install the package if you haven't done so already.  
+
+```{r eval=FALSE}
+install.packages("infer")
+```  
+
+and load the `infer` package:
+```{r}
+library(infer)
+```
+
+
+Let's look at an example, to compare the mean birth weights for infants born to smokers and non-smokers.
+
+First, let's calculate the test statistic, what would we want to compare?
+```{r}
+king %>% 
+  specify(bwt ~ smoker) %>%
+  calculate(stat = "diff in means", order = c("Y", "N")) -> d_hat
+```
+
+Next we generate data under the null hypothesis and calculate the test statistic under the null hypothesis to determine the "null distribution" of the null hypothesis.  What is our null hypothesis?
+
+$H_0: \mu_{smoker} = \mu_{nonsmoker}$  
+$H_0: \mu_{smoker} \neq \mu_{nonsmoker}$  
+
+```{r}
+king %>%
+  specify(bwt ~ smoker) %>%
+  hypothesize(null = "independence") %>%
+  generate(reps = 1000, type = "permute") %>%
+  calculate(stat = "diff in means", order = c("Y", "N")) -> null_dist
+```
+
+
+Finally, we can visualize the null distribution and p-value.  What conclusion should we draw from our inference?
+```{r}
+visualise(null_dist) + 
+  shade_p_value(obs_stat = d_hat, direction = "two_sided")
+```
+
+You can learn more about the infer package for different tests by reading the [`infer` vignettes](https://cran.r-project.org/web/packages/infer/index.html).
+
+
+## Packages for Learning R - Swirl
+
+`swirl` is a package designed to let you learn R within R.  Check out the [Swirl webpage](https://swirlstats.com/) to learn more.  To get started, you just have to load the library (after you install it of course).
+
+```{r eval=FALSE}
+install.packages("swirl")
+library(swirl)
+```
+
+
+
+

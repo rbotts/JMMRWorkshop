@@ -1,0 +1,70 @@
+---
+title: "Deciphering_Errors"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment="")
+```
+
+
+<!-- Use these arrows and dashes to add a text comment that won't appear in the knitted file. This is different than a comment that goes in a code chunk, where you would use # -->
+<!-- The *** creates a small line to separate sections of your document -->
+
+We wish to build a model to predict the the time (in minutes) to commute to work in Atlanta, GA based on the distance (in miles).  The data for commute time and distance for a random sample of 500 commuters from Atlanta is found in `CommuteAtlanta` in the Lock5Data library.  
+
+```{r, message=FALSE, warning=FALSE}
+library(Lock5Data) 
+library(mosaic)
+data(CommuteAtlanta)
+```    
+
+>What was the error? Fix it!
+
+
+Provide the relevant summary statistics for the study (mean and sd of variables, scatterplot, correlation). Provide and interpretation of the summary statistics (specifically the scatterplot and correlation).  Based on summary statistics and plots, is there evidence of a linear relationship?
+    
+```{r, fig.width=5, fig.height=4}
+#for a code chunk, you can set how big you want the images to be. default is inches
+plot(CommuteAtlanta$Distance,CommuteAtlanta$Time,xlab="Distance 
+(miles)", ylab="Commute Time (minutes)")
+```
+
+```{r}
+mean(CommuteAtlanda$Distance)
+```
+
+```{r}
+sd(Distance)
+```
+
+```{r}
+cor(CommuteAtlanta$Distance,CommuteAtlanta$time)
+```
+
+
+>What were the errors? Fix them!
+
+
+Here is an example of how you can use LaTeX commands to write equations. $y_{CO} = 3.2 + 3.3*x_{Tar}$.
+
+Here is an example of inline code. The mean of Distance is 
+`r mean(CommuteAtlanta$Distance)`. 
+
+Fit a linear regression model to predict Commute Time based on Distance in Atlanta. Find the regression model using R.  Write out the model in $y=\beta_0+\beta_1*x$ format, plugging in the $\beta$ estimates. Provide a scatterplot with the regression line added to the plot.  
+                
+```{r}
+commute.lm<-lm(Time~Distance data=CommuteAtlanta)
+```
+
+```{r}
+coef(commute.lm
+```
+
+>What are the errors? Fix then!
+
+Run each code line separately in the follow code chunk.  What happens?  Now run the whole R code chunk (either highlight and run or use the green error to the right)
+```{r}
+plot(CommuteAtlanta$Distance,CommuteAtlanta$Time,xlab="Distance (miles)", ylab="Commute Time (minutes)")
+abline(commute.lm)
+```
