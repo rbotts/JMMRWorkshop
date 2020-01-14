@@ -30,17 +30,22 @@ The aim of this workshop is to introduce the users to beginning and intermediate
 ##Outline {-}
 
 Day 1
+
+
 1. Introduction to R Studio Environment
 2. Introduction to R Markdown and Reproducible Documentation 
-3. Introduction to Statistics using R Markdown 
-3a. Data Visualization (base and ggplot2)
-3b. Statistical Inference (basic inference, central limit theorem, resampling methods) 
+3. Introduction to Statistics using R Markdown
+    + Data Visualization (base and ggplot2)
+    + Statistical Inference (basic inference, central limit theorem, resampling methods) 
 
 Day 2
+
+
 4. Teaching R across the Math and Stat Curriculum 
-4a.Pedagogy for Programming
-4b. Examples, Assignments, and Projects
-4c. Packages for assisting learning (e.g., mosaic, ggformula)
+    + Pedagogy for Programming
+    + Examples, Assignments, and Projects
+    + Packages for assisting learning (e.g., mosaic, ggformula)
+
 5. Teaching students (and you) how to get help in R 
 
 ##Downloading software {-}
@@ -51,7 +56,7 @@ We are excited to meet you next week and support you as you start your journey t
 To get you ready for the minicourse, register for the FREE course [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) and complete the first few modules on how to download and install R, R Studio, and getting started with Projects (~20 minutes).  There is no need to complete the rest of the course unless you want to as only the first three lessons are necessary for the minicourse (though I recommend completing it at some point).  One of the great things about R is the vibrant online community and abundance of free resources to support learning the language so we thought taking advantage of the community built resources would be a great way to welcome you to R.  
 
 
-If you are using a tablet or perhaps you computer just doesn’t have the memory for more programs (just like our students!) sign up for an account with [](https://rstudio.cloud) which provides free access to the RStudio environment through your internet browser.
+If you are using a tablet or perhaps you computer just doesn’t have the memory for more programs (just like our students!) sign up for an account with [https://rstudio.cloud](https://rstudio.cloud) which provides free access to the RStudio environment through your internet browser.
 
 
 If anyone has issues getting R/RStudio installed prior to the minicourse, Ryan and I will be in the workshop room at 8:30am the first day to help troubleshoot any issues.
