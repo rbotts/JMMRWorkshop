@@ -12,7 +12,7 @@ R works best with "tidy data".  There are three interrelated rules which make a 
 2. Each observation must have its own row.  
 3. Each value must have its own cell.  
 
-[R for Data Science](Images/tidy/tidy-1.png)
+[R for Data Science](Images/tidy/tidy-1.png)  
 
 
 Most data does not start out "tidy".  Fortunately, the `tidyverse` was designed to help with the process of turning messy data into tidy data.  Packages such as `dplyr`, `tidyr`, `lubridate`, `forcats`, and `stringr` allow the user to clean up data and eventually turn it into nice and tidy data.  
@@ -42,7 +42,7 @@ In addition to navigating the shape of the data, there are often fun surprises w
 
 
 ### Example - Cleaning the Tesla Data
-The Tesla data was actually "tidy" in format, but had a lot of dates (in multiple formats) and strings that needed some massaging.  Here is what I did (more could be done!) to get the data ready for your use.
+The Tesla data was actually "tidy" in format, but had a lot of dates (in multiple formats) and strings that needed some massaging.  Here is what I did (more could be done!) to get the data ready for your use.  Here is the [original data](Data/TeslaBatterySurvey2018.csv)
 
 ```{r}
 library(readr)
