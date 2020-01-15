@@ -9,7 +9,6 @@ For students and first time users, R can be scary because it is different from m
 Here is some encouragement from the creator of RStudio and the tidyverse himself:  
 
 > It's easy when you start out programming to get really frustrated and think, "oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case.  Everyone gets frustrated.  I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again. ~Hadley Wickham  
-
 Also, here is a [great video of Hadley Wickham on Twitter](https://twitter.com/i/status/1022057084802748416) discussing the initial stages of learning R programming. 
 
 Students will need encouragement (just as you will) to persevere.  Once the power of R is realized, especially for reproducibility, students tend to want to learn more!
@@ -114,17 +113,13 @@ When first teaching the Central Limit Theorem I enter these while explaining wha
 ```{r eval=FALSE}
 # skewed population
 dataset <- 78-rexp(1000,1/2)
-
 # skewed with not as sharp of a drop off
 dataset = cbind(78-rexp(5000,1/5),78+rexp(200,1/1.1))
-
 # bimodal population
 dataset = c(rnorm(1000,80,20),rnorm(400,10,10))
-
 mean(dataset)
 median(dataset)
 hist(dataset)#,xlim = c(70,80))
-
 k <- 1000					# number of samples
 n <- 50			# sample size
 ran_samples <- matrix(sample(dataset, k*n, replace = TRUE), 
@@ -182,7 +177,6 @@ mean(king$bwt~king$smoker)
 ```
 
 > `argument is not numeric or logical: returning NA[1] NA` 
-
 What does that error message mean?
 
 
@@ -197,7 +191,6 @@ Notice that it states that
 
 > The following objects are masked from package:base:    
 > max, mean, min, prod, range, sample, sum   
-
 Package Mosaic overwrites several of the base package functions with new functions of the same name to make them adaptable to the formula notation. 
 ![](Images/mosaic.png)
 
@@ -306,8 +299,3 @@ You can learn more about the infer package for different tests by reading the [`
 install.packages("swirl")
 library(swirl)
 ```
-
-
-
-
-

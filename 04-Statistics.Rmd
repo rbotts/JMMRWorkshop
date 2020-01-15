@@ -54,7 +54,6 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
 
 > Students often do not recognize that a categorical variable is already summarized and confuse the count/frequency for a quantitative variable rather than a statistic.  
 
-
 ## Visualization using base R graphics
 The base graphics often provide a very simple way for students to get plots quickly and explore data.  We will continue using the `cleanTeslaBattery` data.  Load it now and view it.
 
@@ -72,7 +71,6 @@ The x- and y-axis labels, main title, as well as color can be set using optional
 
 Replacing `boxplot()` with `hist` will give the expected effect.  Try it on one of the other quantitative variables.
 ```{r}
-
 ```
 
 *  Note that histograms have an optional argument to control how many bins called breaks.  Try adding the option 'breaks = 50'
@@ -94,7 +92,6 @@ boxplot(MaxRangeKM ~ SuperchargeFreq, data = cleanTeslaBattery, las = 2)
 
 
 >**Teaching tip** One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
-
 ### Scatterplots
 Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the  `plot` function and replacing the qualitative explanatory variable with a quantitative one.  Let's explore the effect of Mileage (`MileageKM`) and the Maximum Range (`MaxRangeKM`).
 
@@ -121,7 +118,6 @@ plot(MaxRangeKM ~ MileageKM, data = cleanTeslaBattery, col = "darkblue")
 line = lm(MaxRangeKM ~ MileageKM, data = cleanTeslaBattery)
 abline(line, col = "red")
 summary(line)
-
 ```
 
 
@@ -286,7 +282,6 @@ Implement the linear model from before to look at the relationship between the M
 ```{r}
 mod = lm(WattHoursPerKM ~ MileageKM, data = cleanTeslaBattery)
 summary(mod)
-
 ```
 
 We can also easily inspect the residuals by calling the `residual()` function on the model.  Try it:
@@ -305,8 +300,6 @@ lm(sqrt(WattHoursPerKM) ~ MileageKM, data = cleanTeslaBattery)
 Finally, we left out the correlation coefficient.  The call for the correlation coefficient is a little different as it doesn't use relations `cor(x,y, use = "pairwise.complete.obs", method = "pearson")`.  Try the command here for the Mileage and Watt Hours Per KM.
 
 ```{r}
-
-
 ```
 
 Note that the `use` option has been specified to omit pairs of correlations where there is an NA, and the `method` controls the type of correlation.
@@ -341,7 +334,6 @@ Other options like the `conf.level` are described under the help for the functio
 Try computing a 90% confidence interval for the mean `gest`.
 
 ```{r}
-
 ```
 
 ###  Using simulation to teach reinforce concepts
@@ -394,7 +386,6 @@ The measurements in the file are the percent of tumor growth under various drug 
 Construct a graphical summary of your data using one of the tools from earlier.
 
 ```{r}
-
 ```
 
 We will also construct a numerical summaries of each group using the 
@@ -458,11 +449,9 @@ Create a two-way table and a bar plot for these variables.
 cleanTeslaBattery = read.csv("Data/cleanTeslaBattery.csv")
 tbl = table(cleanTeslaBattery$Location,cleanTeslaBattery$Model)
 tbl
-
 ```
 
 ```{r}
-
 ```
 
 Chi-square is as simple as running `chisq.test()` on the two-way table.
@@ -483,7 +472,6 @@ prop.test(c(31,40),c(60,85), alternative = "greater")
 ```
 
 where the first list specifies the counts with the trait in each of the two groups and the second list consists of the sample sizes for each of the two groups.
-
 
 
 

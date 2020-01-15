@@ -19,14 +19,14 @@ View(Tesla)
 ```
 
 
-**Teaching tip**: when first introducing this to students, it is helpful to identify how they can change the name of the file as they frequently download multiple copies of the same file and delete some (???), resulting in default or specified naming in labs not working.  Also, highlight the option for headers or not, as they commonly find ways to change this.
+>Teaching tip: It helps to introduce students to where they can change the name of the variable referring to the data they are reading in and the teach them to check that headers have been selected, if appropriate.
 
 For entry level students, this is an easy way to import data, but it also provides us with an example of the command that we could have manually typed to load the data, and which we can put into our script or notebook document.  We will save this command for use in just a bit.
 
 Without introducing object types or anything advanced, a quick summary of the data can give some useful information and let students know if the data read in as expected.  We will try that command shortly.
 
 
-**Teaching tip** Students with Mac's using Numbers frequently open the files they download using Numbers.  Numbers adds some extra invisibles that will throw errors if the data is then loaded into R.
+>Teaching tip: Students with Mac's using Numbers frequently open the files they download using Numbers.  Numbers adds some extra invisibles that will throw errors if the data is then loaded into R.
 
 
 ## Command line
@@ -51,10 +51,10 @@ mean(Tesla$MileageKM)
 ```
 
 
-**Teaching tip**  this is a useful place to introduce students to case sensitivity and what happens when you forget a parentheses (You can get out of it using the *Esc* key.)
+>Teaching tip:  this is a useful place to introduce students to case sensitivity and what happens when you forget a parentheses (You can get out of it using the *Esc* key.)
 
 
-**Programmer's note**: R treats columns in a dataframe much like dictionaries in Python, as well as using matri notation like Python, Java or Matlab.  Aside from the "$" operator, one can reference the row or column using numbers or names (if they have them)  The code below computes the standard deviation of the same column.
+>Programmer's note: R treats columns in a dataframe much like dictionaries in Python, as well as using matri notation like Python, Java or Matlab.  Aside from the "$" operator, one can reference the row or column using numbers or names (if they have them)  The code below computes the standard deviation of the same column.
 
 ```{r}
 sd(Tesla[,"MileageKM"])
@@ -62,9 +62,9 @@ sd(Tesla[,"MileageKM"])
 
 **Practice** Try the histogram function `hist` and the boxplot function `boxplot` on one of the quantitative variables.
 
-**Teaching tip** When teaching R to introductory students, make it accessible as a go to tool for completing homework the first day.
+>Teaching tip: When teaching R to introductory students, make it accessible as a go to tool for completing homework the first day.
 
-**Teaching tip**  When importing data, frequently students will select the *readr* option.  In many cases this won't matter, but readr reads the data in as a tibble instead of a data frame. In many cases students won't notice, but because of data structure of the tibble object, there are cases where downstream analysis will not behave the same, so for simplicity the base option is often easier.  However, for more advanced users, tibble are often very helpful.
+>Teaching tip:  When importing data, frequently students will select the *readr* option.  In many cases this won't matter, but readr reads the data in as a tibble instead of a data frame. In many cases students won't notice, but because of data structure of the tibble object, there are cases where downstream analysis will not behave the same, so for simplicity the base option is often easier.  However, for more advanced users, tibble are often very helpful.
 
 For intro students to make it their go to tool, they often need a calculator for their homework, show how it can be done easily.  Here we show how to input your own data and do some basic computations on it.
 ```{r}
@@ -73,7 +73,7 @@ median(dat)
 ```
 Note that the command `c()` specifies a list that is assigned to the variable `dat` that can then be used for calculation later.
 
-**Teaching tip**  Intro. students often have a difficult time grasping that variable names are just a reference they are giving to something an that they can call that thing later on, so I often have them practice calling variables and renaming variables to help them overcome this.
+>Teaching tip:  Intro. students often have a difficult time grasping that variable names are just a reference they are giving to something an that they can call that thing later on, so I often have them practice calling variables and renaming variables to help them overcome this.
 
 ## Scripts and Notebooks
 
@@ -89,7 +89,7 @@ Note that the *cars* variable here is a pre-installed dataset that comes with R 
 
 
 
-**Teaching tip** Remind students to test what they have saved.  I find that often they may run something at the command line and forget to save it, so their code won't run from a clean workspace the next time.
+>Teaching tip: Remind students to test what they have saved.  I find that often they may run something at the command line and forget to save it, so their code won't run from a clean workspace the next time.
 
 ***
 **Question** When would students want to use the command line over a notebook or a script?
@@ -100,5 +100,5 @@ RStudio provides easy features for package management.  The lower right-hand win
 ![Packages in RStudio](Images/RStudioPackages.png)
 The packages listed are currently installed, while others may be installed using the *Install* option.  Note that when you are ready to use a package you must also load it using the `library()` function.  Try loading the *ggplot2* package, which we will be using later in this workshop.
 
-**Teaching Tip** Students often forget that the workspace and the variables in it use memory, so encourage them to clean up unused items in the workspace.  This is also a good reason to use a notebook, when a notebook is knit it is executed from an empty workspace.
+>Teaching Tip: Students often forget that the workspace and the variables in it use memory, so encourage them to clean up unused items in the workspace.  
 
