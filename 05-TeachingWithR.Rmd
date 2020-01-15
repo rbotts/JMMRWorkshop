@@ -139,7 +139,7 @@ hist(sample_means, xlim = c(20,100))
 
 ### Base R vs. Packages for Learning  
 
-There are a lot of options in base R, but often they can be clunky and a bit of a challenge for students.  Download the [Packages for Learning Notebook](Practice Notebooks/09-Packages_for_Learning.Rmd)
+There are a lot of options in base R, but often they can be clunky and a bit of a challenge for students.  Download the [Packages for Learning Notebook](PracticeNotebooks/JMMPractice-Packages_for_Learning.Rmd)
 
 Let's look at an example (you can find the data called `KingCounty2011.csv` in [linked here](Data/KingCounty2001.csv): In 2001, a sample of 2500 births from King County, Washington contained information on both the mother and the infant at birth.
 ```{r}
