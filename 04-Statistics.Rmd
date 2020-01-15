@@ -49,7 +49,8 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
     - A variable can be mapped to more than one aesthetic  
     - Not all mappings make sense 
 
-> Students often do not recognize that a categorical variable is already summarized and confuse the count/frequency for a quantitative variable rather than a statistic.
+> Students often do not recognize that a categorical variable is already summarized and confuse the count/frequency for a quantitative variable rather than a statistic.  
+
 
 ### Visualization using base R graphics
 The base graphics often provide a very simple way for students to get plots quickly and explore data.  We will continue using the `cleanTeslaBattery` data.  Load it now and view it.
@@ -146,11 +147,9 @@ We can also add a legend and a location with the options
 Try adding them to your plot.
 
 
-Note, there are many options for the placement of the legend other than “topright” that
-you may want to use if the legend overlaps your bars. These include “bottomright”,
-“bottom”, “bottomleft”, “left”, “topleft”, “top”, “topright”, “right”, and “center.”
+Note, there are many options for the placement of the legend other than “topright” that you may want to use if the legend overlaps your bars. These include “bottomright”, “bottom”, “bottomleft”, “left”, “topleft”, “top”, “topright”, “right”, and “center.”
 
-Set the main title and colors (the number of colors should be the same as the number of rows in the table).  A quick way to get the number of colors is to count the number of levels of a factor.  You can replace the count with `length(levels(vblname))`, and substitute your 'vblname`.  
+Set the main title and colors (the number of colors should be the same as the number of rows in the table).  A quick way to get the number of colors is to count the number of levels of a factor.  You can replace the count with `length(levels(vblname))`, and substitute your `vblname`.    
 
 
 A bar plot for a single variable can be accomplished by only passing in one variable.  Try it on one of the other categorical variables.
