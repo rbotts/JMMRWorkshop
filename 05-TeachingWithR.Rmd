@@ -53,6 +53,8 @@ In class, access to technology can be limited and students often need to share c
 
 #### Deciphering Errors  
 
+Here is the notebook to follow along with [DecipheringErrorsPractice.Rmd](PracticeNotebooks/DecipheringErrors.Practice.Rmd)
+
 One of the biggest challenges students experience in learning to use R are error messages.  They may experience error messages in several ways:  
 
 1. Warnings when code still produces output  
