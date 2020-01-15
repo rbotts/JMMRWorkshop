@@ -2,7 +2,7 @@
 
 ![Twitter @Allison_Horst](Images/rmarkdown_wizards.png)
 
-[Introduction to R.Rmd](PracticeNotebooks/Introduction_to_Rmarkdown_Notebook.Rmd)  
+[Introduction to R.Rmd](PracticeNotebooks/JMMPractice_Introduction_to_Rmarkdown_Notebook.Rmd)  
 
 ## R, RStudio, and RMarkdown
 
