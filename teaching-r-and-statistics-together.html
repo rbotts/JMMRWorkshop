@@ -24,7 +24,7 @@
 <meta name="author" content="Judith E. Canner &amp; Ryan Botts" />
 
 
-<meta name="date" content="2020-01-14" />
+<meta name="date" content="2020-01-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -128,7 +128,8 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </ul></li>
 <li class="chapter" data-level="3.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#visualization-using-base-r-graphics"><i class="fa fa-check"></i><b>3.2</b> Visualization using base R graphics</a><ul>
 <li class="chapter" data-level="3.2.1" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#histograms-and-boxplots"><i class="fa fa-check"></i><b>3.2.1</b> Histograms and boxplots</a></li>
-<li class="chapter" data-level="3.2.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#bar-graphs"><i class="fa fa-check"></i><b>3.2.2</b> Bar graphs</a></li>
+<li class="chapter" data-level="3.2.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#scatterplots"><i class="fa fa-check"></i><b>3.2.2</b> Scatterplots</a></li>
+<li class="chapter" data-level="3.2.3" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#bar-graphs"><i class="fa fa-check"></i><b>3.2.3</b> Bar graphs</a></li>
 </ul></li>
 <li class="chapter" data-level="3.3" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#what-is-a-package"><i class="fa fa-check"></i><b>3.3</b> What is a package?</a></li>
 <li class="chapter" data-level="3.4" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#package-ggplot2"><i class="fa fa-check"></i><b>3.4</b> Package ggplot2</a><ul>
@@ -284,29 +285,33 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p>The base graphics often provide a very simple way for students to get plots quickly and explore data. We will continue using the <code>cleanTeslaBattery</code> data. Load it now and view it.</p>
 <div id="histograms-and-boxplots" class="section level3">
 <h3><span class="header-section-number">3.2.1</span> Histograms and boxplots</h3>
-<p>One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is <code>mean</code>, if you want a boxplot, the command is ‘boxplot’.</p>
-<p>Run the command ‘boxplot(cleanTeslaBattery$MaxRangeKM)’. You should get the following:</p>
+<p>One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is <code>mean</code>, if you want a boxplot, the command is <code>boxplot</code>.</p>
+<p>Run the command <code>boxplot(cleanTeslaBattery$MaxRangeKM)</code>. You should get the following:</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(cleanTeslaBattery<span class="op">$</span>MaxRangeKM)</code></pre></div>
 <p><img src="figures/unnamed-chunk-7-1.png" width="672" /> The x- and y-axis labels, main title, as well as color can be set using optional variables, xlab, ylab, main and color, respectively. Modify your command to <code>boxplot(cleanTeslaBattery$MaxRangeKM, xlab = &quot;All&quot;, ylab = &quot;KM&quot;, main = &quot;Max Range&quot;, col = &quot;green&quot;)</code>. R has many other colors built in and also accepts hexadecimals. Search the web to find some other possible colors to modify your graph.</p>
 <p>Replacing <code>boxplot()</code> with <code>hist</code> will give the expected effect. Try it on one of the other quantitative variables.</p>
 <ul>
-<li>Note that histograms have an optional argument to control how many bins called breaks. Try adding the option ‘breaks = 50’</li>
-<li>Set the number of breaks to 5, notice anything strange?</li>
-<li>Set your histogram to another color</li>
+<li><p>Note that histograms have an optional argument to control how many bins called breaks. Try adding the option ‘breaks = 50’</p></li>
+<li><p>Set the number of breaks to 5, notice anything strange?</p></li>
+<li><p>Set your histogram to another color</p></li>
 </ul>
 <p>One other feature that is nice is that comparisons between quantitative variables can easily be done as well. Suppose we want to compare the maximum range based on how frequently they supercharge their batteries. Enter the command</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>SuperchargeFreq, <span class="dt">data =</span> cleanTeslaBattery, <span class="dt">las =</span> <span class="dv">2</span>)</code></pre></div>
 <p><img src="figures/unnamed-chunk-9-1.png" width="672" /></p>
 <ul>
 <li>Note the relational notation <code>y ~ x</code></li>
-<li>In many functions we can specify the data set to avoid extra typing</li>
-<li>The <code>las</code> argument specifies turning the axis labels 90 degrees</li>
-<li>The optional axis labels are as before</li>
-<li>Colors can still be specified, but now we need a list of colors, one for each box. Add the optional argument <code>col = heat.colors(8)</code>. Note you must specify one for each category. There are many color palettes. You can view some with the command <code>?colors</code>.</li>
+<li><p>In many functions we can specify the data set to avoid extra typing</p></li>
+<li><p>The <code>las</code> argument specifies turning the axis labels 90 degrees</p></li>
+<li><p>The optional axis labels are as before</p></li>
+<li><p>Colors can still be specified, but now we need a list of colors, one for each box. Add the optional argument <code>col = heat.colors(8)</code>. Note you must specify one for each category. There are many color palettes. You can view some with the command <code>?colors</code>.</p></li>
 </ul>
 <blockquote>
-<p><strong>Teaching tip</strong> One of the most common problems students run into here is not putting the variables in the correct order in the ‘y ~ x’ ### Scatterplots Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the <code>plot</code> function and replacing the qualitative explanatory variable with a quantitative one. Let’s explore the effect of Mileage (<code>MileageKM</code>) and the Maximum Range (<code>MaxRangeKM</code>).</p>
+<p>Teaching tip: One of the most common problems students run into here is not putting the variables in the correct order in the ‘y ~ x’</p>
 </blockquote>
+</div>
+<div id="scatterplots" class="section level3">
+<h3><span class="header-section-number">3.2.2</span> Scatterplots</h3>
+<p>Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the <code>plot</code> function and replacing the qualitative explanatory variable with a quantitative one. Let’s explore the effect of Mileage (<code>MileageKM</code>) and the Maximum Range (<code>MaxRangeKM</code>).</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">plot</span>(MaxRangeKM <span class="op">~</span><span class="st"> </span>MileageKM, <span class="dt">data =</span> cleanTeslaBattery, <span class="dt">col =</span> <span class="st">&quot;darkblue&quot;</span>)</code></pre></div>
 <p><img src="figures/unnamed-chunk-10-1.png" width="672" /></p>
 <p>Note that the type of point can be controlled using the optional <code>pch = 2</code> command and changing the number for different point types. Color and labels are done as before. Try adjusting your colors and labeling your plot.</p>
@@ -349,7 +354,7 @@ F-statistic: 0.9262 on 1 and 1336 DF,  p-value: 0.336</code></pre>
 <p>The correlation can be computed using the <code>cor</code> function. Look up how to use it using <code>?cor</code> and try it.</p>
 </div>
 <div id="bar-graphs" class="section level3">
-<h3><span class="header-section-number">3.2.2</span> Bar graphs</h3>
+<h3><span class="header-section-number">3.2.3</span> Bar graphs</h3>
 <p>Categorical data isn’t much harder, but does require a preprocessing step for base graphics. Let’s create a boxplot of the Supercharging Frequency. We will go straight to grouped bar plots. Let’s summarize the relationship between supercharging frequency and the location. This is done in three steps:</p>
 <ol style="list-style-type: decimal">
 <li>tabulate (using <code>table</code>, stored as <code>tble</code>)</li>
@@ -415,7 +420,7 @@ ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span c
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">ggplot</span>(<span class="dt">data=</span>tesla) <span class="op">+</span><span class="st"> </span>
 <span class="st">  </span><span class="kw">geom_point</span>(<span class="dt">mapping=</span><span class="kw">aes</span>(<span class="dt">x=</span>BatteryAgeDays, <span class="dt">y=</span>MileageSinceNewKM), <span class="dt">color=</span><span class="st">&quot;blue&quot;</span>)</code></pre></div>
 <p><img src="figures/unnamed-chunk-19-1.png" width="672" /></p>
-<p>There are a lot of resources available, including a the <a href="Documents/ggplot2%20Cheatsheet.pdf">“ggplot2 Cheatsheet”</a></p>
+<p>There are a lot of resources available, including a the <a href="Documents/ggplot2_Cheatsheet.pdf">“ggplot2 Cheatsheet”</a></p>
 <p><strong>Your Turn 2</strong> Make the following density plot, using the Cheatsheet to help you. What does the plot tell you about the Tesla driver habits in different regions?</p>
 <p><img src="figures/unnamed-chunk-20-1.png" width="672" /></p>
 <div id="layering-graphics" class="section level3">
@@ -436,7 +441,7 @@ ptable =<span class="st"> </span><span class="kw">prop.table</span>(tble,<span c
 <div id="statistical-inference" class="section level2">
 <h2><span class="header-section-number">3.5</span> Statistical Inference</h2>
 <p>In this section we will cover some of the basic tools for statistical inference covered in an introductory statistics class.</p>
-<p>A notebook to work along is found <a href="PracticeNotebooks/InferenceNotebook.RMD">here</a></p>
+<p>A notebook to work along is found in <a href="PracticeNotebooks/InferenceNotebook.RMD">notebook for inference</a></p>
 <div id="linear-regression" class="section level3">
 <h3><span class="header-section-number">3.5.1</span> Linear Regression</h3>
 <p>Let’s go back to the Tesla Battery Data from earlier. We did linear regression when we added the regression line earlier, but now we will explore some of the other available tools with regression.</p>
@@ -492,7 +497,7 @@ Coefficients:
 </div>
 <div id="t-tests" class="section level3">
 <h3><span class="header-section-number">3.5.2</span> t-tests</h3>
-<p>Here is a very quick overview of t-tests. We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County. Load the dataset</p>
+<p>Here is a very quick overview of t-tests. We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County. We will use data on (King County births.)[Data/KingCounty2001.csv]</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">Kings &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&quot;Data/KingCounty2001.csv&quot;</span>) </code></pre></div>
 <p>Take a look at the relationship between <code>smoker</code> and <code>wgain</code>.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(wgain <span class="op">~</span><span class="st"> </span>smoker, <span class="dt">data =</span> Kings )</code></pre></div>

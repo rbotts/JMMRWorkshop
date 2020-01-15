@@ -58,12 +58,12 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
 The base graphics often provide a very simple way for students to get plots quickly and explore data.  We will continue using the `cleanTeslaBattery` data.  Load it now and view it.
 
 ### Histograms and boxplots
-One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is `mean`, if you want a boxplot, the command is 'boxplot'.
+One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is `mean`, if you want a boxplot, the command is `boxplot`.
 ```{r include=FALSE}
 cleanTeslaBattery <- read.csv("Data/cleanTeslaBattery.csv")
 ```
 
-Run the command 'boxplot(cleanTeslaBattery$MaxRangeKM)'.  You should get the following:
+Run the command     `boxplot(cleanTeslaBattery$MaxRangeKM)`.  You should get the following:
 ```{r}
 boxplot(cleanTeslaBattery$MaxRangeKM)
 ```
@@ -74,7 +74,9 @@ Replacing `boxplot()` with `hist` will give the expected effect.  Try it on one 
 ```
 
 *  Note that histograms have an optional argument to control how many bins called breaks.  Try adding the option 'breaks = 50'
+
 *  Set the number of breaks to 5, notice anything strange?
+
 *  Set your histogram to another color
 
 
@@ -85,14 +87,19 @@ boxplot(MaxRangeKM ~ SuperchargeFreq, data = cleanTeslaBattery, las = 2)
 
 *  Note the relational notation `y ~ x`
 *  In many functions we can specify the data set to avoid extra typing
+
 *  The `las` argument specifies turning the axis labels 90 degrees
+
 *  The optional axis labels are as before
+
 *  Colors can still be specified, but now we need a list of colors, one for each box.  Add the optional argument `col = heat.colors(8)`.  Note you must specify one for each category.  There are many color palettes.  You can view some with the command `?colors`. 
 
 
 
->**Teaching tip** One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
+>Teaching tip: One of the most common problems students run into here is not putting the variables in the correct order in the 'y ~ x'
+
 ### Scatterplots
+
 Scatterplots follow a very similar syntax as doing side-by-side boxplots, but using the  `plot` function and replacing the qualitative explanatory variable with a quantitative one.  Let's explore the effect of Mileage (`MileageKM`) and the Maximum Range (`MaxRangeKM`).
 
 ```{r}
@@ -154,6 +161,7 @@ Set the main title and colors (the number of colors should be the same as the nu
 A bar plot for a single variable can be accomplished by only passing in one variable.  Try it on one of the other categorical variables.
 
 ## What is a package?
+
 Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library. R comes with a standard set of packages, called the base package. Others are available for download and installation.   
 ![CC RStudio](Images/dataviz/packagesdiagram.png)
 
@@ -228,7 +236,7 @@ ggplot(data=tesla) +
 ```
 
 
-There are a lot of resources available, including a the ["ggplot2 Cheatsheet"](Documents/ggplot2 Cheatsheet.pdf)
+There are a lot of resources available, including a the ["ggplot2 Cheatsheet"](Documents/ggplot2_Cheatsheet.pdf)
 
 **Your Turn 2**  Make the following density plot, using the Cheatsheet to help you.  What does the plot tell you about the Tesla driver habits in different regions?
 
@@ -262,7 +270,7 @@ If you’ve mastered the basics and want to learn more, read [ggplot2: Elegant G
 
 In this section we will cover some of the basic tools for statistical inference covered in an introductory statistics class.
 
-A notebook to work along is found [here](PracticeNotebooks/InferenceNotebook.RMD)
+A notebook to work along is found in [notebook for inference](PracticeNotebooks/InferenceNotebook.RMD)
 
 ### Linear Regression
 
@@ -305,7 +313,7 @@ Finally, we left out the correlation coefficient.  The call for the correlation 
 Note that the `use` option has been specified to omit pairs of correlations where there is an NA, and the `method` controls the type of correlation.
 
 ### t-tests
-Here is a very quick overview of t-tests.  We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County.  Load the dataset
+Here is a very quick overview of t-tests.  We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County.  We will use data on (King County births.)[Data/KingCounty2001.csv]
 ```{r }
 Kings <- read.csv("Data/KingCounty2001.csv") 
 ```
