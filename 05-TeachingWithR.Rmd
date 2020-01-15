@@ -1,7 +1,7 @@
 #R across the curriculum
 ##Pedagogy for Programming
 
-![Twitter @Allison_Horst](r_first_then.png)
+![Twitter @Allison_Horst](Images/r_first_then.png)
 
 ### Why is R so scary?
 For students and first time users, R can be scary because it is different from most of the technology we engage with daily.  Our smartphones and operating systems are structured to make us passive users of technology - the programs makes many of the decisions for us.  In contrast, R can only do what it is told and the instructions provided must be exact (including punctuation, capitalization, and grammar). The challenges of learning programming often lead students to think they are simply not programmers.  Just as we have to quash the "I'm not a math person" myth, we must also quash the "I'm not a programmer" myth.  
