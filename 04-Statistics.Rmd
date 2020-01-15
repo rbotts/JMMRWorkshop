@@ -55,10 +55,10 @@ A data visualization is a set of visual **geometries** whose **aesthetics** are 
 > Students often do not recognize that a categorical variable is already summarized and confuse the count/frequency for a quantitative variable rather than a statistic.  
 
 
-### Visualization using base R graphics
+## Visualization using base R graphics
 The base graphics often provide a very simple way for students to get plots quickly and explore data.  We will continue using the `cleanTeslaBattery` data.  Load it now and view it.
 
-#### Histograms and boxplots
+### Histograms and boxplots
 One wonderful thing about R is how intuitive the functions are, if you want a mean, the command is `mean`, if you want a boxplot, the command is 'boxplot'.
 ```{r include=FALSE}
 cleanTeslaBattery <- read.csv("Data/cleanTeslaBattery.csv")
@@ -158,18 +158,18 @@ Set the main title and colors (the number of colors should be the same as the nu
 A bar plot for a single variable can be accomplished by only passing in one variable.  Try it on one of the other categorical variables.
 
 ## What is a package?
-Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library. R comes with a standard set of packages, called the base package. Others are available for download and installation. 
+Packages are collections of R functions, data, and compiled code in a well-defined format. The directory where packages are stored is called the library. R comes with a standard set of packages, called the base package. Others are available for download and installation.   
 ![CC RStudio](Images/dataviz/packagesdiagram.png)
 
-Packages that are curated, maintained, and reviewed are stored on the CRAN (Comprehensive R Archive Network).
+Packages that are curated, maintained, and reviewed are stored on the CRAN (Comprehensive R Archive Network).  
 ![CC RStudio](Images/dataviz/cran.png)
 
-Once installed, packages have to be loaded into the session to use the functions stored within the package. 
+Once installed, packages have to be loaded into the session to use the functions stored within the package.   
 ![CC RStudio](Images/dataviz/Rpackages.png)
 
 If you ever need R to do something that is not obvious, there is probably a package for that.  Many packages also provide vignettes or publish background and examples in the [Journal of Statistical Software](https://www.jstatsoft.org/index).
 
-One of the more popular packages of packages is the `tidyverse`, which includes packages such as `dplyr`, `ggplot2`, and `readr` which make using R for data cleaning, graphics, and data science.  We will explore a few of these packages today, starting with `ggplot2` and the grammar of graphics.
+One of the more popular packages of packages is the `tidyverse`, which includes packages such as `dplyr`, `ggplot2`, and `readr` which make using R for data cleaning, graphics, and data science.  We will explore a few of these packages today, starting with `ggplot2` and the grammar of graphics.  
 
 ## Package ggplot2
 
