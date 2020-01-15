@@ -106,6 +106,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#welcome"><i class="fa fa-check"></i>Welcome</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#purpose"><i class="fa fa-check"></i>Purpose</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#outline"><i class="fa fa-check"></i>Outline</a></li>
+<li class="chapter" data-level="0.1" data-path="index.html"><a href="index.html#data-and-notebooks"><i class="fa fa-check"></i><b>0.1</b> Data and Notebooks</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#downloading-software"><i class="fa fa-check"></i>Downloading software</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#who-we-are"><i class="fa fa-check"></i>Who we are</a></li>
 </ul></li>
@@ -497,7 +498,7 @@ Coefficients:
 </div>
 <div id="t-tests" class="section level3">
 <h3><span class="header-section-number">3.5.2</span> t-tests</h3>
-<p>Here is a very quick overview of t-tests. We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County. We will use data on (King County births.)[Data/KingCounty2001.csv]</p>
+<p>Here is a very quick overview of t-tests. We are going to take a look at the difference in weight gain be smoking and non-smoking mothers in Kings County. We will use data on <a href="Data/KingCounty2001.csv">King County births.</a></p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">Kings &lt;-<span class="st"> </span><span class="kw">read.csv</span>(<span class="st">&quot;Data/KingCounty2001.csv&quot;</span>) </code></pre></div>
 <p>Take a look at the relationship between <code>smoker</code> and <code>wgain</code>.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">boxplot</span>(wgain <span class="op">~</span><span class="st"> </span>smoker, <span class="dt">data =</span> Kings )</code></pre></div>
@@ -692,7 +693,7 @@ X-squared = 254.16, df = 69, p-value &lt; 2.2e-16</code></pre>
 <pre><code>
     1-sample proportions test with continuity correction
 
-data:  23 out of 120
+data:  23 out of 120, null probability 0.15
 X-squared = 1.3235, df = 1, p-value = 0.125
 alternative hypothesis: true p is greater than 0.15
 95 percent confidence interval:
