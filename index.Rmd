@@ -10,7 +10,8 @@ description: A short workshop in R.
 
 ---
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, comment="", message = FALSE, warning = FALSE)
+knitr::opts_chunk$set(echo = TRUE, comment="", message = FALSE, warning = FALSE, fig.path = "figures/")
+
 
 # enter bookdown::render_book("index.Rmd", "bookdown::gitbook") to convert to book)
 ```
@@ -47,6 +48,11 @@ Day 2
     + Packages for assisting learning (e.g., mosaic, ggformula)
 
 5. Teaching students (and you) how to get help in R 
+
+## Data and Notebooks
+Here is a zip file of all of the notebooks and data in a single location, started as a project.
+
+[CompleteWorkshopFiles](Data/RWorkshopProj.zip)
 
 ##Downloading software {-}
 
