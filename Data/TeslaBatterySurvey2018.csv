@@ -1,0 +1,1340 @@
+Location,ManufactureDate,ReadDate,AgeInDays,Model,MileageKM,MileagePerDay,MaxRangeKM,ReplacementBatt,MileageSinceNewKM,Battery AgeDays,WattHoursPerKM,OriginalRangeKM,SuperchargeFreq,MaxChargeFreq,RunToEmptyFreq,DailyChargeLevel,Cycles
+UK,29-Jun-15,13-Aug-15,45,Model S 85,2800,60.9,246,No,2800,46,323,249,twice a month,monthly,once or twice a year,80%,11.74
+UK,21-May-14,23-Oct-15,520,Model S 60,10500,20.2,180,No,10500,521,353,180,once or twice a year,a few times a year,once or twice a year,70%,63.39
+UK,12-Oct-15,2-Nov-16,387,Model S 85D,34653,89.3,256,No,34653,388,345,267,daily,monthly,a few times a year,90%,156.56
+UK,14-May-15,20-Nov-16,556,Model S 85,45959,82.5,231,No,45959,557,379,249,weekly,once or twice a year,never,70%,231.8
+UK,2-Mar-15,14-Dec-16,653,Model S 85,37895,57.9,238,No,37895,654,358,249,a few times a year,monthly,never,80%,179.03
+UK,20-Jun-16,24-Dec-16,187,Model S 85,16800,89.4,242,No,16800,188,318,249,monthly,a few times a year,never,90%,69.49
+UK,6-Jan-16,25-Apr-17,475,Model S 85D,49129,103.2,266,No,49129,476,320,267,weekly,never,never,80%,201.98
+UK,30-Dec-14,17-Apr-17,839,Model S 85,49900,59.4,239,No,49900,840,323,249,monthly,a few times a year,never,80%,212.27
+UK,17-Mar-17,22-Apr-17,36,Model S 60D,2271,61.4,205,No,2271,37,,207,,,,,
+UK,,18-Aug-17,42965,Model S 75D,3000,,239,No,3000,,305,242,,,,,12.59
+UK,1-Mar-15,4-Oct-17,948,Model S 85,58633,61.8,241,No,58633,949,355,249,monthly,monthly,once or twice a year,80%,273
+UK,5-Oct-15,31-Dec-17,818,Model S 85,25335,30.9,,No,,,332,249,weekly,twice a month,twice a month,80%,
+Canada,2-May-14,12-May-15,375,Model S P85+,29629,78.8,414,No,29629,376,201,433,a few times a year,a few times a year,a few times a year,70%,78.1
+Canada,11-Dec-14,3-Jun-15,174,Model S 85,11896,68,424,No,11896,175,232,433,monthly,once or twice a year,never,90%,35.77
+Canada,6-Aug-13,12-Jun-15,675,Model S 85,73623,108.9,405,No,73623,676,223,433,twice a month,a few times a year,once or twice a year,90%,218.96
+Canada,25-Apr-14,14-Jun-15,415,Model S P85,15425,37.1,408,No,15425,416,194,433,a few times a year,a few times a year,a few times a year,70%,39.78
+Canada,8-Jan-14,27-Jun-15,535,Model S 85,45756,85.4,409,No,45756,536,210,433,a few times a year,a few times a year,never,80%,127.54
+Canada,9-Mar-13,7-Jun-15,820,Model S 85,82059,100,389,No,82059,821,211,433,a few times a year,once or twice a year,never,90%,234.01
+Canada,29-Nov-13,22-Oct-15,692,Model S P85,59365,85.7,414,No,59365,693,233,433,a few times a year,a few times a year,a few times a year,90%,181.39
+Canada,11-Dec-14,27-Oct-15,320,Model S 85,19996,62.3,421,No,19996,321,209,433,monthly,once or twice a year,never,90%,54.36
+Canada,18-Jun-15,7-Nov-15,142,Model S 85D,6900,48.3,428,No,6900,143,209,439,monthly,a few times a year,never,90%,18.73
+Canada,10-Feb-15,4-Dec-15,297,Model S P85D,19985,67.1,408,No,19985,298,225,412,monthly,monthly,once or twice a year,90%,57.95
+Canada,31-Mar-15,4-Dec-15,248,Model S 85D,24027,96.5,415,No,24027,249,189,439,monthly,monthly,never,90%,59.88
+Canada,2-Feb-13,11-Nov-15,1012,Model S 85,70000,69.1,410,No,70000,"1,013",220,433,twice a month,twice a month,a few times a year,90%,202.92
+Canada,20-May-15,13-Dec-15,207,Model S 85D,27000,129.8,430,No,27000,208,195,439,monthly,monthly,once or twice a year,90%,68.22
+Canada,15-Mar-13,9-Sep-15,908,Model S 85,100000,110,406,No,100000,909,227,433,weekly,,,,300.53
+Canada,15-Mar-13,1-Jan-16,1022,Model S 85,109350,106.9,396,No,109350,"1,023",227,433,once or twice a year,a few times a year,a few times a year,90%,332.62
+Canada,18-Jun-15,28-Feb-16,255,Model S 85D,10680,41.7,428,No,10680,256,209,439,monthly,a few times a year,never,90%,29
+Canada,15-Mar-13,22-Apr-16,1134,Model S 85,117272,103.3,401,No,117272,"1,135",243,433,once or twice a year,a few times a year,a few times a year,90%,379.56
+Canada,15-Mar-13,8-Sep-16,1273,Model S 85,132000,103.6,400,No,132000,"1,274",215.12,433,monthly,a few times a year,a few times a year,90%,378.66
+Canada,11-Dec-14,10-Sep-16,639,Model S 85,36474,57,422,No,36474,640,204,433,monthly,once or twice a year,never,90%,96.67
+Canada,1-May-14,12-Oct-16,895,Model S 60,54401,60.7,307,No,54401,896,190,338,a few times a year,monthly,never,80%,185.23
+Canada,18-Jun-15,16-Oct-16,486,Model S 85D,19550,40.1,432,No,19550,487,212,439,monthly,monthly,never,90%,53.59
+Canada,15-Feb-14,31-Oct-16,989,Model S 85D,90000,90.9,428,No,90000,990,214,439,monthly,a few times a year,never,90%,251.72
+Canada,23-Sep-13,4-Nov-16,1138,Model S P85,111001,97.5,398,No,111001,"1,139",212,433,twice a month,a few times a year,once or twice a year,80%,314.57
+Canada,15-Mar-13,28-Nov-16,1354,Model S 85,139000,102.6,388,No,139000,"1,355",243,433,monthly,a few times a year,a few times a year,90%,457.05
+Canada,15-Mar-13,17-Dec-16,1373,Model S 85,140626,102.3,398,No,140626,"1,374",214,433,monthly,a few times a year,a few times a year,90%,402.29
+Canada,18-Jun-15,29-Dec-16,560,Model S 85D,22611,40.3,435,No,22611,561,218,439,a few times a year,a few times a year,never,90%,63.52
+Canada,23-Sep-13,17-Feb-17,1243,Model S P85,120000,96.5,403,No,120000,"1,244",214.58,433,twice a month,a few times a year,once or twice a year,80%,342.14
+Canada,15-Mar-13,18-Mar-17,1464,Model S 85,147433,100.6,382,No,147433,"1,465",214,433,monthly,a few times a year,a few times a year,90%,430.09
+Canada,11-Dec-14,19-Mar-17,829,Model S 85,46800,56.4,420,No,46800,830,211,433,monthly,monthly,never,90%,129.39
+Canada,1-Feb-17,19-Mar-17,46,Model S 60D,572,12.2,351,No,572,47,228,357,a few times a year,monthly,never,90%,2.25
+Canada,28-Dec-16,21-Mar-17,83,Model X 60D,3800,45.2,323,No,3800,84,215,322,twice a month,twice a month,never,80%,13.08
+Canada,15-Mar-13,25-Mar-17,1471,Model S 85,147694,100.3,398,No,147694,"1,472",215,433,monthly,a few times a year,a few times a year,90%,424.48
+Canada,18-Jun-15,7-May-17,689,Model S 85D,27015,39.2,433,No,27015,690,209,439,a few times a year,a few times a year,never,90%,72.91
+Canada,1-May-14,25-Jun-17,1151,Model S 60,64423,55.9,306,No,64423,"1,152",224,338,a few times a year,a few times a year,never,90%,259.01
+Canada,15-Mar-13,4-Jul-17,1572,Model S 85,159750,101.6,400,No,159750,"1,573",220,433,monthly,monthly,a few times a year,90%,468.66
+Canada,18-Jun-15,5-Aug-17,779,Model S 85D,31589,40.5,435,No,31589,780,206,439,a few times a year,a few times a year,never,90%,83.86
+Canada,20-Jul-13,23-Aug-17,1495,Model S P85,60113,40.2,418,No,60113,"1,496",176,433,twice a month,once or twice a year,never,60%,138.98
+Canada,15-Feb-14,6-Sep-17,1299,Model S 60,92242,71,298,No,92242,"1,300",220,338,monthly,monthly,a few times a year,90%,366.61
+Canada,15-Feb-17,29-Oct-17,256,Model S 90D,5704,22.2,469,No,5704,257,197,475,twice a month,monthly,never,60%,13.75
+Canada,15-Feb-17,16-Sep-17,213,Model S 90D,2647,12.4,472,No,2647,214,195,475,twice a month,monthly,never,60%,6.3
+Canada,11-Dec-14,18-Nov-17,1073,Model S 90,53900,50.2,452,Yes,100,2,204,451,monthly,a few times a year,once or twice a year,90%,0.25
+Canada,11-Dec-14,10-Dec-17,1095,Model S 90,56500,51.6,460,Yes,127125,"2,466",208,451,monthly,a few times a year,once or twice a year,80%,320.15
+Canada,1-May-17,18-Dec-17,231,Model X 100D,20690,89.2,475,No,20690,232,271,475,a few times a year,a few times a year,never,80%,56.63
+Canada,1-Nov-13,18-Dec-17,1508,Model S 85,145708,96.6,426,Yes,84996,880,272,433,a few times a year,a few times a year,never,80%,300.78
+Canada,1-May-17,18-Jan-18,262,Model S 75,18700,71.1,389,No,18700,263,215.43,401,a few times a year,a few times a year,never,70%,55.88
+Canada,15-Mar-13,10-Feb-18,1793,Model S 85,178200,99.3,387,No,178200,"1,794",221,433,weekly,monthly,a few times a year,90%,533.55
+Canada,1-Dec-13,12-Apr-18,1593,Model S 85,168130,105.5,392,No,168130,"1,594",215.55,433,monthly,monthly,a few times a year,90%,487.98
+USA,22-Mar-14,8-Apr-14,17,Model S 85,2000,111.1,271,No,2000,18,303,269,monthly,once or twice a year,never,70%,7.79
+USA,22-Mar-14,16-Apr-15,390,Model S 85,21000,53.7,256,No,21000,391,303,269,monthly,once or twice a year,never,70%,84.15
+USA,7-Jun-13,11-May-15,703,Model S P85,43715,62.1,251,No,43715,704,304,269,weekly,a few times a year,once or twice a year,90%,176.36
+USA,28-Feb-15,11-May-15,72,Model S 85D,13679,187.4,269,No,13679,73,324,273,twice a month,twice a month,never,80%,57.25
+USA,7-May-15,28-May-15,21,Model S P85D,1061,48.2,253,No,1061,22,389,256,weekly,never,never,80%,5.36
+USA,1-Apr-13,31-May-15,790,Model S 85,60350,76.3,250,No,60350,791,336,269,,never,,,269.62
+USA,9-Aug-13,31-May-15,660,Model S 85,46335,70.1,252,No,46335,661,318,269,,,,,195.16
+USA,1-May-14,1-May-15,365,Model S 60,24903,68,190,No,24903,366,316,210,twice a month,twice a month,once or twice a year,90%,141.26
+USA,1-Jun-15,2-Jun-15,1,Model S 70D,50,25,240,No,50,2,335,243,a few times a year,once or twice a year,once or twice a year,,0.24
+USA,29-Mar-14,2-Jun-15,430,Model S 85,27744,64.4,261,No,27744,431,329,269,twice a month,a few times a year,never,,118.84
+USA,27-Feb-13,5-Jun-15,828,Model S 60,50300,60.7,199,No,50300,829,298,210,twice a month,twice a month,once or twice a year,80%,263.17
+USA,28-Mar-14,5-Jun-15,434,Model S 60,36800,84.6,178,No,36800,435,300,210,monthly,weekly,a few times a year,90%,204.31
+USA,26-Mar-14,9-Jun-15,440,Model S 85,49700,112.7,253,No,49700,441,321,269,weekly,monthly,a few times a year,80%,210.89
+USA,26-Mar-14,27-Mar-14,1,Model S 85,50,25,271,No,50,2,310,269,,,,,0.2
+USA,5-Feb-13,19-Jun-15,864,Model S 85,32660,37.8,254,No,32660,865,299,269,monthly,a few times a year,a few times a year,90%,129.66
+USA,26-Aug-13,4-Aug-15,708,Model S P85,27319,38.5,258,No,27319,709,294,269,a few times a year,a few times a year,a few times a year,90%,105.83
+USA,18-Oct-14,26-Jun-15,251,Model S 85,25714,102,255,No,25714,252,278,269,monthly,a few times a year,a few times a year,90%,94.71
+USA,29-Mar-14,3-Jul-15,461,Model S 85,32016,69.3,262,No,32016,462,329,269,twice a month,a few times a year,never,,136.87
+USA,30-Jun-15,7-Jul-15,7,Model S 85D,400,50,270,No,400,8,318,273,,,,,1.65
+USA,20-Nov-14,17-Jul-15,239,Model S 60,17200,71.7,191,No,17200,240,311,210,never,a few times a year,a few times a year,90%,95.21
+USA,5-Feb-13,17-Jul-15,892,Model S 85,34622,38.8,254,No,34622,893,299,269,monthly,a few times a year,a few times a year,90%,137.45
+USA,23-May-14,27-Jul-15,430,Model S 85,20240,47,260,No,20240,431,289,269,weekly,a few times a year,never,60%,76.3
+USA,5-Mar-15,29-Jul-15,146,Model S P85D,9100,61.9,254,No,9100,147,316,256,twice a month,monthly,never,90%,37.26
+USA,20-Apr-15,14-Aug-15,116,Model S 85D,12500,106.8,261,No,12500,117,298,273,twice a month,monthly,never,80%,48.85
+USA,15-Nov-14,14-Aug-15,272,Model S 85,13734,50.3,262,No,13734,273,307,269,twice a month,twice a month,once or twice a year,80%,54.79
+USA,5-Feb-13,28-Aug-15,934,Model S 85,36269,38.8,254,No,36269,935,299,269,monthly,a few times a year,a few times a year,90%,143.98
+USA,10-Jun-14,30-Aug-15,446,Model S 60,25500,57,186,No,25500,447,266,210,twice a month,monthly,once or twice a year,80%,123
+USA,1-Dec-14,2-Sep-15,275,Model S 85,12000,43.5,263,No,12000,276,314,269,monthly,twice a month,never,80%,49.18
+USA,15-Apr-13,2-Sep-15,870,Model S 60,28000,32.1,197,No,28000,871,275,210,never,never,a few times a year,70%,135.88
+USA,15-May-15,9-Sep-15,117,Model S 70D,4674,39.6,237,No,4674,118,281,243,twice a month,never,never,90%,19.33
+USA,5-Feb-13,11-Sep-15,948,Model S 85,36771,38.7,253,No,36771,949,299,269,monthly,a few times a year,a few times a year,90%,146.26
+USA,9-Jan-15,9-Nov-15,304,Model S P85,34500,113.1,260,No,34500,305,355,269,monthly,a few times a year,a few times a year,80%,160.74
+USA,2-May-13,14-Sep-15,865,Model S 60,35000,40.4,198,No,35000,866,309,210,,,,90%,190.35
+USA,18-Mar-14,5-Sep-15,536,Model S 85,32000,59.6,264,No,32000,537,334,269,a few times a year,twice a month,once or twice a year,90%,139.23
+USA,31-Dec-12,14-Sep-15,987,Model S P85,35700,36.1,256,No,35700,988,334,269,a few times a year,a few times a year,a few times a year,90%,156.74
+USA,12-Aug-15,24-Aug-15,12,Model S 90D 2015,864,66.5,283,No,864,13,318,280,,,,,3.32
+USA,22-Dec-14,19-Sep-15,271,Model S P85D,19918,73.2,244,No,19918,272,381,256,twice a month,twice a month,monthly,90%,99.66
+USA,7-Jun-13,20-Sep-15,835,Model S P85,51123,61.2,250,No,51123,836,304,269,weekly,a few times a year,once or twice a year,90%,206.65
+USA,12-Dec-14,15-Feb-15,65,Model S P85D,5311,80.5,256,No,5311,66,411,256,weekly,weekly,never,90%,28.17
+USA,12-Dec-14,1-Mar-15,79,Model S P85D,6063,75.8,255,No,6063,80,405,256,weekly,weekly,never,90%,31.75
+USA,12-Dec-14,17-Mar-15,95,Model S P85D,7814,81.4,254,No,7814,96,397,256,weekly,weekly,never,90%,40.19
+USA,12-Dec-14,8-Apr-15,117,Model S P85D,9432,79.9,253,No,9432,118,388,256,weekly,twice a month,never,90%,47.5
+USA,12-Dec-14,10-May-15,149,Model S P85D,11329,75.5,252,No,11329,150,373,256,weekly,twice a month,never,90%,54.96
+USA,12-Dec-14,21-Jun-15,191,Model S P85D,13588,70.8,251,No,13588,192,369,256,weekly,monthly,never,90%,65.34
+USA,12-Dec-14,19-Sep-15,281,Model S P85D,17805,63.1,250,No,17805,282,365,256,weekly,monthly,never,90%,84.86
+USA,15-Mar-15,21-Sep-15,190,Model S 85,11500,60.2,250,No,11500,191,338,269,twice a month,a few times a year,once or twice a year,80%,51.68
+USA,1-Sep-15,11-Oct-15,40,Model S 90D 2015,975,23.8,283,No,975,41,318,280,a few times a year,a few times a year,never,90%,3.77
+USA,5-Feb-13,22-Oct-15,989,Model S 85,39139,39.5,252,No,39139,990,298,269,monthly,a few times a year,a few times a year,90%,155.45
+USA,22-Jul-13,21-Oct-15,821,Model S P85+,43337,52.7,250,No,43337,822,332,269,,,,,191.32
+USA,12-Aug-15,2-Nov-15,82,Model S 90D 2015,4696,56.6,268,No,4696,83,316,280,daily,twice a month,once or twice a year,90%,18.43
+USA,11-Jun-14,25-Oct-15,501,Model S 60,16217,32.3,174,No,16217,502,323,210,never,once or twice a year,never,80%,97.41
+USA,26-Mar-14,4-Nov-15,588,Model S 85,61800,104.9,250,No,61800,589,319,269,twice a month,twice a month,once or twice a year,80%,262.12
+USA,3-Feb-14,4-Oct-15,608,Model S 85,22300,36.6,264,No,22300,609,291,269,a few times a year,a few times a year,never,90%,84.54
+USA,12-Sep-12,14-Nov-15,1158,Model S 85,55200,47.6,253,Yes,46484,976,328,269,a few times a year,a few times a year,never,90%,202.81
+USA,1-Sep-15,20-Nov-15,80,Model S 90D 2015,2135,26.4,278,No,2135,81,334,280,a few times a year,once or twice a year,never,90%,8.75
+USA,5-Feb-13,29-Nov-15,1027,Model S 85,39940,38.9,253,No,39940,"1,028",298,269,monthly,a few times a year,a few times a year,90%,158.33
+USA,7-Jun-13,30-Nov-15,906,Model S P85,56544,62.3,251,No,56544,907,302,269,weekly,a few times a year,once or twice a year,90%,226.62
+USA,20-Feb-15,9-Dec-15,292,Model S P85D,12800,43.7,248,No,12800,293,325,256,a few times a year,a few times a year,never,90%,54.54
+USA,26-Nov-12,9-Dec-15,1108,Model S 85,61600,55.5,251,No,61600,"1,109",305,269,a few times a year,twice a month,once or twice a year,90%,250.86
+USA,11-Jun-14,9-Dec-15,546,Model S 60,17679,32.3,178,No,17679,547,323,210,never,once or twice a year,once or twice a year,90%,105.09
+USA,25-Sep-15,10-Dec-15,76,Model S 90D 2015,2132,27.7,274,No,2132,77,317,280,a few times a year,a few times a year,once or twice a year,60%,8.3
+USA,10-Jun-14,9-Dec-15,547,Model S 60,36200,66.1,182,No,36200,548,259,210,weekly,a few times a year,once or twice a year,90%,171.75
+USA,20-Apr-15,7-Dec-15,231,Model S 85D,21000,90.5,261,No,21000,232,323,273,twice a month,twice a month,never,90%,88.95
+USA,7-Jan-13,10-Dec-15,1067,Model S P85+,38000,35.6,258,No,38000,"1,068",332,269,monthly,once or twice a year,monthly,80%,165.2
+USA,28-Nov-12,12-Oct-15,1048,Model S P85,42042,40.1,257,Yes,28028,699,365,269,a few times a year,a few times a year,once or twice a year,80%,135.04
+USA,19-Feb-15,20-Nov-15,274,Model S 85D,9634,35,261,No,9634,275,335,273,,,,,42.33
+USA,12-Aug-15,10-Dec-15,120,Model S 90D 2015,8122,67.1,269,No,8122,121,318,280,,,,,32.01
+USA,22-Dec-14,11-Dec-15,354,Model S P85D,28747,81,242,No,28747,355,379,256,twice a month,twice a month,monthly,90%,143.66
+USA,11-Dec-13,12-Dec-15,731,Model S 85,23298,31.8,265,No,23298,732,321,269,a few times a year,once or twice a year,never,90%,97.25
+USA,20-Aug-13,12-Dec-15,844,Model S P85,30389,36,249,No,30389,845,319,269,monthly,a few times a year,never,70%,129.95
+USA,13-Dec-14,8-Nov-15,330,Model S P85D,16839,50.9,247,No,16839,331,330,256,a few times a year,a few times a year,never,90%,72.55
+USA,15-Mar-15,18-Nov-15,248,Model S 85,9640,38.7,252,No,9640,249,315,269,a few times a year,a few times a year,never,80%,40.22
+USA,28-Aug-15,27-Dec-15,121,Model S 90D 2015,5790,47.5,260,No,5790,122,339,280,a few times a year,a few times a year,never,90%,24.74
+USA,5-Feb-13,5-Jan-16,1064,Model S 85,41800,39.2,252,No,41800,"1,065",298,269,monthly,a few times a year,a few times a year,90%,166.02
+USA,15-Nov-14,29-Jan-16,440,Model S 85,25283,57.3,257,No,25283,441,310,269,twice a month,twice a month,monthly,80%,103.46
+USA,4-Feb-13,31-Jan-16,1091,Model S 60,67736,62,191,No,67736,"1,092",291,210,monthly,a few times a year,once or twice a year,80%,350.86
+USA,28-Nov-12,8-Jan-16,1136,Model S P85,44950,39.5,257,Yes,29967,758,363,269,a few times a year,a few times a year,once or twice a year,80%,143.6
+USA,25-Sep-15,13-Feb-16,141,Model S 90D 2015,4935,34.8,277,No,4935,142,314,280,monthly,a few times a year,once or twice a year,50%,18.93
+USA,5-Feb-13,8-Mar-16,1127,Model S 85,43603,38.7,253,No,43603,"1,128",298,269,monthly,a few times a year,a few times a year,90%,172.85
+USA,5-Feb-13,30-Mar-16,1149,Model S 85,44219,38.5,253,No,44219,"1,150",297,269,monthly,a few times a year,a few times a year,90%,174.7
+USA,20-Aug-13,1-Apr-16,955,Model S P85,32750,34.3,255,No,32750,956,322,269,a few times a year,a few times a year,never,90%,139.74
+USA,19-Feb-15,17-Apr-16,423,Model S 85D,12236,28.9,268,No,12236,424,328,273,a few times a year,a few times a year,never,90%,51.96
+USA,5-Feb-13,21-Apr-16,1171,Model S 85,44883,38.3,254,No,44883,"1,172",297,269,monthly,a few times a year,a few times a year,90%,176.99
+USA,28-Aug-15,27-Apr-16,243,Model S 90D 2015,10780,44.2,267,No,10780,244,339,280,a few times a year,a few times a year,never,90%,45.47
+USA,26-Mar-14,6-May-16,772,Model S 85,73500,95.1,253,No,73500,773,331,269,twice a month,twice a month,a few times a year,80%,323.57
+USA,1-Oct-14,4-May-16,581,Model S P85,34970,60.1,261,No,34970,582,293,269,monthly,monthly,never,90%,134.23
+USA,29-Apr-13,7-May-16,1104,Model S 85,78926,71.4,254,No,78926,"1,105",322,269,twice a week,twice a month,never,90%,337.38
+USA,7-Jun-13,17-May-16,1075,Model S P85,66281,61.6,249,No,66281,"1,076",322,269,weekly,a few times a year,once or twice a year,90%,284.33
+USA,5-Feb-13,3-Jun-16,1214,Model S 85,46559,38.3,254,No,46559,"1,215",297,269,monthly,a few times a year,a few times a year,90%,183.6
+USA,7-Jul-15,6-Jun-16,335,Model S 70D,20506,61,230,No,20506,336,280,243,weekly,monthly,a few times a year,90%,85.76
+USA,3-Mar-16,1-Jul-16,120,Model S 90D,6861,56.7,292,No,6861,121,322,295,twice a month,once or twice a year,never,80%,27.16
+USA,26-Mar-14,1-Jul-16,828,Model S 85,81000,97.7,253,No,81000,829,320,269,weekly,monthly,once or twice a year,80%,342.64
+USA,5-Feb-13,8-Jul-16,1249,Model S 85,48053,38.4,253,No,48053,"1,250",297,269,monthly,a few times a year,a few times a year,90%,189.85
+USA,30-Jun-16,16-Jul-16,16,Model S 90D,812,47.8,294,No,812,17,274,295,once or twice a year,never,never,70%,2.71
+USA,1-Apr-13,16-Jul-16,1202,Model S P85,55562,46.2,252,No,55562,"1,203",360,269,a few times a year,a few times a year,never,90%,264.94
+USA,30-Jun-16,30-Jul-16,30,Model S 90D,1358,43.8,294,No,1358,31,275,295,once or twice a year,never,never,80%,4.55
+USA,1-Apr-13,11-Jun-16,1167,Model S P85,45372,38.8,243,No,45372,"1,168",330,269,a few times a year,once or twice a year,never,60%,201.84
+USA,15-Nov-14,19-Aug-16,643,Model S 85,36967,57.4,256,No,36967,644,312,269,twice a month,monthly,monthly,80%,151.6
+USA,17-Apr-15,19-Aug-16,490,Model S 85D,37951,77.3,261,No,37951,491,341,273,monthly,monthly,once or twice a year,90%,169.71
+USA,7-Jun-13,24-Aug-16,1174,Model S P85,72029,61.3,249,No,72029,"1,175",316,269,twice a week,a few times a year,once or twice a year,90%,303.23
+USA,5-Feb-13,6-Sep-16,1309,Model S 85,49639,37.9,253,No,49639,"1,310",297,269,monthly,a few times a year,a few times a year,90%,196.12
+USA,13-Mar-13,13-Sep-16,1280,Model S 85,50225,39.2,251,No,50225,"1,281",321,269,weekly,monthly,a few times a year,90%,213.98
+USA,28-Aug-15,26-Sep-16,395,Model S 90D 2015,17560,44.3,260,No,17560,396,339,280,a few times a year,a few times a year,never,90%,75.03
+USA,5-Feb-13,6-Oct-16,1339,Model S 85,50510,37.7,252,No,50510,"1,340",297,269,monthly,a few times a year,a few times a year,90%,199.94
+USA,30-Jun-16,11-Oct-16,103,Model S 90D,4330,41.6,300,No,4330,104,271,295,a few times a year,once or twice a year,never,80%,14.23
+USA,20-Aug-13,12-Oct-16,1149,Model S 60,15240,13.3,189,No,15240,"1,150",320,210,a few times a year,twice a month,a few times a year,90%,87.29
+USA,19-Feb-15,25-Oct-16,614,Model S 85D,18642,30.3,268,No,18642,615,323,273,monthly,a few times a year,once or twice a year,90%,77.95
+USA,20-Apr-15,27-Oct-16,556,Model S 85D,50081,89.9,262,No,50081,557,318,273,twice a month,twice a month,never,90%,208.45
+USA,20-Feb-16,20-Oct-16,243,Model S 85D,11000,45.1,275,No,11000,244,299,273,twice a month,a few times a year,never,50%,42.03
+USA,20-Jul-16,20-Oct-16,92,Model S 60,11104,119.4,207,No,11104,93,284,210,a few times a year,weekly,never,90%,53.96
+USA,20-Jul-16,3-Nov-16,106,Model S 60D,5420,50.7,219,No,5420,107,292,222,twice a month,twice a month,never,90%,27.24
+USA,26-Mar-14,4-Nov-16,954,Model S 85,89100,93.3,250,No,89100,955,318,269,weekly,twice a month,monthly,80%,376.73
+USA,26-Oct-13,4-Nov-16,1105,Model S P85,32418,29.3,255,No,32418,"1,106",326,269,a few times a year,monthly,never,80%,140.05
+USA,26-Mar-14,11-Nov-16,961,Model S 85,92600,96.3,250,No,92600,962,327,269,weekly,twice a month,monthly,80%,402.61
+USA,13-Sep-14,3-Nov-16,782,Model S 85,24239,31,259,No,24239,783,313,269,monthly,monthly,never,60%,99.17
+USA,13-Sep-13,25-Nov-16,1169,Model S 85,67000,57.3,243,Yes,59245,"1,035",311,269,monthly,a few times a year,once or twice a year,60%,248.37
+USA,30-Jun-16,30-Nov-16,153,Model S 90D,5995,38.9,298,No,5995,154,273,295,a few times a year,a few times a year,never,80%,19.79
+USA,11-Mar-13,30-Nov-16,1360,Model S P85,49503,36.4,260,No,49503,"1,361",320,269,a few times a year,a few times a year,never,90%,206.65
+USA,28-Sep-13,1-Jan-17,1191,Model S P85,29800,25,254,Yes,39982,"1,599",330,269,monthly,a few times a year,once or twice a year,80%,174.13
+USA,26-Mar-14,2-Jan-17,1013,Model S 85,99872,98.5,250,No,99872,"1,014",322,269,weekly,monthly,monthly,80%,427.59
+USA,7-Jun-13,16-Jan-17,1319,Model S P85,79971,60.6,248,No,79971,"1,320",306,269,twice a week,a few times a year,once or twice a year,90%,326.66
+USA,1-Jan-13,15-Feb-17,1506,Model S 60,45500,30.2,201,No,45500,"1,507",319,210,daily,daily,a few times a year,100%,252.08
+USA,19-Aug-16,9-Mar-17,202,Model S P90D,10877,53.6,267,No,10877,203,281,274,a few times a year,once or twice a year,never,80%,37.62
+USA,26-Mar-14,20-Mar-17,1090,Model S 85,111400,102.1,248,No,111400,"1,091",325,269,twice a week,monthly,monthly,80%,483.25
+USA,5-Feb-13,28-Mar-17,1512,Model S 85,55213,36.5,252,No,55213,"1,513",297,269,monthly,a few times a year,a few times a year,90%,218.56
+USA,11-Jun-16,5-Apr-17,298,Model S 75,24846,83.1,233,No,24846,299,302,249,twice a week,a few times a year,twice a month,80%,105.28
+USA,9-Feb-15,13-Apr-17,794,Model S 85,25772,32.4,265,No,25772,795,279,269,a few times a year,once or twice a year,never,90%,93.51
+USA,31-Dec-12,14-Apr-17,1565,Model S P85,66000,42.1,244,No,66000,"1,566",346,269,monthly,a few times a year,never,90%,307.23
+USA,31-Dec-14,17-Apr-17,838,Model S P85D,24252,28.9,245,No,24252,839,331,256,never,once or twice a year,never,90%,105.24
+USA,15-Feb-15,18-Apr-17,793,Model S 85D,42798,53.9,261,No,42798,794,287,273,a few times a year,once or twice a year,never,90%,161.09
+USA,5-Feb-13,24-Apr-17,1539,Model S 85,55770,36.2,252,No,55770,"1,540",297,269,monthly,a few times a year,a few times a year,90%,220.76
+USA,19-Aug-16,1-May-17,255,Model S 60,8000,31.3,210,No,8000,256,,210,twice a month,monthly,never,60%,
+USA,15-Dec-12,1-May-17,1598,Model S P85,38010,23.8,261,No,38010,"1,599",330,269,a few times a year,a few times a year,never,90%,163.34
+USA,26-Jul-16,5-Apr-17,253,Model S 75D,20500,80.7,255,No,20500,254,280,262,twice a month,twice a month,never,90%,79
+USA,7-Jun-16,6-May-17,333,Model X 90D,14391,43.1,257,No,14391,334,347,260,twice a month,twice a month,a few times a year,70%,61.41
+USA,20-Sep-16,9-May-17,231,Model S 90D,8444,36.4,260,No,8444,232,,295,twice a month,twice a week,never,,
+USA,7-Jun-13,10-May-17,1433,Model S P85,85063,59.3,247,No,85063,"1,434",307,269,twice a week,a few times a year,once or twice a year,90%,349.26
+USA,11-Sep-14,17-May-17,979,Model S P85,33666,34.4,257,No,33666,980,344,269,a few times a year,never,never,70%,151.94
+USA,5-Feb-17,23-May-17,107,Model S 60D,10654,98.6,218,No,10654,108,270,222,a few times a year,never,never,100%,49.62
+USA,5-Feb-13,23-May-17,1568,Model S 85,56833,36.2,252,No,56833,"1,569",297,269,monthly,a few times a year,a few times a year,90%,224.97
+USA,16-Jan-17,23-May-17,127,Model X 90D,28287,221,256,No,28287,128,358,260,daily,monthly,monthly,90%,123.98
+USA,25-Mar-15,26-May-17,793,Model S 85D,32123,40.5,265,No,32123,794,318,273,,,,,132.97
+USA,26-Jul-16,28-May-17,306,Model S 60D,12340,40.2,217,No,12340,307,325,222,a few times a year,twice a month,once or twice a year,90%,69.35
+USA,3-Feb-14,29-May-17,1211,Model S 60,29814,24.6,178,No,29814,"1,212",318,210,,,,,175.51
+USA,20-Sep-16,30-May-17,252,Model S 60,15000,59.3,208,No,15000,253,,210,monthly,once or twice a year,once or twice a year,90%,
+USA,5-Feb-13,1-Jun-17,1577,Model S 85,57133,36.2,253,No,57133,"1,578",297,269,monthly,a few times a year,a few times a year,90%,225.73
+USA,30-Jun-16,23-Apr-17,297,Model S 90D,12414,41.7,293,No,12414,298,295,295,monthly,a few times a year,never,80%,44.93
+USA,1-Mar-13,5-Jun-17,1557,Model S P85,54297,34.9,255,No,54297,"1,558",330,269,a few times a year,once or twice a year,never,90%,235.98
+USA,5-Feb-13,19-Jun-17,1595,Model S 85,57585,36.1,253,No,57585,"1,596",297,269,monthly,a few times a year,a few times a year,90%,227.52
+USA,1-Mar-16,17-Jun-17,473,Model S 70D,17165,36.2,238,No,17165,474,,243,once or twice a year,once or twice a year,never,80%,
+USA,30-Sep-16,20-Jun-17,263,Model S 75,11536,43.7,238,No,11536,264,297,249,weekly,once or twice a year,once or twice a year,90%,47.88
+USA,30-Sep-16,1-Feb-17,124,Model S 75,3000,24,241,No,3000,125,290,249,twice a month,once or twice a year,once or twice a year,90%,12.08
+USA,15-Apr-14,23-Jul-17,1195,Model S 85,55267,46.2,260,No,55267,"1,196",330,269,a few times a year,a few times a year,never,80%,237.9
+USA,24-May-16,25-Jun-17,397,Model S P90D,23102,58,263,No,23102,398,310,274,twice a month,a few times a year,never,80%,88.81
+USA,30-Jun-16,25-Jun-17,360,Model S 90D,14472,40.1,291,No,14472,361,290,295,twice a month,a few times a year,never,80%,51.67
+USA,27-Jun-16,14-Jul-17,382,Model S 75,13711,35.8,241,No,13711,383,286,249,weekly,monthly,once or twice a year,80%,54.13
+USA,4-Dec-15,14-Jul-17,588,Model S 85,20500,34.8,266,No,20500,589,333,269,monthly,monthly,never,90%,88.05
+USA,5-Feb-13,21-Jul-17,1627,Model S 85,58329,35.8,253,No,58329,"1,628",297,269,monthly,a few times a year,a few times a year,90%,230.46
+USA,30-May-15,30-Jul-17,792,Model S P85D,30538,38.5,249,No,30538,793,303,256,twice a month,monthly,once or twice a year,80%,120.33
+USA,5-Dec-16,31-Jul-17,238,Model S 75D,11252,47.1,250,No,11252,239,365,262,twice a week,twice a month,a few times a year,90%,57.43
+USA,5-Feb-13,11-Aug-17,1648,Model S 85,58983,35.8,253,No,58983,"1,649",297,269,a few times a year,a few times a year,a few times a year,90%,233.04
+USA,14-Dec-16,15-Aug-17,244,Model S 75,7287,29.7,241,No,7287,245,316,249,monthly,never,never,90%,31.78
+USA,28-Oct-12,22-Aug-17,1759,Model S P85,66450,37.8,250,Yes,48195,"1,276",363,269,twice a month,a few times a year,a few times a year,80%,232.64
+USA,26-Mar-14,21-Aug-17,1244,Model S 85,126500,101.6,247,No,126500,"1,245",326,269,twice a week,twice a month,weekly,80%,551.5
+USA,24-Mar-14,13-Jul-17,1207,Model S 85,70566,58.4,251,No,70566,"1,208",324,269,monthly,a few times a year,never,90%,303.42
+USA,1-Dec-12,24-Aug-17,1727,Model S P85,47871,27.7,253,No,47871,"1,728",329,269,twice a month,never,never,90%,208.25
+USA,1-Mar-13,25-Aug-17,1638,Model S 85,95000,58,256,No,95000,"1,639",313,269,twice a month,once or twice a year,never,90%,390.84
+USA,7-Jun-13,3-Sep-17,1549,Model S P85,91282,58.9,245,No,91282,"1,550",307,269,weekly,a few times a year,once or twice a year,90%,376.28
+USA,1-Oct-14,9-Aug-17,1043,Model S 85,47295,45.3,259,No,47295,"1,044",316,269,twice a month,a few times a year,once or twice a year,80%,196.54
+USA,13-Sep-14,8-Sep-17,1091,Model S 85,34428,31.5,257,No,34428,"1,092",315,269,monthly,monthly,never,60%,142.29
+USA,1-Jul-13,10-Sep-17,1532,Model S P85,70109,45.7,249,No,70109,"1,533",403,269,twice a month,monthly,never,90%,378.7
+USA,5-Feb-13,14-Sep-17,1682,Model S 85,59487,35.3,253,No,59487,"1,683",297,269,a few times a year,a few times a year,a few times a year,90%,235.03
+USA,1-Dec-16,29-Sep-17,302,Model S 75D,17351,57.3,244,No,17351,303,365,262,twice a week,monthly,monthly,90%,89.61
+USA,10-May-17,10-Oct-17,153,Model S 75,5500,35.7,240,No,5500,154,265,249,twice a month,a few times a year,a few times a year,80%,20.16
+USA,30-Jun-16,10-Oct-17,467,Model S 90D,20649,44.1,287,No,20649,468,279,295,twice a month,a few times a year,never,80%,71.37
+USA,29-Nov-16,19-May-17,171,Model S 90D,5000,29.1,291,No,5000,172,263,295,a few times a year,a few times a year,never,90%,16.09
+USA,29-Nov-16,24-Aug-17,268,Model S 90D,10000,37.2,284,No,10000,269,263,295,a few times a year,a few times a year,never,90%,32.57
+USA,15-Jan-16,8-Oct-17,632,Model S 90D,46000,72.7,272,No,46000,633,367,295,twice a week,twice a month,monthly,90%,214.78
+USA,1-Jan-17,30-Oct-17,302,Model S 75D,18827,62.1,256,No,18827,303,,262,,,,,
+USA,14-Apr-17,1-Nov-17,201,Model S 75D,5451,27,256,No,5451,202,273,262,a few times a year,a few times a year,never,70%,20.45
+USA,17-Jul-13,1-Oct-16,1172,Model S 60,77500,66.1,191,No,77500,"1,173",273,210,,,,,376.61
+USA,5-Feb-13,3-Nov-17,1732,Model S 85,60373,34.8,252,No,60373,"1,733",297,269,a few times a year,a few times a year,a few times a year,90%,238.99
+USA,31-Dec-12,3-Dec-17,1798,Model S 60,82000,45.6,178,No,82000,"1,799",350,210,monthly,monthly,once or twice a year,90%,531.17
+USA,15-Dec-16,3-Dec-17,353,Model S 75,33000,93.2,229,No,33000,354,312,249,monthly,monthly,a few times a year,90%,145.68
+USA,15-Apr-13,10-Dec-17,1700,Model S 85,58070,34.1,244,No,58070,"1,701",321,269,a few times a year,a few times a year,never,90%,250.8
+USA,20-Aug-13,1-Dec-17,1564,Model S 85,91128,58.2,247,No,91128,"1,565",326,269,twice a week,twice a month,never,80%,397.32
+USA,20-Dec-16,14-Dec-17,359,Model S 75D,28583,79.4,252,No,28583,360,,262,monthly,weekly,once or twice a year,90%,
+USA,27-Apr-17,15-Dec-17,232,Model S 60D,8286,35.6,213,No,8286,233,301,222,twice a month,weekly,never,80%,43.26
+USA,15-Jun-17,16-Dec-17,184,Model X 100D,4047,21.9,294,No,4047,185,232,295,weekly,monthly,never,80%,9.57
+USA,9-Aug-13,30-Dec-17,1604,Model S 85,114306,71.2,242,No,114306,"1,605",322,269,twice a week,a few times a year,a few times a year,80%,497.11
+USA,26-Mar-14,2-Jan-18,1378,Model S 85,142000,103,243,No,142000,"1,379",321,269,twice a week,twice a month,a few times a year,80%,614.38
+USA,7-Jun-13,3-Jan-18,1671,Model S P85,96003,57.4,244,No,96003,"1,672",307,269,weekly,a few times a year,once or twice a year,90%,396.5
+USA,5-Feb-13,25-Jan-18,1815,Model S 85,61535,33.9,252,No,61535,"1,816",297,269,a few times a year,a few times a year,a few times a year,90%,243.59
+USA,31-Dec-17,25-Jan-18,25,Model 3 LR,120,4.6,312,No,120,26,230,310,never,never,never,90%,0.35
+USA,30-Jun-16,28-Jan-18,577,Model S 90D,24881,43,288,No,24881,578,283,295,twice a month,a few times a year,never,80%,87.13
+USA,1-Mar-16,1-Jan-18,671,Model X 90D,20362,30.3,242,No,20362,672,375,260,,,,,96.14
+USA,7-Dec-17,13-Feb-18,68,Model X 100D,3405,49.3,295,No,3405,69,400,295,weekly,a few times a year,never,80%,13.76
+USA,14-Sep-16,17-Feb-18,521,Model S 75,28993,55.5,240,No,28993,522,282,249,monthly,a few times a year,never,80%,113.07
+USA,1-Dec-17,20-Feb-18,81,Model X 100D,3690,45,298,No,3690,82,450,295,weekly,twice a month,once or twice a year,80%,16.79
+USA,11-Jan-13,26-Feb-18,1872,Model S 85,88024,47,256,No,88024,"1,873",317,269,weekly,monthly,twice a month,80%,366.78
+USA,30-Jun-16,28-Feb-18,608,Model S 90D,25604,42,288,No,25604,609,284,295,twice a month,a few times a year,never,80%,89.93
+USA,26-Mar-14,20-Feb-18,1427,Model S 85,151000,105.7,242,No,151000,"1,428",322,269,weekly,twice a month,a few times a year,80%,656.66
+USA,7-Dec-17,3-Jan-18,27,Model X 100D,6592,235.4,295,No,6592,28,400,295,twice a week,a few times a year,never,80%,26.63
+USA,20-Oct-17,5-Feb-18,108,Model S 100D,4407,40.4,333,No,4407,109,356,335,a few times a year,once or twice a year,never,80%,15.9
+USA,27-Apr-17,7-Mar-18,314,Model S 75D,11668,37,247,No,11668,315,317,262,twice a month,never,once or twice a year,80%,51.71
+USA,31-Dec-17,8-Mar-18,67,Model 3 LR,662,9.7,312,No,662,68,216,310,never,never,never,90%,1.81
+USA,23-Mar-13,3-Mar-18,1806,Model S P85,85000,47,238,No,85000,"1,807",362,269,a few times a year,a few times a year,a few times a year,90%,421.38
+USA,12-May-17,21-Mar-18,313,Model S 75,14638,46.6,242,No,14638,314,297,249,a few times a year,a few times a year,once or twice a year,90%,59.88
+USA,19-Aug-16,23-Mar-18,581,Model S P90D,26434,45.4,253,No,26434,582,284,274,a few times a year,a few times a year,once or twice a year,70%,94.88
+USA,4-Jun-14,26-Mar-18,1391,Model S 60,31000,22.3,185,No,31000,"1,392",,210,,,,,
+USA,7-Jun-13,28-Mar-18,1755,Model S P85,100112,57,243,No,100112,"1,756",307,269,weekly,a few times a year,once or twice a year,90%,414.29
+USA,10-May-17,29-Mar-18,323,Model S 75,9235,28.5,236,No,9235,324,265,249,twice a month,a few times a year,a few times a year,80%,34.13
+USA,30-Jun-16,8-Apr-18,647,Model S 90D,26566,41,289,No,26566,648,285,295,twice a month,a few times a year,never,80%,93.57
+USA,5-Feb-13,11-Apr-18,1891,Model S 85,61874,32.7,252,No,61874,"1,892",297,269,a few times a year,a few times a year,a few times a year,90%,244.94
+USA,31-Dec-17,11-Apr-18,101,Model 3 LR,1152,11.3,312,No,1152,102,218,310,never,once or twice a year,never,90%,3.18
+USA,31-Dec-12,14-Apr-18,1930,Model S P85,47991,24.9,255,No,47991,"1,931",330,269,a few times a year,a few times a year,once or twice a year,70%,208.6
+USA,1-Sep-16,1-Apr-18,577,Model X 90D,17812,30.8,247,No,17812,578,,260,twice a month,once or twice a year,never,70%,
+USA,9-Feb-15,18-Jan-18,1074,Model S 85,35339,32.9,263,No,35339,"1,075",280,269,monthly,a few times a year,never,70%,129.16
+USA,1-Jun-16,24-Apr-18,692,Model X 90D,37883,54.7,242,No,37883,693,315,260,a few times a year,weekly,a few times a year,80%,150.23
+USA,7-Feb-15,24-Apr-18,1172,Model S 85D,45259,38.6,244,No,45259,"1,173",315,273,a few times a year,once or twice a year,never,70%,193.17
+USA,7-Jul-17,23-Apr-18,290,Model S 100D,5923,20.4,336,No,5923,291,315,335,a few times a year,a few times a year,never,70%,18.82
+USA,2-Apr-18,10-Apr-18,8,Model 3 LR,6,0.7,311,No,6,9,250,310,never,a few times a year,never,80%,0.02
+Asia Pacific & Europe (excl UK),20-Nov-13,18-Sep-14,302,Model S 85,33366,110.1,393,No,33366,303,212,400,twice a month,weekly,once or twice a year,80%,92.09
+Asia Pacific & Europe (excl UK),29-Mar-14,18-Sep-14,173,Model S 85,32000,183.9,392,No,32000,174,218,400,twice a week,twice a month,never,,90.93
+Asia Pacific & Europe (excl UK),24-Jun-14,18-Sep-14,86,Model S 85,7100,81.6,391,No,7100,87,215,400,never,never,never,,19.92
+Asia Pacific & Europe (excl UK),18-Nov-13,18-Sep-14,304,Model S 85,35000,114.8,381,No,35000,305,224,400,never,never,never,,103.64
+Asia Pacific & Europe (excl UK),21-Nov-13,18-Sep-14,301,Unspecified 85 kWh,27000,89.4,381,No,27000,302,229,400,twice a month,twice a month,once or twice a year,,81.33
+Asia Pacific & Europe (excl UK),26-Nov-13,18-Sep-14,296,Model S P85,47352,159.4,377,No,47352,297,218,400,twice a month,twice a month,once or twice a year,90%,136.32
+Asia Pacific & Europe (excl UK),10-Sep-13,19-Sep-14,374,Model S P85,67000,178.7,385,No,67000,375,220,400,twice a month,daily,once or twice a year,100%,193.84
+Asia Pacific & Europe (excl UK),13-Mar-14,19-Sep-14,190,Model S P85+,14977,78.4,395,No,14977,191,245,400,twice a month,twice a month,a few times a year,,47.41
+Asia Pacific & Europe (excl UK),16-Aug-14,20-Sep-14,35,Model S P85,3434,95.4,394,No,3434,36,224,400,never,weekly,never,,9.95
+Asia Pacific & Europe (excl UK),31-Dec-13,21-Sep-14,264,Model S P85,46000,173.6,381,No,46000,265,227,400,weekly,weekly,once or twice a year,,137.35
+Asia Pacific & Europe (excl UK),23-Nov-13,21-Sep-14,302,Model S 60,14995,49.5,284,No,14995,303,207,289,a few times a year,a few times a year,once or twice a year,,53.27
+Asia Pacific & Europe (excl UK),13-Nov-13,22-Sep-14,313,Model S P85,16045,51.1,383,No,16045,314,200,400,never,never,never,,42.32
+Asia Pacific & Europe (excl UK),6-Nov-13,22-Sep-14,320,Model S 85,30650,95.5,383,No,30650,321,207,400,once or twice a year,monthly,never,,83.24
+Asia Pacific & Europe (excl UK),12-Dec-13,23-Sep-14,285,Unspecified 85 kWh,22850,79.9,385,No,22850,286,249,400,monthly,twice a month,never,,74.46
+Asia Pacific & Europe (excl UK),28-May-14,24-Sep-14,119,Model S 85,6053,50.4,392,No,6053,120,216,400,once or twice a year,monthly,once or twice a year,,16.94
+Asia Pacific & Europe (excl UK),10-Dec-13,24-Sep-14,288,Model S P85,73353,253.8,380,No,73353,289,218,400,weekly,never,once or twice a year,,210.6
+Asia Pacific & Europe (excl UK),29-Nov-13,24-Sep-14,299,Model S P85,18200,60.7,381,Yes,18200,300,248,400,monthly,monthly,never,,59.38
+Asia Pacific & Europe (excl UK),26-Mar-14,24-Sep-14,182,Model S P85,19800,108.2,385,No,19800,183,163,400,a few times a year,once or twice a year,never,,42.45
+Asia Pacific & Europe (excl UK),11-Dec-13,24-Sep-14,287,Model S P85,33598,116.7,384,No,33598,288,202,400,twice a month,monthly,once or twice a year,,88.82
+Asia Pacific & Europe (excl UK),26-Sep-13,24-Sep-14,363,Model S 85,49600,136.3,386,No,49600,364,221,400,twice a month,monthly,never,,143.26
+Asia Pacific & Europe (excl UK),23-Nov-13,24-Sep-14,305,Model S 85,17800,58.2,386,No,17800,306,219,400,monthly,monthly,never,,50.95
+Asia Pacific & Europe (excl UK),13-Nov-13,25-Sep-14,316,Model S 60,15300,48.3,285,No,15300,317,231,289,a few times a year,once or twice a year,never,,60.55
+Asia Pacific & Europe (excl UK),19-Sep-13,25-Sep-14,371,Model S 85,39200,105.4,385,No,39200,372,204,400,twice a month,twice a month,never,,105.17
+Asia Pacific & Europe (excl UK),13-Nov-13,25-Sep-14,316,Model S P85+,21530,67.9,388,No,21530,317,225,400,monthly,monthly,a few times a year,,63.47
+Asia Pacific & Europe (excl UK),20-Jun-14,25-Sep-14,97,Model S 85,8598,87.7,388,No,8598,98,235,400,a few times a year,a few times a year,never,,26.34
+Asia Pacific & Europe (excl UK),5-Jun-14,26-Sep-14,113,Model S 85,4397,38.6,392,No,4397,114,215,400,never,monthly,never,,12.25
+Asia Pacific & Europe (excl UK),4-Dec-13,26-Sep-14,296,Unspecified 85 kWh,24000,80.8,382,No,24000,297,207,400,monthly,monthly,a few times a year,,65.27
+Asia Pacific & Europe (excl UK),25-Sep-13,26-Sep-14,366,Unspecified 85 kWh,29481,80.3,385,No,29481,367,214,400,a few times a year,once or twice a year,never,,82.57
+Asia Pacific & Europe (excl UK),4-Jun-14,26-Sep-14,114,Model S P85,6548,56.9,385,No,6548,115,247,400,once or twice a year,monthly,once or twice a year,,21.17
+Asia Pacific & Europe (excl UK),19-Sep-13,26-Sep-14,372,Unspecified 85 kWh,26000,69.7,388,No,26000,373,218,400,monthly,monthly,never,,73.9
+Asia Pacific & Europe (excl UK),14-Nov-13,27-Sep-14,317,Model S 85,22526,70.8,391,Yes,11319,160,235,400,monthly,a few times a year,never,,34.55
+Asia Pacific & Europe (excl UK),13-Sep-13,27-Sep-14,379,Model S P85+,28600,75.3,394,Yes,8230,109,233,400,monthly,a few times a year,once or twice a year,,24.81
+Asia Pacific & Europe (excl UK),7-May-14,27-Sep-14,143,Model S 60,9161,63.6,280,No,9161,144,205,289,never,monthly,never,,32.46
+Asia Pacific & Europe (excl UK),26-Nov-13,28-Sep-14,306,Model S 85,20200,65.8,384,No,20200,307,196,400,a few times a year,a few times a year,never,,52.14
+Asia Pacific & Europe (excl UK),15-Nov-13,30-Sep-14,319,Model S 85,35244,110.1,391,Yes,17710,161,219,400,a few times a year,once or twice a year,never,,50.37
+Asia Pacific & Europe (excl UK),14-Nov-13,1-Oct-14,321,Unspecified 85 kWh,36369,112.9,377,No,36369,322,255,400,monthly,twice a month,once or twice a year,,122.62
+Asia Pacific & Europe (excl UK),6-Dec-13,4-Oct-14,302,Unspecified 85 kWh,25050,82.7,391,No,25050,303,193,400,monthly,once or twice a year,once or twice a year,,62.79
+Asia Pacific & Europe (excl UK),10-Dec-13,4-Oct-14,298,Model S P85,23945,80.1,387,No,23945,299,203,400,twice a month,monthly,a few times a year,,63.45
+Asia Pacific & Europe (excl UK),20-Nov-13,5-Oct-14,319,Model S 85,27000,84.4,382,No,27000,320,209,400,monthly,a few times a year,a few times a year,,74.13
+Asia Pacific & Europe (excl UK),30-Sep-14,6-Oct-14,6,Model S 85,1136,162.3,399,No,1136,7,244,400,weekly,twice a month,never,90%,3.56
+Asia Pacific & Europe (excl UK),4-Dec-13,6-Oct-14,306,Model S P85,21500,70,380,No,21500,307,230,400,weekly,twice a month,never,,65.13
+Asia Pacific & Europe (excl UK),29-Nov-13,6-Oct-14,311,Model S 85,29700,95.2,387,Yes,19161,201,263,400,a few times a year,once or twice a year,once or twice a year,,65.78
+Asia Pacific & Europe (excl UK),31-Dec-13,8-Oct-14,281,Unspecified 85 kWh,21845,77.5,394,No,21845,282,214,400,a few times a year,twice a month,never,,60.48
+Asia Pacific & Europe (excl UK),23-Nov-13,8-Oct-14,319,Unspecified 85 kWh,21600,67.5,385,Yes,14896,221,218,400,monthly,monthly,never,,42.5
+Asia Pacific & Europe (excl UK),26-Nov-13,9-Oct-14,317,Model S 85,33150,104.2,377,No,33150,318,229,400,a few times a year,monthly,once or twice a year,,100.38
+Asia Pacific & Europe (excl UK),4-Dec-13,14-Oct-14,314,Model S P85,34000,107.9,381,No,34000,315,234,400,monthly,twice a month,once or twice a year,,104.65
+Asia Pacific & Europe (excl UK),30-Sep-14,30-Oct-14,30,Model S 85,4517,145.7,394,No,4517,31,244,400,twice a week,weekly,never,90%,14.24
+Asia Pacific & Europe (excl UK),22-Nov-13,1-Nov-14,344,Model S 85,39000,113,377,No,39000,345,202,400,a few times a year,a few times a year,never,,104.17
+Asia Pacific & Europe (excl UK),23-Sep-13,7-Nov-14,410,Model S P85,52000,126.5,381,Yes,39097,309,220,400,twice a month,a few times a year,never,,113.14
+Asia Pacific & Europe (excl UK),26-Sep-13,7-Nov-14,407,Model S 85,54000,132.4,377,No,54000,408,221,400,twice a month,twice a month,never,,157.79
+Asia Pacific & Europe (excl UK),10-Sep-13,10-Nov-14,426,Model S P85,73000,171,379,No,73000,427,218,400,twice a month,daily,once or twice a year,100%,210.9
+Asia Pacific & Europe (excl UK),4-Nov-13,11-Nov-14,372,Model S P85,21000,56.3,379,No,21000,373,218,400,monthly,a few times a year,never,,60.31
+Asia Pacific & Europe (excl UK),11-Apr-14,13-Nov-14,216,Unspecified 85 kWh,12000,55.3,388,No,12000,217,224,400,a few times a year,a few times a year,never,,35.22
+Asia Pacific & Europe (excl UK),16-Aug-14,14-Nov-14,90,Model S P85,8000,87.9,388,No,8000,91,229,400,twice a month,weekly,monthly,,23.85
+Asia Pacific & Europe (excl UK),18-Nov-13,16-Nov-14,363,Model S 85,42000,115.4,380,No,42000,364,223,400,monthly,twice a month,monthly,,123.97
+Asia Pacific & Europe (excl UK),30-Sep-14,22-Nov-14,53,Model S 85,7024,130.1,393,No,7024,54,251,400,weekly,twice a month,never,90%,22.81
+Asia Pacific & Europe (excl UK),4-Dec-13,24-Nov-14,355,Unspecified 85 kWh,32000,89.9,383,No,32000,356,218,400,twice a month,twice a month,once or twice a year,,91.98
+Asia Pacific & Europe (excl UK),10-Sep-13,25-Nov-14,441,Model S P85,74500,168.6,380,No,74500,442,220,400,twice a month,daily,once or twice a year,100%,216.93
+Asia Pacific & Europe (excl UK),25-May-14,26-Nov-14,185,Model S 85,14000,75.3,391,No,14000,186,205,400,weekly,a few times a year,never,,37.27
+Asia Pacific & Europe (excl UK),20-Sep-13,27-Nov-14,433,Unspecified 85 kWh,22507,51.9,383,No,22507,434,223,400,once or twice a year,a few times a year,never,,65.78
+Asia Pacific & Europe (excl UK),23-Nov-13,30-Nov-14,372,Model S 60,19700,52.8,285,No,19700,373,208,289,monthly,a few times a year,once or twice a year,,70.2
+Asia Pacific & Europe (excl UK),26-Mar-14,5-Dec-14,254,Model S P85,24325,95.4,387,No,24325,255,167,400,monthly,a few times a year,never,,53.29
+Asia Pacific & Europe (excl UK),30-Sep-14,11-Dec-14,72,Model S 85,9732,133.3,393,No,9732,73,258,400,twice a month,twice a month,never,90%,32.48
+Asia Pacific & Europe (excl UK),20-Nov-13,15-Dec-14,390,Model S 85,45050,115.2,378,No,45050,391,190,400,weekly,once or twice a year,never,,113.58
+Asia Pacific & Europe (excl UK),18-Nov-13,16-Dec-14,393,Model S 85,45000,114.2,378,No,45000,394,225,400,twice a month,twice a month,monthly,,134.36
+Asia Pacific & Europe (excl UK),13-Dec-14,23-Dec-14,10,Model S 85,950,86.4,394,No,950,11,261,400,twice a month,twice a month,never,,3.2
+Asia Pacific & Europe (excl UK),23-Nov-13,1-Jan-15,404,Model S 85,20500,50.6,378,No,20500,405,219,400,monthly,monthly,never,,59.29
+Asia Pacific & Europe (excl UK),25-Sep-13,3-Jan-15,465,Unspecified 85 kWh,37000,79.4,374,No,37000,466,210,400,twice a month,twice a month,a few times a year,,103.02
+Asia Pacific & Europe (excl UK),28-May-14,6-Jan-15,223,Model S 85,10000,44.6,391,No,10000,224,226,400,once or twice a year,a few times a year,once or twice a year,,29.32
+Asia Pacific & Europe (excl UK),13-Dec-14,15-Jan-15,33,Model S 85,3600,105.9,394,No,3600,34,261,400,weekly,weekly,monthly,,12.14
+Asia Pacific & Europe (excl UK),30-Dec-14,15-Jan-15,16,Model S 85,980,57.6,394,No,980,17,278,400,weekly,monthly,never,,3.52
+Asia Pacific & Europe (excl UK),13-Dec-14,15-Jan-15,33,Model S 85,2650,77.9,393,No,2650,34,253,400,never,monthly,never,,8.67
+Asia Pacific & Europe (excl UK),29-Nov-13,15-Jan-15,412,Model S P85,27876,67.5,381,Yes,27876,413,249,400,twice a month,twice a month,never,,91.19
+Asia Pacific & Europe (excl UK),,15-Jan-15,42019,Unspecified 85 kWh,32080,,380,No,32080,,270,400,,,,,113.93
+Asia Pacific & Europe (excl UK),15-Nov-13,15-Jan-15,426,Model S 85,51700,121.1,389,Yes,35544,294,229,400,monthly,monthly,once or twice a year,,106.5
+Asia Pacific & Europe (excl UK),31-Dec-13,15-Jan-15,380,Model S P85,61500,161.4,373,No,61500,381,223,400,weekly,weekly,monthly,,182.05
+Asia Pacific & Europe (excl UK),26-Sep-13,15-Jan-15,476,Model S 85,59500,124.7,374,No,59500,477,227,400,twice a month,twice a month,once or twice a year,,179.27
+Asia Pacific & Europe (excl UK),10-Sep-13,16-Jan-15,493,Model S P85,84000,170,375,No,84000,494,220,400,twice a month,daily,once or twice a year,100%,246.16
+Asia Pacific & Europe (excl UK),29-Nov-13,16-Jan-15,413,Model S P85,27906,67.4,381,Yes,27906,414,249,400,twice a month,twice a month,never,,91.29
+Asia Pacific & Europe (excl UK),7-May-14,16-Jan-15,254,Model S 60,14267,55.9,272,No,14267,255,216,289,never,monthly,once or twice a year,,53.96
+Asia Pacific & Europe (excl UK),23-Sep-13,17-Jan-15,481,Model S P85,68000,141.1,378,Yes,53332,378,220,400,monthly,a few times a year,never,,154.93
+Asia Pacific & Europe (excl UK),30-Sep-14,17-Jan-15,109,Model S 85,12199,110.9,392,No,12199,110,265,400,twice a month,twice a month,never,80%,41.88
+Asia Pacific & Europe (excl UK),17-Dec-14,18-Jan-15,32,Model S 85,4178,126.6,398,No,4178,33,244,400,weekly,twice a month,never,,13.19
+Asia Pacific & Europe (excl UK),23-Nov-13,18-Jan-15,421,Model S 60,23373,55.4,282,No,23373,422,211,289,twice a month,a few times a year,once or twice a year,,85.36
+Asia Pacific & Europe (excl UK),29-Mar-14,19-Jan-15,296,Model S 85,40670,136.9,385,No,40670,297,218,400,weekly,never,never,,116.6
+Asia Pacific & Europe (excl UK),20-Jun-14,19-Jan-15,213,Model S 85,18500,86.4,381,No,18500,214,240,400,monthly,a few times a year,once or twice a year,,58.33
+Asia Pacific & Europe (excl UK),31-Dec-13,20-Jan-15,385,Unspecified 85 kWh,30000,77.7,384,No,30000,386,221,400,once or twice a year,twice a month,never,,86.88
+Asia Pacific & Europe (excl UK),13-Mar-14,20-Jan-15,313,Model S P85+,23056,73.4,384,No,23056,314,248,400,twice a month,monthly,once or twice a year,,74.83
+Asia Pacific & Europe (excl UK),10-Dec-13,21-Jan-15,407,Model S P85,33000,80.9,384,No,33000,408,209,400,twice a month,monthly,never,,90.83
+Asia Pacific & Europe (excl UK),30-Sep-14,22-Jan-15,114,Model S 85,13425,116.7,391,No,13425,115,265,400,twice a month,twice a month,never,80%,46.14
+Asia Pacific & Europe (excl UK),25-Nov-13,22-Jan-15,423,Model S P85+,36000,84.9,379,No,36000,424,228,400,twice a month,monthly,never,,108.12
+Asia Pacific & Europe (excl UK),13-Sep-13,24-Jan-15,498,Model S P85+,39600,79.4,385,Yes,27309,344,233,400,monthly,monthly,once or twice a year,,83.27
+Asia Pacific & Europe (excl UK),23-Dec-13,25-Jan-15,398,Model S P85,33000,82.7,375,No,33000,399,230,400,twice a month,monthly,monthly,,100.49
+Asia Pacific & Europe (excl UK),26-Sep-13,25-Jan-15,486,Model S 85,63000,129.4,374,No,63000,487,224,400,weekly,twice a month,once or twice a year,,187.09
+Asia Pacific & Europe (excl UK),7-Dec-13,27-Jan-15,416,Unspecified 85 kWh,65065,156,373,No,65065,417,212,400,monthly,twice a month,never,,183.1
+Asia Pacific & Europe (excl UK),14-Nov-13,29-Jan-15,441,Model S 85,32302,73.1,388,Yes,20302,278,238,400,monthly,a few times a year,never,,62.92
+Asia Pacific & Europe (excl UK),26-Nov-13,31-Jan-15,431,Model S 85,45845,106.1,391,No,45845,432,231,400,a few times a year,monthly,a few times a year,,137.36
+Asia Pacific & Europe (excl UK),17-Dec-14,31-Jan-15,45,Model S 85,5500,119.6,395,No,5500,46,250,400,twice a week,monthly,never,,17.74
+Asia Pacific & Europe (excl UK),25-Nov-14,2-Feb-15,69,Model S 85,7330,104.7,391,No,7330,70,245,400,weekly,monthly,never,,23.29
+Asia Pacific & Europe (excl UK),1-Dec-13,2-Feb-15,428,Unspecified 85 kWh,50000,116.6,386,No,50000,429,218,400,never,never,never,,142.46
+Asia Pacific & Europe (excl UK),29-Nov-13,4-Feb-15,432,Model S 85,41000,94.7,375,Yes,32881,347,266,400,a few times a year,once or twice a year,once or twice a year,,115.8
+Asia Pacific & Europe (excl UK),20-Nov-13,6-Feb-15,443,Model S 85,53833,121.2,378,No,53833,444,192,400,weekly,once or twice a year,never,,137.16
+Asia Pacific & Europe (excl UK),22-Nov-13,12-Feb-15,447,Model S 60,33000,73.7,277,No,33000,448,193,289,never,never,never,,110.66
+Asia Pacific & Europe (excl UK),10-Sep-13,13-Feb-15,521,Model S P85,90000,172.4,379,No,90000,522,220,400,twice a month,daily,once or twice a year,100%,260.79
+Asia Pacific & Europe (excl UK),21-Feb-14,14-Feb-15,358,Unspecified 85 kWh,18000,50.1,380,No,18000,359,217,400,once or twice a year,a few times a year,once or twice a year,,51.39
+Asia Pacific & Europe (excl UK),13-Dec-13,14-Feb-15,428,Model S 85,27000,62.9,373,No,27000,429,218,400,twice a month,monthly,a few times a year,,78.14
+Asia Pacific & Europe (excl UK),13-Dec-14,20-Feb-15,69,Model S 85,5500,78.6,399,No,5500,70,260,400,twice a month,twice a month,a few times a year,,18.36
+Asia Pacific & Europe (excl UK),18-Nov-13,20-Feb-15,459,Model S 85,54432,118.3,376,No,54432,460,228,400,twice a month,twice a month,a few times a year,,165.11
+Asia Pacific & Europe (excl UK),23-Dec-13,21-Feb-15,425,Model S 85,33700,79.1,387,No,33700,426,201,400,monthly,a few times a year,never,,88.86
+Asia Pacific & Europe (excl UK),30-Sep-14,23-Feb-15,146,Model S 85,15930,108.4,387,No,15930,147,269,400,twice a month,twice a month,never,80%,55.86
+Asia Pacific & Europe (excl UK),26-Sep-13,25-Feb-15,517,Model S 85,68018,131.3,373,Yes,68018,518,226,400,twice a month,monthly,once or twice a year,,204.05
+Asia Pacific & Europe (excl UK),20-Nov-13,28-Feb-15,465,Model S 85,30100,64.6,380,No,30100,466,242,400,never,never,never,,95.83
+Asia Pacific & Europe (excl UK),4-Jun-14,28-Feb-15,269,Model S 85,37042,137.2,380,No,37042,270,195,400,weekly,monthly,never,,95.6
+Asia Pacific & Europe (excl UK),29-Mar-14,2-Mar-15,338,Model S 85,45650,134.7,385,No,45650,339,218,400,weekly,twice a month,never,,130.88
+Asia Pacific & Europe (excl UK),17-Dec-14,5-Mar-15,78,Model S 85,8452,107,396,No,8452,79,248,400,weekly,monthly,never,,27.02
+Asia Pacific & Europe (excl UK),15-Oct-14,6-Mar-15,142,Model S 85,649,4.5,393,No,649,143,242,400,twice a week,twice a week,never,,2.04
+Asia Pacific & Europe (excl UK),31-Dec-13,7-Mar-15,431,Model S P85,71050,164.5,373,No,71050,432,229,400,weekly,weekly,monthly,,215.97
+Asia Pacific & Europe (excl UK),16-Nov-13,9-Mar-15,478,Unspecified 85 kWh,39000,81.4,378,No,39000,479,222,400,never,never,once or twice a year,,114.19
+Asia Pacific & Europe (excl UK),30-Dec-14,13-Mar-15,73,Model S 85,4400,59.5,394,No,4400,74,256,400,weekly,monthly,never,,14.56
+Asia Pacific & Europe (excl UK),26-Mar-14,16-Mar-15,355,Model S P85,33240,93.4,383,No,33240,356,173,400,twice a month,a few times a year,never,,75.36
+Asia Pacific & Europe (excl UK),4-Dec-13,18-Mar-15,469,Model S P85,50000,106.4,383,No,50000,470,237,400,monthly,twice a month,a few times a year,,156.24
+Asia Pacific & Europe (excl UK),13-Sep-13,18-Mar-15,551,Model S P85+,43500,78.8,392,Yes,26769,340,235,400,a few times a year,a few times a year,once or twice a year,,82
+Asia Pacific & Europe (excl UK),29-Nov-13,20-Mar-15,476,Model S P85,34533,72.4,377,Yes,34533,477,252,400,twice a month,twice a month,never,,114.93
+Asia Pacific & Europe (excl UK),25-Nov-13,20-Mar-15,480,Model S P85+,41000,85.2,374,No,41000,481,228,400,twice a month,twice a month,never,,123.94
+Asia Pacific & Europe (excl UK),7-Dec-13,21-Mar-15,469,Unspecified 85 kWh,72778,154.8,378,No,72778,470,214,400,monthly,twice a month,never,,206.66
+Asia Pacific & Europe (excl UK),14-Nov-13,26-Mar-15,497,Unspecified 85 kWh,51255,102.9,375,No,51255,498,255,400,monthly,twice a month,a few times a year,,173.04
+Asia Pacific & Europe (excl UK),30-Sep-14,29-Mar-15,180,Model S 85,20412,112.8,381,No,20412,181,269,400,twice a month,twice a month,never,70%,72.13
+Asia Pacific & Europe (excl UK),15-Oct-14,29-Mar-15,165,Model S 85,5249,31.6,393,No,5249,166,242,400,twice a week,twice a month,never,,16.44
+Asia Pacific & Europe (excl UK),15-Nov-13,6-Apr-15,507,Model S 85,60588,119.3,378,Yes,46954,394,235,400,weekly,twice a month,a few times a year,,145.52
+Asia Pacific & Europe (excl UK),3/30/15,7-Apr-15,8,Model S P85D,317,35.2,404,No,317,9,225,408,twice a month,twice a month,never,,0.92
+Asia Pacific & Europe (excl UK),14-Nov-13,9-Apr-15,511,Model S 85,38867,75.9,385,Yes,26867,354,239,400,monthly,a few times a year,never,,83.93
+Asia Pacific & Europe (excl UK),20-Jun-14,10-Apr-15,294,Model S 85,27000,91.5,382,No,27000,295,250,400,twice a month,a few times a year,once or twice a year,,88.57
+Asia Pacific & Europe (excl UK),15-Oct-14,11-Apr-15,178,Model S 85,8249,46.1,393,No,8249,179,232,400,twice a week,weekly,never,,24.76
+Asia Pacific & Europe (excl UK),4-Jun-14,12-Apr-15,312,Model S 85,42379,135.4,379,No,42379,313,194,400,weekly,monthly,never,,108.96
+Asia Pacific & Europe (excl UK),26-Sep-13,12-Apr-15,563,Model S 85,74020,131.2,375,Yes,74020,564,225,400,twice a month,twice a month,once or twice a year,,220.5
+Asia Pacific & Europe (excl UK),10-Sep-13,14-Apr-15,581,Model S P85,100000,171.8,380,No,100000,582,218,400,twice a month,daily,once or twice a year,100%,286.76
+Asia Pacific & Europe (excl UK),23-Dec-13,15-Apr-15,478,Model S 85,41000,85.6,384,No,41000,479,202,400,twice a month,a few times a year,never,,109.07
+Asia Pacific & Europe (excl UK),23-Nov-13,15-Apr-15,508,Model S 60,27120,53.3,275,No,27120,509,213,289,twice a month,monthly,never,,101.22
+Asia Pacific & Europe (excl UK),6-Nov-13,16-Apr-15,526,Unspecified 85 kWh,64000,121.4,385,No,64000,527,229,400,twice a month,twice a month,never,,191.55
+Asia Pacific & Europe (excl UK),28-Mar-14,16-Apr-15,384,Unspecified 85 kWh,46000,119.5,383,No,46000,385,216,400,monthly,twice a month,never,,130.36
+Asia Pacific & Europe (excl UK),26-Nov-13,16-Apr-15,506,Model S 85,31618,62.4,378,No,31618,507,200,400,monthly,a few times a year,never,,83.92
+Asia Pacific & Europe (excl UK),3-Apr-15,17-Apr-15,14,Model S P85D,1904,126.9,403,No,1904,15,253,408,weekly,twice a month,never,,6.22
+Asia Pacific & Europe (excl UK),18-Nov-13,18-Apr-15,516,Model S 85,60555,117.1,369,No,60555,517,229,400,twice a month,twice a month,monthly,,185.04
+Asia Pacific & Europe (excl UK),25-Nov-13,19-Apr-15,510,Model S P85+,45800,89.6,374,No,45800,511,230,400,twice a month,twice a month,never,,139.66
+Asia Pacific & Europe (excl UK),23-Dec-13,19-Apr-15,482,Model S P85,40500,83.9,373,No,40500,483,233,400,twice a month,monthly,monthly,,125.27
+Asia Pacific & Europe (excl UK),29-Nov-13,20-Apr-15,507,Model S 85,46000,90.6,378,Yes,35649,394,266,400,monthly,a few times a year,a few times a year,,125.06
+Asia Pacific & Europe (excl UK),26-Mar-14,20-Apr-15,390,Model S P85,35350,90.4,383,No,35350,391,173,400,twice a month,a few times a year,never,,80.64
+Asia Pacific & Europe (excl UK),15-Apr-15,23-Apr-15,8,Model S 85D,550,61.1,403,No,550,9,233,430,weekly,weekly,,,1.7
+Asia Pacific & Europe (excl UK),20-Sep-13,24-Apr-15,581,Model S P85,53600,92.1,376,No,53600,582,210,400,never,never,never,,149.76
+Asia Pacific & Europe (excl UK),7-May-14,26-Apr-15,354,Model S 60,18793,52.9,272,No,18793,355,220,289,never,a few times a year,once or twice a year,,72.39
+Asia Pacific & Europe (excl UK),13-Nov-13,27-Apr-15,530,Model S P85+,31215,58.8,385,No,31215,531,235,400,monthly,monthly,once or twice a year,,96.48
+Asia Pacific & Europe (excl UK),3-Apr-15,28-Apr-15,25,Model S P85D,3272,125.8,406,No,3272,26,246,408,weekly,twice a month,never,,10.41
+Asia Pacific & Europe (excl UK),16-Aug-14,27-Apr-15,254,Model S P85,20539,80.5,378,No,20539,255,244,400,twice a month,twice a month,a few times a year,,66.1
+Asia Pacific & Europe (excl UK),15-Oct-14,29-Apr-15,196,Model S 85,11234,57,389,No,11234,197,228,400,twice a week,monthly,twice a month,,33.31
+Asia Pacific & Europe (excl UK),21-Mar-15,7-May-15,47,Model S 85,8192,170.7,393,No,8192,48,224,400,weekly,twice a month,never,90%,23.74
+Asia Pacific & Europe (excl UK),4-Jun-14,30-Apr-15,330,Model S P85,16011,48.4,383,No,16011,331,273,400,monthly,monthly,a few times a year,,57.28
+Asia Pacific & Europe (excl UK),30-Mar-15,1-May-15,32,Model S P85D,1875,56.8,405,No,1875,33,212,408,twice a month,twice a month,never,80%,5.12
+Asia Pacific & Europe (excl UK),13-Dec-13,4-May-15,507,Model S 85,34786,68.5,382,No,34786,508,218,400,twice a month,monthly,a few times a year,80%,99.51
+Asia Pacific & Europe (excl UK),21-Nov-13,1-May-15,526,Model S 85,36800,69.8,380,No,36800,527,211,400,monthly,once or twice a year,once or twice a year,80%,102.15
+Asia Pacific & Europe (excl UK),23-Sep-13,1-May-15,585,Model S P85,80101,136.7,378,Yes,62101,454,224,400,monthly,a few times a year,once or twice a year,80%,183.45
+Asia Pacific & Europe (excl UK),10-Dec-13,5-May-15,511,Model S P85,45025,87.9,378,No,45025,512,207,400,twice a week,a few times a year,a few times a year,80%,122.92
+Asia Pacific & Europe (excl UK),27-Mar-15,8-May-15,42,Model S P85D,3503,81.5,405,No,3503,43,268,408,twice a month,twice a month,monthly,90%,12.08
+Asia Pacific & Europe (excl UK),3-Apr-15,7-May-15,34,Model S P85D,4144,118.4,406,No,4144,35,244,408,weekly,twice a month,never,80%,13.08
+Asia Pacific & Europe (excl UK),3-Apr-15,10-May-15,37,Model S P85D,5903,155.3,406,No,5903,38,237,408,twice a week,twice a month,never,80%,18.1
+Asia Pacific & Europe (excl UK),13-Sep-13,10-May-15,604,Model S P85+,50000,82.6,390,Yes,33333,403,225,400,monthly,twice a month,once or twice a year,90%,98.02
+Asia Pacific & Europe (excl UK),30-Mar-15,10-May-15,41,Model S P85D,3772,89.8,410,No,3772,42,205,408,twice a week,weekly,once or twice a year,80%,9.95
+Asia Pacific & Europe (excl UK),20-Nov-13,17-May-15,543,Model S 85,71820,132,370,No,71820,544,191,400,twice a week,monthly,never,70%,182.81
+Asia Pacific & Europe (excl UK),26-Sep-13,18-May-15,599,Model S 85,78500,130.8,375,Yes,78500,600,224,400,twice a month,monthly,once or twice a year,90%,232.81
+Asia Pacific & Europe (excl UK),31-Mar-14,19-May-15,414,Model S 85,57500,138.6,375,Yes,57500,415,254,400,twice a week,twice a month,a few times a year,90%,193.36
+Asia Pacific & Europe (excl UK),31-Dec-13,19-May-15,504,Model S P85,80150,158.7,369,No,80150,505,229,400,,,,,244.91
+Asia Pacific & Europe (excl UK),5-Dec-13,14-May-15,525,Model S P85,78527,149.3,372,No,78527,526,218,400,twice a month,a few times a year,never,70%,227.53
+Asia Pacific & Europe (excl UK),26-Dec-14,18-May-15,143,Model S P85,18450,128.1,394,No,18450,144,242,400,twice a week,a few times a year,twice a month,70%,58.05
+Asia Pacific & Europe (excl UK),10-Sep-13,22-May-15,619,Model S P85,105000,169.4,376,No,105000,620,218,400,twice a month,daily,once or twice a year,100%,302.66
+Asia Pacific & Europe (excl UK),30-Mar-15,22-May-15,53,Model S P85D,4815,89.2,409,No,4815,54,208,408,weekly,weekly,never,80%,12.91
+Asia Pacific & Europe (excl UK),27-Mar-15,22-May-15,56,Model S 85D,4700,82.5,405,No,4700,57,222,430,twice a month,monthly,never,90%,13.87
+Asia Pacific & Europe (excl UK),23-Nov-13,26-May-15,549,Model S 60,31000,56.4,277,No,31000,550,210,289,twice a week,weekly,once or twice a year,90%,113.67
+Asia Pacific & Europe (excl UK),4-Jun-14,20-May-15,350,Model S 85,48407,137.9,377,No,48407,351,192,400,twice a week,daily,a few times a year,90%,123.49
+Asia Pacific & Europe (excl UK),4-Jun-14,24-May-15,354,Model S 85,49693,140,378,No,49693,355,192,400,twice a week,,a few times a year,90%,126.61
+Asia Pacific & Europe (excl UK),15-Oct-14,27-May-15,224,Model S 85,14472,64.3,386,No,14472,225,225,400,twice a week,monthly,a few times a year,90%,42.51
+Asia Pacific & Europe (excl UK),24-Jun-14,28-May-15,338,Model S 85,28500,84.1,387,No,28500,339,224,400,a few times a year,monthly,never,90%,83.75
+Asia Pacific & Europe (excl UK),30-Mar-15,27-May-15,58,Model S P85D,5012,84.9,410,No,5012,59,206,408,weekly,weekly,never,80%,13.29
+Asia Pacific & Europe (excl UK),30-Sep-14,18-Apr-15,200,Model S 85,21957,109.2,382,No,21957,201,267,400,a few times a year,twice a month,never,70%,76.92
+Asia Pacific & Europe (excl UK),30-Sep-14,25-May-15,237,Model S 85,25069,105.3,381,No,25069,238,265,400,a few times a year,twice a month,never,70%,87.27
+Asia Pacific & Europe (excl UK),26-Nov-13,18-May-15,538,Model S 85,60476,112.2,384,Yes,41741,372,230,400,a few times a year,a few times a year,a few times a year,70%,125.64
+Asia Pacific & Europe (excl UK),29-Nov-13,29-May-15,546,Model S P85,42850,78.3,378,Yes,42850,547,250,400,twice a week,twice a month,once or twice a year,90%,141.29
+Asia Pacific & Europe (excl UK),13-Dec-14,29-May-15,167,Model S 85,12440,74,388,No,12440,168,250,400,monthly,twice a month,once or twice a year,90%,40.49
+Asia Pacific & Europe (excl UK),3-Apr-15,29-May-15,56,Model S P85D,6832,119.9,403,No,6832,57,237,408,weekly,twice a month,never,80%,21.02
+Asia Pacific & Europe (excl UK),11-Dec-13,31-May-15,536,Model S 85,26000,48.4,378,No,26000,537,239,400,monthly,monthly,a few times a year,90%,81.97
+Asia Pacific & Europe (excl UK),26-Sep-13,4-Jun-15,616,Model S 85,81000,131.3,375,Yes,81000,617,223,400,monthly,twice a month,a few times a year,90%,239.15
+Asia Pacific & Europe (excl UK),3-Apr-15,4-Jun-15,62,Model S P85D,7882,125.1,403,No,7882,63,237,408,twice a week,twice a month,never,80%,24.26
+Asia Pacific & Europe (excl UK),30-Mar-15,9-Jun-15,71,Model S P85D,5579,77.5,410,No,5579,72,205,408,weekly,weekly,never,80%,14.72
+Asia Pacific & Europe (excl UK),17-Dec-14,29-May-15,163,Model S 85,17000,103.7,390,No,17000,164,233,400,monthly,a few times a year,never,80%,51.44
+Asia Pacific & Europe (excl UK),17-Dec-14,6-Jun-15,171,Model S 85,17500,101.7,388,No,17500,172,233,400,monthly,a few times a year,never,80%,53.09
+Asia Pacific & Europe (excl UK),14-Apr-15,10-Jun-15,57,Model S 85,3400,58.6,401,No,3400,58,225,400,never,twice a month,never,,9.8
+Asia Pacific & Europe (excl UK),20-Nov-13,9-Jun-15,566,Model S 85,76550,135,378,No,76550,567,190,400,twice a week,monthly,never,70%,193
+Asia Pacific & Europe (excl UK),6-Nov-13,11-Jun-15,582,Model S 60,37069,63.6,275,No,37069,583,213,289,never,a few times a year,a few times a year,80%,137.5
+Asia Pacific & Europe (excl UK),25-Nov-13,12-Jun-15,564,Model S P85+,54000,95.6,384,No,54000,565,220,400,a few times a year,weekly,never,80%,155.47
+Asia Pacific & Europe (excl UK),19-Nov-13,12-Jun-15,570,Model S 85,60000,105.1,388,No,60000,571,217,400,twice a month,weekly,once or twice a year,80%,170.58
+Asia Pacific & Europe (excl UK),17-Dec-14,12-Jun-15,177,Model S 85,19015,106.8,388,No,19015,178,233,400,monthly,a few times a year,never,80%,57.69
+Asia Pacific & Europe (excl UK),27-Mar-15,13-Jun-15,78,Model S 85D,6950,88,403,No,6950,79,220,430,twice a month,monthly,never,90%,20.37
+Asia Pacific & Europe (excl UK),26-Mar-14,13-Jun-15,444,Model S P85,38128,85.7,384,No,38128,445,173,400,twice a month,a few times a year,never,80%,86.87
+Asia Pacific & Europe (excl UK),30-Mar-15,20-Jun-15,82,Model S P85D,7339,88.4,410,No,7339,83,203,408,weekly,weekly,once or twice a year,80%,19.18
+Asia Pacific & Europe (excl UK),15-Oct-14,29-Jun-15,257,Model S 85,18412,71.4,382,No,18412,258,223,400,weekly,monthly,a few times a year,80%,53.88
+Asia Pacific & Europe (excl UK),20-Nov-13,28-Jun-15,585,Model S 85,80840,138,383,No,80840,586,189,400,twice a week,monthly,never,70%,201.45
+Asia Pacific & Europe (excl UK),10-Sep-13,29-Jun-15,657,Model S P85,111000,168.7,372,No,111000,658,218,400,twice a month,daily,once or twice a year,100%,321.62
+Asia Pacific & Europe (excl UK),19-May-15,26-Jun-15,38,Model S 60,2300,59,286,No,2300,39,200,289,monthly,monthly,never,80%,7.86
+Asia Pacific & Europe (excl UK),22-Nov-13,7-Jul-15,592,Model S 85,63372,106.9,375,No,63372,593,203,400,a few times a year,a few times a year,never,90%,171.37
+Asia Pacific & Europe (excl UK),11-Dec-14,11-Jul-15,212,Model S 85,48500,227.7,385,No,48500,213,225,400,daily,twice a month,once or twice a year,80%,143.51
+Asia Pacific & Europe (excl UK),24-Jun-14,19-Jul-15,390,Model S 85,52221,133.6,382,No,52221,391,225,400,monthly,a few times a year,once or twice a year,90%,155.12
+Asia Pacific & Europe (excl UK),10-Sep-13,29-Jul-15,687,Model S P85,120000,174.4,372,No,120000,688,218,400,twice a month,daily,once or twice a year,100%,347.69
+Asia Pacific & Europe (excl UK),3-Apr-15,30-Jul-15,118,Model S P85D,11053,92.9,396,No,11053,119,237,408,twice a month,twice a month,never,70%,34.31
+Asia Pacific & Europe (excl UK),30-Mar-15,2-Aug-15,125,Model S P85D,9484,75.3,409,No,9484,126,200,408,twice a month,monthly,once or twice a year,80%,24.45
+Asia Pacific & Europe (excl UK),26-Feb-13,31-Jul-15,885,Model S P85,63067,71.2,379,No,63067,886,200,400,never,,,,166.15
+Asia Pacific & Europe (excl UK),26-Mar-14,1-Aug-15,493,Model S P85,41924,84.9,384,No,41924,494,171,400,twice a month,a few times a year,never,80%,94.41
+Asia Pacific & Europe (excl UK),15-Oct-14,8-Aug-15,297,Model S 85,25412,85.3,381,No,25412,298,220,400,weekly,monthly,a few times a year,90%,73.45
+Asia Pacific & Europe (excl UK),3-Apr-15,8-Aug-15,127,Model S P85D,11403,89.1,395,No,11403,128,236,408,twice a month,monthly,never,70%,35.29
+Asia Pacific & Europe (excl UK),3-Apr-15,9-Aug-15,128,Model S P85D,11743,91,394,No,11743,129,235,408,twice a month,monthly,never,70%,36.23
+Asia Pacific & Europe (excl UK),23-Nov-13,9-Aug-15,624,Model S 60,35900,57.4,276,No,35900,625,209,289,twice a week,a few times a year,once or twice a year,70%,130.44
+Asia Pacific & Europe (excl UK),,31-Jul-15,42216,Model S 85,13200,,384,No,13200,,197,400,,,,,34.03
+Asia Pacific & Europe (excl UK),30-Dec-14,11-Aug-15,224,Model S 85,11500,51.1,394,No,11500,225,230,400,weekly,a few times a year,once or twice a year,70%,34.18
+Asia Pacific & Europe (excl UK),19-Sep-13,11-Aug-15,691,Model S 85,77500,112,382,Yes,77500,692,238,400,twice a month,monthly,once or twice a year,90%,243.51
+Asia Pacific & Europe (excl UK),7-Jul-15,11-Aug-15,35,Model S 85,5650,156.9,399,No,5650,36,205,400,twice a week,twice a month,once or twice a year,90%,14.87
+Asia Pacific & Europe (excl UK),23-Dec-13,9-Aug-15,594,Model S P85,52500,88.2,373,No,52500,595,233,400,a few times a year,a few times a year,a few times a year,90%,162.39
+Asia Pacific & Europe (excl UK),26-Sep-13,12-Aug-15,685,Model S 85,90600,132.1,378,Yes,90600,686,219,400,monthly,twice a month,a few times a year,90%,263.29
+Asia Pacific & Europe (excl UK),5-Jun-15,12-Aug-15,68,Model S 85D,18650,270.3,398,No,18650,69,207,430,twice a week,twice a month,never,90%,51.43
+Asia Pacific & Europe (excl UK),26-Nov-13,12-Aug-15,624,Model S P85,102000,163.2,362,Yes,86475,530,215,400,twice a month,monthly,once or twice a year,80%,250.37
+Asia Pacific & Europe (excl UK),30-Sep-14,11-Aug-15,315,Model S 85,31500,99.7,376,No,31500,316,262,400,monthly,twice a month,once or twice a year,80%,109.13
+Asia Pacific & Europe (excl UK),31-Dec-13,12-Aug-15,589,Model S P85,94500,160.2,370,No,94500,590,218,400,,,,,274.53
+Asia Pacific & Europe (excl UK),13-Nov-13,13-Aug-15,638,Model S P85+,37900,59.3,382,No,37900,639,226,400,twice a month,a few times a year,once or twice a year,60%,113.09
+Asia Pacific & Europe (excl UK),14-Aug-15,15-Aug-15,1,Model S 70D,300,150,339,No,300,2,187,365,,twice a month,twice a month,90%,0.84
+Asia Pacific & Europe (excl UK),15-Aug-15,16-Aug-15,1,Model S 70D,130,65,336,No,130,2,208,365,,,,,0.41
+Asia Pacific & Europe (excl UK),4-Jun-14,24-Jul-15,415,Model S 85,60689,145.9,374,No,60689,416,189,400,weekly,a few times a year,a few times a year,90%,152.99
+Asia Pacific & Europe (excl UK),4-Jun-14,31-Jul-15,422,Model S 85,61228,144.7,376,No,61228,423,189,400,weekly,a few times a year,a few times a year,90%,153.95
+Asia Pacific & Europe (excl UK),4-Jun-14,1-Aug-15,423,Model S 85,62102,146.5,377,No,62102,424,189,400,weekly,a few times a year,a few times a year,90%,155.95
+Asia Pacific & Europe (excl UK),4-Jun-14,4-Aug-15,426,Model S 85,62375,146.1,376,No,62375,427,189,400,weekly,a few times a year,a few times a year,90%,156.84
+Asia Pacific & Europe (excl UK),4-Jun-14,5-Aug-15,427,Model S 85,62465,145.9,377,No,62465,428,189,400,weekly,a few times a year,a few times a year,90%,156.86
+Asia Pacific & Europe (excl UK),4-Jun-14,7-Aug-15,429,Model S 85,62669,145.7,378,No,62669,430,189,400,weekly,a few times a year,a few times a year,90%,157.17
+Asia Pacific & Europe (excl UK),4-Jun-14,9-Aug-15,431,Model S 85,62764,145.3,378,No,62764,432,189,400,weekly,a few times a year,a few times a year,90%,157.41
+Asia Pacific & Europe (excl UK),4-Jun-14,13-Aug-15,435,Model S 85,63103,144.7,379,No,63103,436,189,400,weekly,a few times a year,a few times a year,90%,158.06
+Asia Pacific & Europe (excl UK),30-Nov-13,18-Aug-15,626,Model S 85,54500,86.9,371,Yes,42312,487,265,400,twice a month,a few times a year,a few times a year,90%,149.23
+Asia Pacific & Europe (excl UK),30-Mar-15,15-Aug-15,138,Model S P85D,10843,78,408,No,10843,139,199,408,twice a month,twice a month,a few times a year,80%,27.85
+Asia Pacific & Europe (excl UK),11-Dec-13,18-Aug-15,615,Model S P85,68000,110.4,384,No,68000,616,232,400,twice a month,twice a month,a few times a year,90%,206.46
+Asia Pacific & Europe (excl UK),14-Nov-13,15-Aug-15,639,Model S 85,52619,82.2,381,Yes,40619,494,238,400,twice a month,a few times a year,once or twice a year,90%,127.01
+Asia Pacific & Europe (excl UK),21-Mar-15,19-Aug-15,151,Model S 85,20120,132.4,389,No,20120,152,216,400,monthly,a few times a year,once or twice a year,90%,56.51
+Asia Pacific & Europe (excl UK),19-Jun-15,20-Aug-15,62,Model S 85D,4761,75.6,402,No,4761,63,227,430,a few times a year,a few times a year,a few times a year,90%,14.33
+Asia Pacific & Europe (excl UK),20-Nov-13,20-Aug-15,638,Model S 85,88160,138,377,No,88160,639,187,400,twice a week,twice a month,never,70%,219.05
+Asia Pacific & Europe (excl UK),23-Dec-13,24-Aug-15,609,Model S 85,49500,81.1,378,No,49500,610,200,400,twice a month,a few times a year,never,70%,131.38
+Asia Pacific & Europe (excl UK),26-Nov-13,22-Aug-15,634,Model S 85,70030,110.3,370,Yes,58482,530,223,400,monthly,a few times a year,a few times a year,70%,173.8
+Asia Pacific & Europe (excl UK),24-Jun-15,25-Aug-15,62,Model S 85D,2200,34.9,404,No,2200,63,218,430,a few times a year,a few times a year,never,90%,6.38
+Asia Pacific & Europe (excl UK),24-Jun-14,26-Aug-15,428,Model S 85,60000,139.9,384,No,60000,429,223,400,monthly,a few times a year,once or twice a year,90%,176.19
+Asia Pacific & Europe (excl UK),15-Nov-13,30-Aug-15,653,Model S 85,79470,121.5,359,Yes,79470,654,225,400,a few times a year,a few times a year,once or twice a year,70%,241.76
+Asia Pacific & Europe (excl UK),13-Dec-14,31-Aug-15,261,Model S 85,21956,83.8,386,No,21956,262,225,400,a few times a year,a few times a year,once or twice a year,90%,64.49
+Asia Pacific & Europe (excl UK),23-Nov-13,31-Aug-15,646,Model S 85,31960,49.4,378,No,31960,647,214,400,a few times a year,a few times a year,once or twice a year,80%,90.77
+Asia Pacific & Europe (excl UK),5-Dec-13,1-Sep-15,635,Model S P85,96560,151.8,370,No,96560,636,216,400,monthly,a few times a year,never,60%,277.95
+Asia Pacific & Europe (excl UK),29-Nov-13,4-Sep-15,644,Model S P85,50950,79,379,Yes,50950,645,218,400,,,,,147.21
+Asia Pacific & Europe (excl UK),30-Mar-15,8-Sep-15,162,Model S P85D,13087,80.3,407,No,13087,163,198,408,,,,80%,33.48
+Asia Pacific & Europe (excl UK),3-Apr-15,13-Sep-15,163,Model S P85D,14775,90.1,388,No,14775,164,230,408,twice a month,monthly,never,70%,44.96
+Asia Pacific & Europe (excl UK),15-Oct-14,15-Sep-15,335,Model S 85,31712,94.4,378,No,31712,336,218,400,twice a week,a few times a year,monthly,90%,91.18
+Asia Pacific & Europe (excl UK),22-Nov-13,16-Sep-15,663,Model S 85,69161,104.2,366,No,69161,664,202,400,a few times a year,a few times a year,never,90%,188.29
+Asia Pacific & Europe (excl UK),4-Jun-14,15-Sep-15,468,Model S 85,69239,147.6,365,No,69239,469,187,400,twice a month,a few times a year,a few times a year,90%,174.73
+Asia Pacific & Europe (excl UK),3-Apr-15,17-Sep-15,167,Model S P85D,15007,89.3,388,No,15007,168,233,408,twice a month,monthly,never,70%,46.26
+Asia Pacific & Europe (excl UK),3-Apr-15,17-Sep-15,167,Model S P85D,15237,90.7,389,No,15237,168,233,408,twice a month,monthly,never,70%,46.91
+Asia Pacific & Europe (excl UK),3-Apr-15,17-Sep-15,167,Model S P85D,15471,92.1,389,No,15471,168,234,408,twice a month,monthly,never,70%,47.83
+Asia Pacific & Europe (excl UK),3-Mar-14,21-Sep-15,567,Model S P85+,55125,97.1,365,No,55125,568,239,400,monthly,a few times a year,once or twice a year,80%,177.8
+Asia Pacific & Europe (excl UK),30-Mar-15,17-Sep-15,171,Model S P85D,16302,94.8,406,No,16302,172,197,408,,,,80%,41.55
+Asia Pacific & Europe (excl UK),23-Dec-13,22-Sep-15,638,Model S 85,51815,81.1,375,No,51815,639,198,400,twice a month,a few times a year,never,70%,136.68
+Asia Pacific & Europe (excl UK),15-Oct-14,27-Sep-15,347,Model S 85,33439,96.1,377,No,33439,348,218,400,twice a week,monthly,monthly,90%,96.27
+Asia Pacific & Europe (excl UK),19-Jun-15,25-Sep-15,98,Model S 85D,8414,85,401,No,8414,99,224,430,a few times a year,a few times a year,never,90%,25.02
+Asia Pacific & Europe (excl UK),30-Mar-15,25-Sep-15,179,Model S P85D,18610,103.4,407,No,18610,180,197,408,,,,,47.37
+Asia Pacific & Europe (excl UK),28-Mar-14,26-Sep-14,182,Unspecified 85 kWh,20509,112.1,388,No,20509,183,206,400,monthly,twice a month,never,,55.08
+Asia Pacific & Europe (excl UK),10-Sep-13,30-Sep-15,750,Model S P85,131000,174.4,366,No,131000,751,215,400,twice a month,daily,a few times a year,100%,377.3
+Asia Pacific & Europe (excl UK),19-Dec-14,2-Oct-15,287,Model S 85,9934,34.5,395,No,9934,288,222,400,monthly,a few times a year,once or twice a year,90%,28.65
+Asia Pacific & Europe (excl UK),15-Oct-14,27-Sep-15,347,Model S 85,34041,97.8,377,No,34041,348,218,400,twice a week,weekly,monthly,90%,98
+Asia Pacific & Europe (excl UK),30-Sep-14,3-Oct-15,368,Model S 85,35580,96.4,371,No,35580,369,259,400,a few times a year,monthly,never,80%,122.64
+Asia Pacific & Europe (excl UK),23-Dec-13,1-Oct-15,647,Model S P85,56000,86.4,374,No,56000,648,228,400,a few times a year,a few times a year,a few times a year,90%,169.28
+Asia Pacific & Europe (excl UK),19-Sep-15,5-Oct-15,16,Model S 70D,896,52.7,351,No,896,17,197,365,a few times a year,a few times a year,never,90%,2.6
+Asia Pacific & Europe (excl UK),10-Feb-15,12-Oct-15,244,Model S P85D,16300,66.5,402,No,16300,245,209,408,monthly,monthly,once or twice a year,90%,44.02
+Asia Pacific & Europe (excl UK),6-Dec-13,6-Oct-15,669,Model S P85,67023,100,374,No,67023,670,200,400,weekly,a few times a year,a few times a year,90%,177.72
+Asia Pacific & Europe (excl UK),28-Apr-14,4-Sep-15,494,Model S 85,19000,38.4,388,No,19000,495,195,400,a few times a year,a few times a year,once or twice a year,80%,48.56
+Asia Pacific & Europe (excl UK),19-Sep-15,8-Oct-15,19,Model S 70D,1068,53.4,351,No,1068,20,198,365,a few times a year,a few times a year,never,90%,3.12
+Asia Pacific & Europe (excl UK),31-Dec-13,11-Oct-15,649,Model S P85,100000,153.8,368,No,100000,650,233,400,weekly,twice a month,twice a month,80%,311.3
+Asia Pacific & Europe (excl UK),2-Feb-15,13-Oct-15,253,Model S 85,23000,90.6,389,No,23000,254,203,400,twice a month,a few times a year,never,90%,61.1
+Asia Pacific & Europe (excl UK),5-Jun-15,11-Oct-15,128,Model S 85D,26085,202.2,395,No,26085,129,207,430,weekly,a few times a year,never,90%,72.2
+Asia Pacific & Europe (excl UK),14-Mar-15,18-May-15,65,Model S 85D,5165,78.3,407,No,5165,66,234,430,monthly,monthly,monthly,80%,15.93
+Asia Pacific & Europe (excl UK),14-Mar-15,10-Aug-15,149,Model S 85D,7400,49.3,409,No,7400,150,233,430,monthly,monthly,monthly,80%,22.67
+Asia Pacific & Europe (excl UK),10-Apr-14,19-Oct-15,557,Model S 85,47500,85.1,383,No,47500,558,205,400,twice a month,monthly,once or twice a year,90%,127.61
+Asia Pacific & Europe (excl UK),23-Dec-13,20-Oct-15,666,Model S P85,114400,171.5,375,No,114400,667,204,400,monthly,a few times a year,once or twice a year,80%,308.97
+Asia Pacific & Europe (excl UK),1-Nov-13,20-Oct-15,718,Model S 85,53000,73.7,366,No,53000,719,211,400,monthly,a few times a year,once or twice a year,80%,149.83
+Asia Pacific & Europe (excl UK),30-Oct-13,21-Oct-15,721,Model S P85,92000,127.4,359,No,92000,722,195,400,monthly,a few times a year,once or twice a year,70%,242.56
+Asia Pacific & Europe (excl UK),25-Mar-14,21-Oct-15,575,Model S 60,44780,77.7,256,No,44780,576,200,289,a few times a year,twice a month,monthly,80%,162.4
+Asia Pacific & Europe (excl UK),21-Dec-13,21-Oct-15,669,Model S 85,59000,88.1,372,No,59000,670,227,400,monthly,a few times a year,once or twice a year,90%,179.11
+Asia Pacific & Europe (excl UK),26-Nov-13,21-Oct-15,694,Model S 85,78676,113.2,365,No,78676,695,226,400,a few times a year,a few times a year,once or twice a year,70%,238.51
+Asia Pacific & Europe (excl UK),30-Sep-13,15-Oct-15,745,Model S P85+,40532,54.3,367,No,40532,746,223,400,a few times a year,a few times a year,once or twice a year,70%,121.68
+Asia Pacific & Europe (excl UK),1-Mar-14,21-Oct-15,599,Model S P85,25775,43,384,No,25775,600,209,400,monthly,monthly,never,90%,70.51
+Asia Pacific & Europe (excl UK),10-Mar-14,1-Oct-15,570,Model S 85,43800,76.7,379,No,43800,571,225,400,twice a month,once or twice a year,never,90%,129.81
+Asia Pacific & Europe (excl UK),15-Oct-14,21-Oct-15,371,Model S 85,37896,101.9,375,No,37896,372,218,400,twice a week,weekly,monthly,90%,109.38
+Asia Pacific & Europe (excl UK),14-Nov-13,23-Oct-15,708,Model S 85,59060,83.3,380,Yes,47060,565,236,400,monthly,a few times a year,once or twice a year,90%,146.1
+Asia Pacific & Europe (excl UK),4-Nov-13,22-Oct-15,717,Model S P85,43500,60.6,374,No,43500,718,218,400,a few times a year,a few times a year,a few times a year,80%,125.74
+Asia Pacific & Europe (excl UK),25-Nov-13,23-Oct-15,697,Model S P85+,74000,106,368,No,74000,698,226,400,,,,,223.45
+Asia Pacific & Europe (excl UK),19-Sep-15,24-Oct-15,35,Model S 70D,2611,72.5,351,No,2611,36,210,365,monthly,monthly,never,90%,8.08
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Oct-15,204,Model S P85D,17865,87.1,392,No,17865,205,235,408,twice a month,monthly,never,70%,55.26
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Oct-15,204,Model S P85D,17968,87.6,392,No,17968,205,235,408,twice a month,monthly,never,70%,55.58
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Oct-15,204,Model S P85D,18278,89.2,393,No,18278,205,235,408,twice a month,monthly,never,70%,56.47
+Asia Pacific & Europe (excl UK),30-Dec-14,24-Oct-15,298,Model S 85,14700,49.2,389,No,14700,299,237,400,twice a month,twice a month,a few times a year,70%,45.31
+Asia Pacific & Europe (excl UK),23-Nov-13,24-Oct-15,700,Model S 60,39300,56.1,275,No,39300,701,209,289,twice a week,monthly,twice a month,80%,143.93
+Asia Pacific & Europe (excl UK),4-Jun-14,18-Oct-15,501,Model S 85,74631,148.7,364,No,74631,502,186,400,weekly,,a few times a year,90%,187.58
+Asia Pacific & Europe (excl UK),6-Jun-14,26-Oct-15,507,Model S 85,64000,126,370,No,64000,508,201,400,twice a month,a few times a year,once or twice a year,70%,171.43
+Asia Pacific & Europe (excl UK),19-Sep-15,26-Oct-15,37,Model S 70D,2787,73.3,360,No,2787,38,209,365,twice a month,monthly,never,90%,8.47
+Asia Pacific & Europe (excl UK),13-Sep-13,27-Oct-15,774,Model S P85,64908,83.8,388,No,64908,775,224,400,twice a month,monthly,never,90%,189.31
+Asia Pacific & Europe (excl UK),5-Jan-14,18-Oct-15,651,Model S 85,57000,87.4,379,No,57000,652,197,400,monthly,a few times a year,once or twice a year,80%,148.82
+Asia Pacific & Europe (excl UK),13-Dec-14,21-Oct-15,312,Model S 85,19308,61.7,380,No,19308,313,228,400,a few times a year,a few times a year,never,90%,57.92
+Asia Pacific & Europe (excl UK),6-Dec-13,30-Oct-15,693,Model S P85,69300,99.9,371,No,69300,694,200,400,twice a month,a few times a year,a few times a year,90%,184.47
+Asia Pacific & Europe (excl UK),19-Sep-15,3-Nov-15,45,Model S 70D,3567,77.5,366,No,3567,46,202,365,twice a month,a few times a year,never,90%,10.39
+Asia Pacific & Europe (excl UK),13-May-15,5-Nov-15,176,Model S 85,16840,95.1,385,No,16840,177,204,400,a few times a year,a few times a year,once or twice a year,80%,44.9
+Asia Pacific & Europe (excl UK),19-Sep-15,5-Nov-15,47,Model S 70D,3700,77.1,352,No,3700,48,205,365,twice a month,a few times a year,never,90%,11.16
+Asia Pacific & Europe (excl UK),3-Apr-15,6-Nov-15,217,Model S P85D,19091,87.6,390,No,19091,218,235,408,twice a month,monthly,never,70%,59.2
+Asia Pacific & Europe (excl UK),3-Apr-15,6-Nov-15,217,Model S P85D,19321,88.6,391,No,19321,218,235,408,twice a month,monthly,never,70%,59.84
+Asia Pacific & Europe (excl UK),27-Dec-13,8-Nov-15,681,Model S P85,122100,179,361,No,122100,682,211,400,monthly,monthly,once or twice a year,90%,347.41
+Asia Pacific & Europe (excl UK),13-Nov-13,5-Nov-15,722,Model S 85,60000,83,393,Yes,28000,337,216,400,monthly,once or twice a year,never,90%,78.74
+Asia Pacific & Europe (excl UK),5-Feb-15,9-Nov-15,277,Model S 85D,32161,115.7,393,No,32161,278,206,430,twice a month,a few times a year,never,80%,88.81
+Asia Pacific & Europe (excl UK),1-Feb-15,6-Nov-15,278,Model S 85D,14000,50.2,396,No,14000,279,204,430,monthly,monthly,never,80%,38.15
+Asia Pacific & Europe (excl UK),1-Oct-13,10-Nov-15,770,Model S 85,40108,52,386,No,40108,771,230,400,a few times a year,a few times a year,once or twice a year,80%,120.43
+Asia Pacific & Europe (excl UK),20-Jun-14,17-Aug-15,423,Model S 85,36743,86.7,368,No,36743,424,237,400,monthly,monthly,a few times a year,80%,116.35
+Asia Pacific & Europe (excl UK),26-Sep-13,11-Nov-15,776,Model S 85,99478,128,372,Yes,99478,777,211,400,monthly,a few times a year,once or twice a year,90%,278.99
+Asia Pacific & Europe (excl UK),15-Oct-14,11-Nov-15,392,Model S 85,41628,105.9,376,No,41628,393,218,400,twice a week,monthly,monthly,90%,120
+Asia Pacific & Europe (excl UK),23-Nov-13,12-Nov-15,719,Model S 60,40750,56.6,295,No,40750,720,208,289,twice a week,weekly,a few times a year,80%,143.44
+Asia Pacific & Europe (excl UK),1-Jun-14,12-Nov-15,529,Model S 85,22000,41.5,383,No,22000,530,209,400,weekly,monthly,once or twice a year,80%,60.27
+Asia Pacific & Europe (excl UK),29-Nov-13,12-Nov-15,713,Model S P85,54971,77,370,Yes,52871,687,244,400,a few times a year,a few times a year,once or twice a year,80%,171.93
+Asia Pacific & Europe (excl UK),22-Nov-13,12-Nov-15,720,Model S P85,58000,80.4,372,No,58000,721,245,400,a few times a year,a few times a year,a few times a year,80%,188.88
+Asia Pacific & Europe (excl UK),26-Nov-13,13-Nov-15,717,Model S 85,81614,113.7,361,No,81614,718,228,400,a few times a year,a few times a year,a few times a year,70%,250.94
+Asia Pacific & Europe (excl UK),17-Mar-14,11-Nov-15,604,Model S P85,57000,94.2,382,No,57000,605,198,400,a few times a year,monthly,never,90%,148.09
+Asia Pacific & Europe (excl UK),5-Jun-14,12-Nov-15,525,Model S 85,43123,82,355,No,43123,526,223,400,twice a month,a few times a year,once or twice a year,90%,130.73
+Asia Pacific & Europe (excl UK),19-Sep-15,16-Nov-15,58,Model S 70D,4400,74.6,350,No,4400,59,205,365,twice a month,monthly,never,90%,13.31
+Asia Pacific & Europe (excl UK),20-Sep-14,24-Nov-15,430,Model S 85,26550,61.6,375,No,26550,431,246,400,a few times a year,a few times a year,a few times a year,80%,86.48
+Asia Pacific & Europe (excl UK),4-Jun-14,23-Nov-15,537,Model S 85,81552,151.6,366,No,81552,538,185,400,twice a month,monthly,a few times a year,90%,203.34
+Asia Pacific & Europe (excl UK),15-Nov-13,30-Nov-15,745,Model S 85,24281,32.5,377,No,24281,746,223,400,once or twice a year,once or twice a year,never,80%,71.53
+Asia Pacific & Europe (excl UK),29-Nov-13,30-Nov-15,731,Model S P85,56138,76.7,377,Yes,54038,705,246,400,monthly,a few times a year,a few times a year,80%,176.63
+Asia Pacific & Europe (excl UK),23-Nov-15,24-Nov-15,1,Model S 85D,12,6,420,No,12,2,210,430,monthly,twice a month,never,90%,0.03
+Asia Pacific & Europe (excl UK),19-Aug-15,20-Oct-15,62,Model S 70D,2359,37.4,362,No,2359,63,216,365,twice a week,monthly,never,90%,7.39
+Asia Pacific & Europe (excl UK),19-Aug-15,10-Nov-15,83,Model S 70D,6300,75,367,No,6300,84,223,365,twice a week,monthly,never,90%,20.24
+Asia Pacific & Europe (excl UK),19-Aug-15,3-Dec-15,106,Model S 70D,9199,86,362,No,9199,107,221,365,,,,,29.49
+Asia Pacific & Europe (excl UK),21-Dec-13,5-Dec-15,714,Model S 85,63000,88.1,365,No,63000,715,212,400,twice a month,monthly,once or twice a year,90%,180.25
+Asia Pacific & Europe (excl UK),17-Mar-14,7-Dec-15,630,Model S P85,60000,95.1,379,No,60000,631,199,400,a few times a year,monthly,never,90%,157.28
+Asia Pacific & Europe (excl UK),5-Jun-14,9-Dec-15,552,Model S 85,46500,84.1,374,No,46500,553,222,400,twice a month,a few times a year,a few times a year,90%,136.86
+Asia Pacific & Europe (excl UK),10-Dec-13,9-Dec-15,729,Model S P85,173200,237.3,371,Yes,102506,432,232,400,weekly,twice a week,monthly,90%,318.42
+Asia Pacific & Europe (excl UK),6-Nov-14,9-Dec-15,398,Model S 60,20100,50.4,303,No,20100,399,189,289,monthly,a few times a year,monthly,90%,63.43
+Asia Pacific & Europe (excl UK),14-Aug-15,29-Nov-15,107,Model S 85D,9535,88.3,406,No,9535,108,209,430,a few times a year,a few times a year,a few times a year,70%,26.3
+Asia Pacific & Europe (excl UK),26-Mar-14,10-Dec-15,624,Model S P85,124004,198.4,370,No,124004,625,226,400,twice a week,monthly,a few times a year,90%,375.73
+Asia Pacific & Europe (excl UK),31-Dec-13,10-Dec-15,709,Model S P85,108400,152.7,366,No,108400,710,233,400,weekly,monthly,monthly,80%,338.35
+Asia Pacific & Europe (excl UK),17-Sep-13,12-Dec-15,816,Model S 85,52850,64.7,366,No,52850,817,210,400,a few times a year,once or twice a year,a few times a year,80%,148.7
+Asia Pacific & Europe (excl UK),25-Nov-13,10-Dec-15,745,Model S P85+,80000,107.2,361,No,80000,746,224,400,a few times a year,weekly,once or twice a year,90%,243.11
+Asia Pacific & Europe (excl UK),15-Sep-15,13-Dec-15,89,Model S 90D 2015,1000,11.1,421,No,1000,90,240,432,a few times a year,a few times a year,a few times a year,90%,2.96
+Asia Pacific & Europe (excl UK),10-Sep-13,14-Dec-15,825,Model S P85,144000,174.3,366,No,144000,826,214,400,twice a month,daily,a few times a year,100%,412.81
+Asia Pacific & Europe (excl UK),26-Jun-14,14-Aug-15,414,Model S 85,48000,115.7,374,No,48000,415,223,400,weekly,a few times a year,once or twice a year,90%,141.91
+Asia Pacific & Europe (excl UK),16-Oct-13,14-Dec-15,789,Model S P85+,41868,53,357,No,41868,790,225,400,a few times a year,a few times a year,never,60%,127.73
+Asia Pacific & Europe (excl UK),4-Dec-13,15-Dec-15,741,Model S 85,89867,121.1,374,No,89867,742,222,400,twice a month,twice a month,a few times a year,90%,266.1
+Asia Pacific & Europe (excl UK),23-Dec-13,11-Dec-15,718,Model S 85,58000,80.7,369,No,58000,719,198,400,monthly,a few times a year,never,70%,154.19
+Asia Pacific & Europe (excl UK),1-Dec-13,16-Dec-15,745,Model S 85,61000,81.8,363,No,61000,746,202,400,a few times a year,a few times a year,never,70%,165.74
+Asia Pacific & Europe (excl UK),14-Oct-15,16-Dec-15,63,Model S 70,1186,18.5,368,No,1186,64,189,360,,,,80%,3.23
+Asia Pacific & Europe (excl UK),20-Nov-13,16-Dec-15,756,Model S 85,108788,143.7,377,No,108788,757,186,400,twice a week,a few times a year,once or twice a year,70%,268.85
+Asia Pacific & Europe (excl UK),30-Sep-15,16-Dec-15,77,Model S 90D 2015,9200,117.9,409,No,9200,78,233,432,a few times a year,,,,26.76
+Asia Pacific & Europe (excl UK),25-Nov-13,16-Dec-15,751,Model S P85+,80690,107.3,367,No,80690,752,225,400,a few times a year,weekly,a few times a year,90%,242.9
+Asia Pacific & Europe (excl UK),25-Nov-13,17-Dec-15,752,Model S P85+,80941,107.5,366,No,80941,753,225,400,a few times a year,weekly,a few times a year,90%,243.97
+Asia Pacific & Europe (excl UK),15-Dec-15,18-Dec-15,3,Model S 70D,513,128.3,359,No,513,4,217,365,never,never,never,90%,1.62
+Asia Pacific & Europe (excl UK),3-Jun-15,18-Dec-15,198,Model S 85D,24300,122.1,399,No,24300,199,209,430,weekly,a few times a year,never,90%,67.58
+Asia Pacific & Europe (excl UK),1-Aug-13,18-Dec-15,869,Model S P85,36000,41.4,375,No,36000,870,244,400,twice a month,a few times a year,never,90%,116.32
+Asia Pacific & Europe (excl UK),25-Nov-13,20-Dec-15,755,Model S P85+,81620,108,370,No,81620,756,225,400,a few times a year,weekly,a few times a year,90%,244.74
+Asia Pacific & Europe (excl UK),2-Sep-15,19-Dec-15,108,Model S 85,3200,29.4,398,No,3200,109,218,400,weekly,twice a month,a few times a year,80%,8.97
+Asia Pacific & Europe (excl UK),30-Sep-14,30-Nov-15,426,Model S 85,40592,95.1,372,No,40592,427,258,400,a few times a year,monthly,never,80%,139.2
+Asia Pacific & Europe (excl UK),30-Sep-14,19-Dec-15,445,Model S 85,42700,95.7,376,No,42700,446,258,400,a few times a year,monthly,never,80%,145.67
+Asia Pacific & Europe (excl UK),24-Sep-15,21-Dec-15,88,Model S 70D,3000,33.7,368,No,3000,89,233,365,a few times a year,monthly,a few times a year,90%,10.12
+Asia Pacific & Europe (excl UK),24-Jun-14,23-Dec-15,547,Model S 85,75000,136.9,378,No,75000,548,222,400,monthly,a few times a year,a few times a year,80%,220.94
+Asia Pacific & Europe (excl UK),4-Jun-14,25-Dec-15,569,Model S 85,86781,152.2,375,No,86781,570,185,400,twice a month,monthly,a few times a year,90%,213.86
+Asia Pacific & Europe (excl UK),23-Dec-13,25-Dec-15,732,Model S P85,64000,87.3,374,No,64000,733,226,400,a few times a year,a few times a year,a few times a year,90%,191.76
+Asia Pacific & Europe (excl UK),26-Sep-13,27-Dec-15,822,Model S 85,106023,128.8,368,Yes,106023,823,223,400,monthly,a few times a year,a few times a year,90%,315.89
+Asia Pacific & Europe (excl UK),15-Oct-14,27-Dec-15,438,Model S 85,49285,112.3,376,No,49285,439,218,400,,,,,142.07
+Asia Pacific & Europe (excl UK),9-Jan-15,17-Dec-15,342,Model S 85,34822,101.5,377,No,34822,343,222,400,twice a month,monthly,a few times a year,90%,102.09
+Asia Pacific & Europe (excl UK),22-Nov-13,28-Dec-15,766,Model S P85,64000,83.4,370,No,64000,767,245,400,a few times a year,a few times a year,a few times a year,80%,208.97
+Asia Pacific & Europe (excl UK),13-Dec-14,29-Dec-15,381,Model S 85,35000,91.6,378,No,35000,382,218,400,,,,,100.63
+Asia Pacific & Europe (excl UK),13-May-15,20-Dec-15,221,Model S 85,22000,99.1,377,No,22000,222,209,400,a few times a year,a few times a year,once or twice a year,80%,60.72
+Asia Pacific & Europe (excl UK),11-Dec-13,31-Dec-15,750,Model S P85,90000,119.8,385,No,90000,751,222,400,twice a week,twice a week,monthly,90%,261.14
+Asia Pacific & Europe (excl UK),23-Aug-13,2-Jan-16,862,Model S P85+,47000,54.5,371,No,47000,863,211,400,monthly,a few times a year,never,90%,132.81
+Asia Pacific & Europe (excl UK),17-Dec-14,4-Jan-16,383,Model S 85,40000,104.2,384,No,40000,384,225,400,monthly,monthly,never,80%,117.78
+Asia Pacific & Europe (excl UK),1-Nov-14,5-Jan-16,430,Model S 85,27594,64,385,No,27594,431,218,400,,,,,78.63
+Asia Pacific & Europe (excl UK),30-Jun-15,31-Dec-15,184,Model S 70D,15300,82.7,360,No,15300,185,221,365,weekly,a few times a year,once or twice a year,,49.49
+Asia Pacific & Europe (excl UK),15-Nov-13,7-Jan-16,783,Model S 85,93906,119.8,368,Yes,93906,784,224,400,a few times a year,a few times a year,once or twice a year,90%,281.05
+Asia Pacific & Europe (excl UK),30-Sep-15,8-Jan-16,100,Model S 90D 2015,13889,137.5,408,No,13889,101,250,432,a few times a year,a few times a year,a few times a year,80%,43.4
+Asia Pacific & Europe (excl UK),27-Nov-13,10-Jan-16,774,Model S 85,48623,62.7,380,No,48623,775,240,400,monthly,twice a month,monthly,80%,153.52
+Asia Pacific & Europe (excl UK),13-Nov-13,10-Jan-16,788,Model S P85+,45400,57.5,381,No,45400,789,224,400,twice a month,a few times a year,once or twice a year,80%,134.45
+Asia Pacific & Europe (excl UK),3-Feb-14,3-Jan-16,699,Model S P85,43500,62.1,384,No,43500,700,210,400,a few times a year,once or twice a year,never,60%,119.56
+Asia Pacific & Europe (excl UK),31-Dec-13,12-Jan-16,742,Model S P85,115000,154.8,367,No,115000,743,233,400,weekly,weekly,weekly,80%,358.48
+Asia Pacific & Europe (excl UK),25-Jun-15,29-Dec-15,187,Model S 85,19225,102.3,379,No,19225,188,228,400,twice a month,a few times a year,a few times a year,80%,57.74
+Asia Pacific & Europe (excl UK),22-Nov-13,14-Jan-16,783,Model S 85,83000,105.9,365,No,83000,784,201,400,monthly,monthly,never,90%,225.15
+Asia Pacific & Europe (excl UK),19-Aug-15,14-Jan-16,148,Model S 70D,18723,125.7,356,No,18723,149,226,365,weekly,monthly,a few times a year,90%,61.89
+Asia Pacific & Europe (excl UK),20-Sep-14,13-Jan-16,480,Model S 85,31300,65.1,372,No,31300,481,247,400,monthly,a few times a year,a few times a year,80%,102.77
+Asia Pacific & Europe (excl UK),10-Sep-13,20-Jan-16,862,Model S P85,150000,173.8,356,No,150000,863,214,400,twice a month,daily,a few times a year,100%,435.73
+Asia Pacific & Europe (excl UK),17-Dec-14,24-Jan-16,403,Model S 85,41500,102.7,385,No,41500,404,226,400,twice a month,a few times a year,never,80%,122.59
+Asia Pacific & Europe (excl UK),6-May-15,24-Jan-16,263,Model S 85D,20000,75.8,415,No,20000,264,222,430,twice a month,monthly,monthly,80%,57.96
+Asia Pacific & Europe (excl UK),27-Jun-14,24-Jan-16,576,Model S 85,51000,88.4,380,No,51000,577,230,400,,,,,155.26
+Asia Pacific & Europe (excl UK),20-Dec-15,25-Jan-16,36,Model S 85D,3200,86.5,408,No,3200,37,230,430,twice a week,weekly,once or twice a year,80%,9.75
+Asia Pacific & Europe (excl UK),20-Dec-14,28-Jan-16,404,Model S P85,16133,39.8,391,No,16133,405,261,400,weekly,a few times a year,a few times a year,90%,54.97
+Asia Pacific & Europe (excl UK),15-Oct-14,29-Jan-16,471,Model S 85,52483,111.2,372,No,52483,472,218,400,,,,,152.07
+Asia Pacific & Europe (excl UK),20-Nov-13,2-Feb-16,804,Model S 85,58000,72,374,No,58000,805,211,400,a few times a year,a few times a year,once or twice a year,80%,162.26
+Asia Pacific & Europe (excl UK),15-Dec-15,4-Feb-16,51,Model S 70D,3032,58.3,361,No,3032,52,232,365,once or twice a year,never,never,90%,10.22
+Asia Pacific & Europe (excl UK),4-Jun-14,3-Feb-16,609,Model S 85,93058,152.6,371,No,93058,610,186,400,weekly,a few times a year,a few times a year,90%,231.77
+Asia Pacific & Europe (excl UK),20-Nov-13,5-Feb-16,807,Model S 85,58000,71.8,371,Yes,58000,808,218,400,monthly,a few times a year,a few times a year,90%,168.29
+Asia Pacific & Europe (excl UK),30-Sep-15,5-Feb-16,128,Model S 90D,15058,116.7,434,No,15058,129,249,452,monthly,monthly,a few times a year,80%,46.77
+Asia Pacific & Europe (excl UK),30-Sep-13,5-Feb-15,493,Model S P85,49000,99.2,373,No,49000,494,209,400,a few times a year,a few times a year,a few times a year,80%,136.78
+Asia Pacific & Europe (excl UK),3-Dec-15,8-Feb-16,67,Model S 85D,6900,101.5,423,No,6900,68,220,430,monthly,once or twice a year,once or twice a year,90%,19.63
+Asia Pacific & Europe (excl UK),31-Dec-13,10-Feb-16,771,Model S P85,120000,155.4,369,No,120000,772,233,400,weekly,,once or twice a year,,373.08
+Asia Pacific & Europe (excl UK),20-Nov-13,20-Feb-16,822,Model S 85,117000,142.2,368,No,117000,823,186,400,weekly,twice a month,once or twice a year,80%,292.54
+Asia Pacific & Europe (excl UK),5-Jun-15,12-Feb-16,252,Model S 85D,39100,154.5,409,No,39100,253,211,430,weekly,a few times a year,once or twice a year,90%,108.46
+Asia Pacific & Europe (excl UK),25-Nov-13,14-Feb-16,811,Model S P85+,88870,109.4,373,No,88870,812,225,400,a few times a year,weekly,monthly,90%,265.44
+Asia Pacific & Europe (excl UK),3-Mar-14,15-Feb-16,714,Model S 85,45777,64,365,No,45777,715,220,400,monthly,once or twice a year,once or twice a year,80%,135.92
+Asia Pacific & Europe (excl UK),1-Jul-15,15-Feb-16,229,Model S P85D,28000,121.7,385,No,28000,230,208,408,twice a month,a few times a year,never,80%,76.86
+Asia Pacific & Europe (excl UK),28-May-14,15-Feb-16,628,Model S 85,34317,54.6,372,No,34317,629,229,400,a few times a year,once or twice a year,once or twice a year,90%,104.47
+Asia Pacific & Europe (excl UK),10-Sep-13,16-Feb-16,889,Model S P85,155000,174.2,357,No,155000,890,211,400,twice a month,daily,a few times a year,100%,443.36
+Asia Pacific & Europe (excl UK),26-Mar-14,19-Feb-16,695,Model S 85,54000,77.6,372,No,54000,696,222,400,weekly,monthly,never,90%,159.35
+Asia Pacific & Europe (excl UK),3-Apr-15,19-Feb-16,322,Model S P85D,21620,66.9,374,No,21620,323,235,408,twice a month,monthly,once or twice a year,70%,68.42
+Asia Pacific & Europe (excl UK),3-Apr-15,20-Feb-16,323,Model S P85D,21878,67.5,375,No,21878,324,235,408,twice a month,monthly,once or twice a year,70%,69.15
+Asia Pacific & Europe (excl UK),25-Nov-14,20-Feb-16,452,Model S 85,40501,89.4,377,No,40501,453,218,400,,,,,116.6
+Asia Pacific & Europe (excl UK),19-Mar-14,27-Feb-16,710,Model S 85,42200,59.4,365,No,42200,711,222,400,,,,,125.68
+Asia Pacific & Europe (excl UK),25-Nov-13,14-Feb-16,811,Model S P85+,89850,110.7,376,No,89850,812,225,400,a few times a year,weekly,monthly,90%,267.32
+Asia Pacific & Europe (excl UK),20-Sep-15,22-Feb-16,155,Model S 85D,3856,24.7,421,No,3856,156,269,430,monthly,a few times a year,a few times a year,90%,13.45
+Asia Pacific & Europe (excl UK),15-Dec-15,23-Feb-16,70,Model S 70D,4093,57.6,361,No,4093,71,230,365,,,,,13.68
+Asia Pacific & Europe (excl UK),14-Jun-14,27-Feb-16,623,Model S 85,37000,59.3,377,No,37000,624,227,400,a few times a year,monthly,never,80%,110.93
+Asia Pacific & Europe (excl UK),30-Sep-14,27-Feb-16,515,Model S 85,48277,93.6,366,No,48277,516,258,400,a few times a year,monthly,never,80%,166.86
+Asia Pacific & Europe (excl UK),30-Sep-14,28-Feb-16,516,Model S 85,48521,93.9,367,No,48521,517,258,400,a few times a year,monthly,never,80%,167.49
+Asia Pacific & Europe (excl UK),3-Mar-15,2-Mar-16,365,Model S 85D,36800,100.5,413,No,36800,366,214,430,twice a month,monthly,a few times a year,80%,103.04
+Asia Pacific & Europe (excl UK),7-Jan-16,4-Mar-16,57,Model S 85D,370,6.4,426,No,370,58,248,430,,,,90%,1.18
+Asia Pacific & Europe (excl UK),29-Sep-15,4-Mar-16,157,Model S 90D,16500,104.4,424,No,16500,158,248,452,a few times a year,a few times a year,a few times a year,80%,51.32
+Asia Pacific & Europe (excl UK),24-Mar-14,7-Mar-16,714,Model S 85,65000,90.9,360,No,65000,715,211,400,monthly,once or twice a year,once or twice a year,80%,185.2
+Asia Pacific & Europe (excl UK),21-Dec-13,5-Mar-16,805,Model S 85,70614,87.6,369,No,70614,806,220,400,twice a month,monthly,a few times a year,80%,208.57
+Asia Pacific & Europe (excl UK),15-May-15,4-Mar-16,294,Model S 70D,17800,60.3,353,No,17800,295,218,365,,,,,57.36
+Asia Pacific & Europe (excl UK),7-Dec-13,21-Mar-15,469,Model S 85,132950,282.9,372,No,132950,470,220,400,a few times a year,twice a week,once or twice a year,90%,391.11
+Asia Pacific & Europe (excl UK),26-Nov-13,9-Mar-16,834,Model S 85,92560,110.9,368,No,92560,835,228,400,a few times a year,a few times a year,a few times a year,70%,281.97
+Asia Pacific & Europe (excl UK),10-Mar-16,11-Mar-16,1,Model S 90D,300,150,458,No,300,2,218,452,,,,,0.79
+Asia Pacific & Europe (excl UK),2-Jun-14,11-Mar-16,648,Model S 85,36500,56.2,372,No,36500,649,215,400,a few times a year,a few times a year,once or twice a year,90%,104.96
+Asia Pacific & Europe (excl UK),19-Aug-15,12-Mar-16,206,Model S 70D,27355,132.1,357,No,27355,207,225,365,twice a week,monthly,a few times a year,80%,89.9
+Asia Pacific & Europe (excl UK),17-Dec-14,14-Mar-16,453,Model S 85,48000,105.7,384,No,48000,454,227,400,twice a month,a few times a year,never,80%,142.59
+Asia Pacific & Europe (excl UK),15-Dec-15,18-Mar-16,94,Model S 70D,6076,64,361,No,6076,95,228,365,a few times a year,never,never,90%,20.12
+Asia Pacific & Europe (excl UK),15-Oct-14,18-Mar-16,520,Model S 85,61737,118.5,378,No,61737,521,237,400,,,,,192.97
+Asia Pacific & Europe (excl UK),29-Sep-15,18-Mar-16,171,Model S 90D,17326,100.7,433,No,17326,172,248,452,a few times a year,a few times a year,a few times a year,80%,53.33
+Asia Pacific & Europe (excl UK),13-May-15,19-Mar-16,311,Model S 85,28805,92.3,370,No,28805,312,214,400,a few times a year,a few times a year,a few times a year,80%,82.15
+Asia Pacific & Europe (excl UK),19-Mar-14,19-Mar-16,731,Model S 85,42900,58.6,376,No,42900,732,222,400,,,,,126.72
+Asia Pacific & Europe (excl UK),13-May-15,20-Mar-16,312,Model S 85,28479,91,381,No,28479,313,212,400,weekly,monthly,a few times a year,80%,79.32
+Asia Pacific & Europe (excl UK),19-Aug-15,25-Mar-16,219,Model S 70D,29300,133.2,356,No,29300,220,224,365,twice a week,monthly,once or twice a year,80%,96
+Asia Pacific & Europe (excl UK),4-Dec-15,25-Mar-16,112,Model S 70D,11500,101.8,360,No,11500,113,223,365,,a few times a year,never,80%,37.3
+Asia Pacific & Europe (excl UK),20-Dec-13,25-Mar-16,826,Model S 85,51000,61.7,369,No,51000,827,222,400,a few times a year,a few times a year,once or twice a year,80%,151.1
+Asia Pacific & Europe (excl UK),23-Dec-13,28-Mar-16,826,Model S P85,71000,85.9,376,No,71000,827,221,400,a few times a year,a few times a year,a few times a year,90%,207.49
+Asia Pacific & Europe (excl UK),25-Jun-15,5-Feb-16,225,Model S 85,24639,109,382,No,24639,226,228,400,twice a month,a few times a year,a few times a year,80%,73.71
+Asia Pacific & Europe (excl UK),5-Dec-13,28-Mar-16,844,Model S P85,69000,81.7,373,No,69000,845,230,400,weekly,once or twice a year,a few times a year,,210.68
+Asia Pacific & Europe (excl UK),1-Jun-15,30-Mar-16,303,Model S 85D,41187,135.5,404,No,41187,304,256,430,twice a week,a few times a year,twice a month,50%,140.31
+Asia Pacific & Europe (excl UK),20-Nov-13,20-Mar-16,851,Model S 85,126800,148.8,372,No,126800,852,187,400,twice a week,twice a month,once or twice a year,70%,317.09
+Asia Pacific & Europe (excl UK),31-Mar-15,29-May-16,425,Model S P85D,53000,124.4,375,No,53000,426,220,408,weekly,monthly,a few times a year,80%,155.86
+Asia Pacific & Europe (excl UK),1-Jun-15,30-Mar-16,303,Model S 70D,49987,164.4,358,No,49987,304,207,365,twice a week,a few times a year,never,,151.87
+Asia Pacific & Europe (excl UK),13-May-15,31-Mar-16,323,Model S 85,30311,93.6,388,No,30311,324,210,400,,,,,83.4
+Asia Pacific & Europe (excl UK),17-Mar-14,1-Apr-16,746,Model S P85,70000,93.7,384,No,70000,747,203,400,a few times a year,a few times a year,never,90%,185.97
+Asia Pacific & Europe (excl UK),26-Mar-14,1-Apr-16,737,Model S P85,54700,74.1,384,No,54700,738,171,400,monthly,a few times a year,once or twice a year,80%,123.19
+Asia Pacific & Europe (excl UK),3-Apr-15,4-Apr-16,367,Model S P85D,24606,66.9,376,No,24606,368,235,408,twice a month,monthly,once or twice a year,80%,77.67
+Asia Pacific & Europe (excl UK),7-Jan-14,4-Apr-16,818,Model S P85,121121,147.9,373,No,121121,819,214,400,weekly,monthly,once or twice a year,90%,346.17
+Asia Pacific & Europe (excl UK),10-Sep-13,5-Apr-16,938,Model S P85,165000,175.7,366,No,165000,939,211,400,twice a month,daily,a few times a year,100%,466.38
+Asia Pacific & Europe (excl UK),3-Apr-15,6-Apr-16,369,Model S P85D,24758,66.9,376,No,24758,370,235,408,twice a month,monthly,once or twice a year,80%,78.15
+Asia Pacific & Europe (excl UK),3-Apr-15,10-Apr-16,373,Model S P85D,24956,66.7,376,No,24956,374,235,408,twice a month,monthly,once or twice a year,80%,78.78
+Asia Pacific & Europe (excl UK),13-May-15,9-Apr-16,332,Model S 85,31293,94,375,No,31293,333,213,400,a few times a year,a few times a year,a few times a year,80%,88.25
+Asia Pacific & Europe (excl UK),17-Dec-14,15-Apr-16,485,Model S 85,49200,101.2,386,No,49200,486,227,400,monthly,monthly,never,80%,145.79
+Asia Pacific & Europe (excl UK),24-Sep-15,21-Dec-15,88,Model S 70D,7800,87.6,358,No,7800,89,220,365,a few times a year,monthly,a few times a year,90%,25.03
+Asia Pacific & Europe (excl UK),12-Dec-15,17-Apr-16,127,Model S 85D,15000,117.2,413,No,15000,128,223,430,twice a week,twice a month,never,80%,43.77
+Asia Pacific & Europe (excl UK),20-Nov-13,17-Apr-16,879,Model S 85,130820,148.7,377,No,130820,880,187,400,twice a week,twice a month,never,70%,325.04
+Asia Pacific & Europe (excl UK),5-Jun-15,17-Apr-16,317,Model S 85D,43210,135.9,410,No,43210,318,210,430,weekly,monthly,never,90%,119.15
+Asia Pacific & Europe (excl UK),15-Dec-15,18-Apr-16,125,Model S 70D,8643,68.6,361,No,8643,126,220,365,,,,,27.62
+Asia Pacific & Europe (excl UK),25-Nov-13,14-Apr-16,871,Model S P85+,97310,111.6,376,No,97310,872,228,400,,,,,295.17
+Asia Pacific & Europe (excl UK),22-Nov-13,19-Apr-16,879,Model S 85,93400,106.1,369,No,93400,880,202,400,a few times a year,monthly,never,90%,253.29
+Asia Pacific & Europe (excl UK),26-Nov-13,22-Apr-16,878,Model S 85,98528,112.1,374,No,98528,879,228,400,a few times a year,a few times a year,a few times a year,70%,297.82
+Asia Pacific & Europe (excl UK),3-Apr-15,22-Apr-16,385,Model S P85D,26081,67.6,375,No,26081,386,234,408,twice a month,monthly,once or twice a year,80%,82.08
+Asia Pacific & Europe (excl UK),19-Aug-15,30-Apr-16,255,Model S 70D,36870,144,352,No,36870,256,219,365,twice a week,monthly,a few times a year,80%,118.76
+Asia Pacific & Europe (excl UK),24-Jun-14,1-May-16,677,Model S 85,89983,132.7,377,No,89983,678,222,400,twice a month,twice a month,a few times a year,90%,265.42
+Asia Pacific & Europe (excl UK),4-Jun-14,30-Apr-16,696,Model S 85,108644,155.9,374,No,108644,697,185,400,weekly,a few times a year,a few times a year,90%,268.09
+Asia Pacific & Europe (excl UK),20-Jul-13,2-May-16,1017,Model S 85,69255,68,387,No,69255,"1,018",218,400,a few times a year,a few times a year,a few times a year,90%,198.07
+Asia Pacific & Europe (excl UK),15-May-15,2-May-16,353,Model S 85D,54500,154,425,Yes,18500,120,224,430,daily,once or twice a year,once or twice a year,90%,53.45
+Asia Pacific & Europe (excl UK),5-Jun-14,12-May-16,707,Model S 85,62660,88.5,374,No,62660,708,223,400,twice a month,monthly,a few times a year,90%,185.26
+Asia Pacific & Europe (excl UK),24-May-14,10-May-16,717,Model S 60,39500,55,279,No,39500,718,199,289,monthly,a few times a year,never,90%,136.77
+Asia Pacific & Europe (excl UK),16-Nov-13,25-Mar-16,860,Model S 85,36410,42.3,379,No,36410,861,219,400,weekly,a few times a year,once or twice a year,90%,105.7
+Asia Pacific & Europe (excl UK),15-Dec-15,18-May-16,155,Model S 70D,11680,74.9,364,No,11680,156,218,365,,,,,37.07
+Asia Pacific & Europe (excl UK),10-Sep-13,18-May-16,981,Model S P85,172000,175.2,365,No,172000,982,211,400,twice a month,daily,a few times a year,100%,486.8
+Asia Pacific & Europe (excl UK),19-Aug-15,20-May-16,275,Model S 70D,39404,142.8,352,No,39404,276,216,365,daily,monthly,a few times a year,80%,125.19
+Asia Pacific & Europe (excl UK),24-May-14,27-May-16,734,Model S 60,39800,54.1,274,No,39800,735,199,289,monthly,a few times a year,never,90%,139.04
+Asia Pacific & Europe (excl UK),29-Sep-15,27-May-16,241,Model S 90D,24331,100.5,432,No,24331,242,236,452,a few times a year,a few times a year,a few times a year,80%,71.79
+Asia Pacific & Europe (excl UK),4-Jun-14,27-May-16,723,Model S 85,112723,155.7,375,No,112723,724,184,400,weekly,a few times a year,a few times a year,90%,276.29
+Asia Pacific & Europe (excl UK),4-Jun-14,29-May-16,725,Model S 85,113170,155.9,373,No,113170,726,184,400,weekly,a few times a year,,90%,278.1
+Asia Pacific & Europe (excl UK),13-May-15,5-Jun-16,389,Model S 85,43806,112.3,383,No,43806,390,190,400,twice a week,monthly,monthly,80%,109.74
+Asia Pacific & Europe (excl UK),5-Jun-15,5-Jun-16,366,Model S 85D,47128,128.4,419,No,47128,367,212,430,weekly,monthly,a few times a year,90%,130.6
+Asia Pacific & Europe (excl UK),20-Jan-16,10-Apr-16,81,Model S 70D,1340,16.3,364,No,1340,82,179,365,monthly,a few times a year,never,70%,3.49
+Asia Pacific & Europe (excl UK),20-Jan-16,14-May-16,115,Model S 70D,3177,27.4,364,No,3177,116,179,365,monthly,a few times a year,never,70%,8.23
+Asia Pacific & Europe (excl UK),21-Dec-13,5-Jun-16,897,Model S 85,80500,89.6,371,No,80500,898,217,400,monthly,a few times a year,once or twice a year,80%,233.92
+Asia Pacific & Europe (excl UK),20-Jun-14,17-Dec-15,545,Model S 85,46534,85.2,361,No,46534,546,221,400,a few times a year,a few times a year,once or twice a year,80%,138.69
+Asia Pacific & Europe (excl UK),20-Jun-14,28-Mar-16,647,Model S 85,53226,82.1,364,No,53226,648,221,400,a few times a year,a few times a year,once or twice a year,80%,158.01
+Asia Pacific & Europe (excl UK),3-Apr-15,7-Jun-16,431,Model S P85D,27279,63.1,377,No,27279,432,233,408,twice a month,monthly,once or twice a year,70%,85.27
+Asia Pacific & Europe (excl UK),3-Apr-15,11-Jun-16,435,Model S P85D,27426,62.9,374,No,27426,436,233,408,twice a month,monthly,once or twice a year,70%,85.54
+Asia Pacific & Europe (excl UK),27-Dec-13,11-Jun-16,897,Model S P85,156115,173.8,372,No,156115,898,214,400,twice a month,a few times a year,once or twice a year,90%,444.04
+Asia Pacific & Europe (excl UK),28-May-14,15-Feb-16,628,Model S 85,40005,63.6,383,No,40005,629,224,400,a few times a year,a few times a year,a few times a year,90%,117.44
+Asia Pacific & Europe (excl UK),17-Dec-14,11-Jun-16,542,Model S 85,54000,99.4,386,No,54000,543,226,400,monthly,a few times a year,never,80%,159.31
+Asia Pacific & Europe (excl UK),23-Dec-13,11-Jun-16,901,Model S P85,74500,82.6,379,No,74500,902,226,400,twice a month,monthly,monthly,90%,221.78
+Asia Pacific & Europe (excl UK),25-Nov-14,12-Jun-16,565,Model S 85,54000,95.4,383,No,54000,566,220,400,monthly,a few times a year,once or twice a year,90%,155.68
+Asia Pacific & Europe (excl UK),20-Nov-13,16-Jun-16,939,Model S 85,139100,148,374,No,139100,940,187,400,twice a week,twice a month,never,70%,346.95
+Asia Pacific & Europe (excl UK),15-Mar-16,15-Jun-16,92,Model S 70D,13659,146.9,369,No,13659,93,209,365,daily,twice a week,once or twice a year,100%,41.27
+Asia Pacific & Europe (excl UK),13-Nov-13,17-Jun-16,947,Model S 85,78956,83.3,382,Yes,66956,804,235,400,,,,,206.46
+Asia Pacific & Europe (excl UK),1-Dec-15,17-Jun-16,199,Model S 70,11968,59.8,369,No,11968,200,187,360,twice a month,monthly,twice a month,80%,31.93
+Asia Pacific & Europe (excl UK),10-Dec-13,15-Jun-16,918,Model S P85,231000,251.4,370,Yes,154000,613,228,400,,,,,470.74
+Asia Pacific & Europe (excl UK),30-Mar-15,19-Jun-16,447,Model S 85D,50011,111.6,412,No,50011,448,206,430,weekly,monthly,monthly,90%,134.96
+Asia Pacific & Europe (excl UK),20-Nov-13,23-Jun-16,946,Model S 85,140050,147.9,376,No,140050,947,187,400,twice a week,twice a month,never,70%,348.42
+Asia Pacific & Europe (excl UK),19-Aug-15,24-Jun-16,310,Model S 70D,43787,140.8,353,No,43787,311,213,365,daily,monthly,a few times a year,80%,136.99
+Asia Pacific & Europe (excl UK),17-Dec-14,26-Jun-16,557,Model S 85,54765,98.1,384,No,54765,558,225,400,monthly,monthly,a few times a year,80%,161.26
+Asia Pacific & Europe (excl UK),21-Mar-16,16-Jun-16,87,Model S 70,7080,80.5,367,No,7080,88,202,360,twice a month,monthly,a few times a year,,20.59
+Asia Pacific & Europe (excl UK),3-Apr-15,2-Jul-16,456,Model S P85D,28424,62.2,379,No,28424,457,232,408,twice a month,monthly,once or twice a year,70%,88.24
+Asia Pacific & Europe (excl UK),16-Oct-13,2-Jul-16,990,Model S P85+,52500,53,380,No,52500,991,225,400,once or twice a year,once or twice a year,never,80%,155.41
+Asia Pacific & Europe (excl UK),10-Mar-16,8-Jul-16,120,Model S 90D,15000,124,447,No,15000,121,225,452,,,,,41.23
+Asia Pacific & Europe (excl UK),24-Dec-15,29-Jun-16,188,Model S 85D,12000,63.5,430,No,12000,189,218,430,,,,,33.55
+Asia Pacific & Europe (excl UK),10-Sep-13,11-Jul-16,1035,Model S P85,183000,176.6,366,No,183000,"1,036",215,400,twice a month,daily,a few times a year,100%,527.06
+Asia Pacific & Europe (excl UK),15-Dec-15,16-Jul-16,214,Model S 70D,15300,71.2,364,No,15300,215,211,365,twice a month,never,never,90%,47
+Asia Pacific & Europe (excl UK),4-Dec-15,16-Jul-16,225,Model S 70D,19000,84.1,349,No,19000,226,206,365,a few times a year,a few times a year,never,80%,57.82
+Asia Pacific & Europe (excl UK),29-Sep-15,18-Jul-16,293,Model S 90D,26389,89.8,428,No,26389,294,236,452,a few times a year,a few times a year,a few times a year,80%,77.74
+Asia Pacific & Europe (excl UK),10-Jun-16,16-Jul-16,36,Model S 90D,4900,132.4,445,No,4900,37,242,452,,,,,14.52
+Asia Pacific & Europe (excl UK),5-Jun-15,16-Jul-16,407,Model S 85D,52600,128.9,419,No,52600,408,211,430,weekly,monthly,once or twice a year,90%,145.08
+Asia Pacific & Europe (excl UK),20-Jun-16,17-Jul-16,27,Model S 90D,1512,54,456,No,1512,28,194,452,weekly,weekly,monthly,90%,3.55
+Asia Pacific & Europe (excl UK),13-May-15,25-Jul-16,439,Model S 85,42234,96,381,No,42234,440,207,400,monthly,a few times a year,once or twice a year,80%,114.86
+Asia Pacific & Europe (excl UK),19-Aug-15,28-Jul-16,344,Model S 70D,49107,142.3,352,No,49107,345,209,365,daily,monthly,a few times a year,80%,150.96
+Asia Pacific & Europe (excl UK),13-Apr-16,30-Jul-16,108,Model S P90D,1330,12.2,412,No,1330,109,244,417,monthly,twice a month,a few times a year,70%,3.97
+Asia Pacific & Europe (excl UK),3-Apr-15,31-Jul-16,485,Model S P85D,30001,61.7,379,No,30001,486,231,408,twice a month,monthly,once or twice a year,70%,92.74
+Asia Pacific & Europe (excl UK),3-Apr-15,31-Jul-16,485,Model S P85D,30094,61.9,378,No,30094,486,231,408,twice a month,monthly,once or twice a year,70%,93.14
+Asia Pacific & Europe (excl UK),3-Apr-15,31-Jul-16,485,Model S P85D,30353,62.5,380,No,30353,486,231,408,twice a month,monthly,once or twice a year,70%,93.71
+Asia Pacific & Europe (excl UK),17-Apr-16,30-Jul-16,104,Model S 70D,1700,16.2,363,No,1700,105,186,365,,,,,4.61
+Asia Pacific & Europe (excl UK),17-Mar-14,1-Aug-16,868,Model S P85,80000,92.1,377,No,80000,869,201,400,a few times a year,a few times a year,never,90%,212.36
+Asia Pacific & Europe (excl UK),25-Nov-13,31-Jul-16,979,Model S 85,71000,72.4,373,Yes,57987,800,266,400,monthly,a few times a year,a few times a year,90%,204.76
+Asia Pacific & Europe (excl UK),22-Nov-13,25-Jul-16,976,Model S P85,84000,86,382,No,84000,977,235,400,a few times a year,a few times a year,a few times a year,80%,260.61
+Asia Pacific & Europe (excl UK),1-Oct-14,4-Aug-16,673,Model S 85,76500,113.5,372,No,76500,674,223,400,monthly,monthly,a few times a year,80%,226.75
+Asia Pacific & Europe (excl UK),24-Jun-14,4-Aug-16,772,Model S 85,100500,130,381,No,100500,773,220,400,monthly,monthly,once or twice a year,80%,290.46
+Asia Pacific & Europe (excl UK),4-Dec-15,4-Aug-16,244,Model S 70D,25000,102,350,No,25000,245,204,365,monthly,a few times a year,never,80%,75.23
+Asia Pacific & Europe (excl UK),3-Apr-15,6-Aug-16,491,Model S P85D,30909,62.8,379,No,30909,492,231,408,twice a month,monthly,once or twice a year,70%,95.55
+Asia Pacific & Europe (excl UK),20-Nov-13,9-Aug-16,993,Model S 85,104000,104.6,373,No,104000,994,218,400,twice a month,weekly,once or twice a year,80%,302.8
+Asia Pacific & Europe (excl UK),20-Nov-13,9-Aug-16,993,Model S 85,148150,149,379,No,148150,994,186,400,twice a week,a few times a year,once or twice a year,80%,365.19
+Asia Pacific & Europe (excl UK),15-Dec-15,9-Aug-16,238,Model S 70D,17500,73.2,361,No,17500,239,210,365,,,,,53.38
+Asia Pacific & Europe (excl UK),22-Nov-13,11-Aug-16,993,Model S 85,106563,107.2,369,No,106563,994,200,400,monthly,monthly,never,90%,286.13
+Asia Pacific & Europe (excl UK),29-Sep-15,12-Aug-16,318,Model S 90D,29890,93.7,431,No,29890,319,236,452,a few times a year,a few times a year,a few times a year,80%,88.3
+Asia Pacific & Europe (excl UK),15-Dec-15,17-Aug-16,246,Model S 70D,18300,74.1,359,No,18300,247,209,365,,,,,55.71
+Asia Pacific & Europe (excl UK),13-May-15,13-Aug-16,458,Model S 85,60700,132.2,382,No,60700,459,200,400,,,,,159.28
+Asia Pacific & Europe (excl UK),13-May-15,10-Aug-16,455,Model S 85,45533,99.9,385,No,45533,456,207,400,monthly,a few times a year,once or twice a year,80%,123.96
+Asia Pacific & Europe (excl UK),13-May-15,21-Aug-16,466,Model S P85D,27000,57.8,381,Yes,25000,432,221,408,a few times a year,a few times a year,once or twice a year,80%,73.3
+Asia Pacific & Europe (excl UK),4-Jun-14,5-Aug-16,793,Model S 85,123275,155.3,376,No,123275,794,182,400,twice a month,a few times a year,a few times a year,90%,298.48
+Asia Pacific & Europe (excl UK),23-Dec-13,23-Aug-16,974,Model S P85,84561,86.7,381,No,84561,975,225,400,twice a month,monthly,monthly,90%,249.96
+Asia Pacific & Europe (excl UK),2-Sep-15,23-Aug-16,356,Model S P85,20500,57.4,386,No,20500,357,212,400,weekly,twice a month,once or twice a year,80%,56.74
+Asia Pacific & Europe (excl UK),7-Nov-14,17-Aug-16,649,Model S 85,40200,61.8,389,No,40200,650,193,400,a few times a year,once or twice a year,never,70%,101.53
+Asia Pacific & Europe (excl UK),20-Nov-13,22-Aug-16,1006,Model S 85,74000,73.5,381,No,74000,"1,007",210,400,twice a month,a few times a year,once or twice a year,80%,205.44
+Asia Pacific & Europe (excl UK),19-Aug-15,27-Aug-16,374,Model S 70D,53176,141.8,352,No,53176,375,206,365,daily,monthly,twice a month,80%,161.12
+Asia Pacific & Europe (excl UK),10-Mar-16,29-Aug-16,172,Model S 90D,20000,115.6,447,No,20000,173,218,452,,,,,53.27
+Asia Pacific & Europe (excl UK),13-Nov-13,30-Aug-16,1021,Model S 85,86532,84.7,383,Yes,74532,880,235,400,twice a month,a few times a year,a few times a year,90%,229.53
+Asia Pacific & Europe (excl UK),30-Sep-14,10-May-16,588,Model S 85,55421,94.1,367,No,55421,589,258,400,,,,,191.3
+Asia Pacific & Europe (excl UK),30-Sep-14,25-Aug-16,695,Model S 85,65833,94.6,373,No,65833,696,253,400,,,,,221.1
+Asia Pacific & Europe (excl UK),26-Apr-16,30-Aug-16,126,Model S 70D,6455,50.8,361,No,6455,127,198,365,,,,,18.57
+Asia Pacific & Europe (excl UK),17-Apr-16,1-Sep-16,137,Model S 70D,4000,29,354,No,4000,138,174,365,twice a month,a few times a year,,90%,10.28
+Asia Pacific & Europe (excl UK),5-Jun-15,22-Aug-16,444,Model S 85D,57583,129.4,413,No,57583,445,211,430,weekly,monthly,once or twice a year,90%,158.97
+Asia Pacific & Europe (excl UK),20-Apr-16,3-Sep-16,136,Model S 90D,5444,39.7,446,No,5444,137,220,452,monthly,a few times a year,monthly,90%,14.65
+Asia Pacific & Europe (excl UK),15-Dec-15,5-Sep-16,265,Model S 70D,20300,76.3,359,No,20300,266,205,365,weekly,never,never,90%,60.62
+Asia Pacific & Europe (excl UK),9-Dec-15,6-Sep-16,272,Model S 90D,48000,175.8,440,No,48000,273,218,452,daily,monthly,twice a month,80%,128.85
+Asia Pacific & Europe (excl UK),21-Dec-13,6-Sep-16,990,Model S 85,89000,89.8,372,No,89000,991,211,400,weekly,monthly,once or twice a year,80%,251.14
+Asia Pacific & Europe (excl UK),20-Nov-13,6-Sep-16,1021,Model S 85,152250,149,382,No,152250,"1,022",185,400,twice a week,a few times a year,once or twice a year,70%,371.84
+Asia Pacific & Europe (excl UK),29-Apr-16,7-Sep-16,131,Model S 70D,10000,75.8,365,No,10000,132,221,365,,,,,32.13
+Asia Pacific & Europe (excl UK),15-Mar-16,7-Sep-16,176,Model S 70D,21045,118.9,366,No,21045,177,218,365,twice a month,weekly,once or twice a year,90%,66.6
+Asia Pacific & Europe (excl UK),29-Sep-15,7-Sep-16,344,Model S 90D,31865,92.4,433,No,31865,345,234,452,a few times a year,a few times a year,a few times a year,80%,93.12
+Asia Pacific & Europe (excl UK),16-Nov-13,3-Sep-16,1022,Model S 85,53756,52.5,381,No,53756,"1,023",195,400,weekly,a few times a year,once or twice a year,90%,138.59
+Asia Pacific & Europe (excl UK),6-Nov-13,7-Sep-16,1036,Model S 85,100250,96.7,375,No,100250,"1,037",203,400,a few times a year,a few times a year,a few times a year,90%,271.11
+Asia Pacific & Europe (excl UK),29-Jun-16,8-Sep-16,71,Model S 70D,6316,87.7,357,No,6316,72,181,365,monthly,twice a month,a few times a year,80%,16.7
+Asia Pacific & Europe (excl UK),3-Apr-15,9-Sep-16,525,Model S P85D,32110,61,382,No,32110,526,230,408,twice a month,monthly,once or twice a year,70%,98.45
+Asia Pacific & Europe (excl UK),3-Mar-16,11-Sep-16,192,Model S 85D,20147,104.4,428,No,20147,193,220,430,monthly,a few times a year,once or twice a year,90%,56.97
+Asia Pacific & Europe (excl UK),25-Nov-13,11-Sep-16,1021,Model S P85+,116148,113.6,379,No,116148,"1,022",224,400,a few times a year,weekly,monthly,90%,344.8
+Asia Pacific & Europe (excl UK),22-Nov-13,12-Sep-16,1025,Model S 85,109248,106.5,373,No,109248,"1,026",200,400,monthly,monthly,never,90%,291.82
+Asia Pacific & Europe (excl UK),27-Jan-16,12-Sep-16,229,Model S 85D,17500,76.1,420,No,17500,230,230,430,weekly,monthly,monthly,90%,52.23
+Asia Pacific & Europe (excl UK),15-Nov-15,14-Sep-16,304,Model S 90,16667,54.6,410,No,16667,305,204,425,a few times a year,a few times a year,a few times a year,80%,42.06
+Asia Pacific & Europe (excl UK),10-Sep-13,15-Sep-16,1101,Model S P85,200000,181.5,366,No,200000,"1,102",212,400,twice a month,daily,a few times a year,100%,567.99
+Asia Pacific & Europe (excl UK),13-May-15,19-Sep-16,495,Model S 85,50878,102.6,385,No,50878,496,205,400,a few times a year,monthly,once or twice a year,80%,137.17
+Asia Pacific & Europe (excl UK),15-Dec-15,20-Sep-16,280,Model S 70D,22442,79.9,361,No,22442,281,202,365,,,,,65.85
+Asia Pacific & Europe (excl UK),30-Oct-14,23-Sep-16,694,Model S 85,68439,98.5,384,No,68439,695,220,400,twice a week,a few times a year,,90%,198.27
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Sep-16,540,Model S P85D,32540,60.1,381,No,32540,541,229,408,twice a month,monthly,once or twice a year,70%,99.47
+Asia Pacific & Europe (excl UK),3-Apr-15,25-Sep-16,541,Model S P85D,32910,60.7,383,No,32910,542,229,408,twice a month,monthly,once or twice a year,70%,100.34
+Asia Pacific & Europe (excl UK),4-Jun-14,27-Sep-16,846,Model S 85,133442,157.5,380,No,133442,847,182,400,twice a month,a few times a year,a few times a year,90%,321.44
+Asia Pacific & Europe (excl UK),1-Dec-13,29-Sep-16,1033,Model S 85,84000,81.2,379,No,84000,"1,034",203,400,monthly,a few times a year,a few times a year,80%,224.62
+Asia Pacific & Europe (excl UK),19-Dec-14,15-Aug-16,605,Model S 85,102000,168.3,374,No,102000,606,229,400,twice a month,monthly,a few times a year,90%,309.66
+Asia Pacific & Europe (excl UK),17-Apr-16,1-Oct-16,167,Model S 70,6463,38.5,358,No,6463,168,218,360,weekly,monthly,weekly,90%,20.54
+Asia Pacific & Europe (excl UK),25-Nov-13,4-Oct-16,1044,Model S 85,117434,112.4,375,No,117434,"1,045",223,400,a few times a year,a few times a year,a few times a year,70%,346.72
+Asia Pacific & Europe (excl UK),15-Dec-15,5-Oct-16,295,Model S 70D,24088,81.4,359,No,24088,296,201,365,,,,,70.53
+Asia Pacific & Europe (excl UK),29-Sep-15,7-Oct-16,374,Model S 90D,35011,93.4,429,No,35011,375,234,452,a few times a year,a few times a year,a few times a year,80%,102.16
+Asia Pacific & Europe (excl UK),24-May-14,6-Oct-16,866,Model S 60,45500,52.5,268,No,45500,867,195,289,a few times a year,a few times a year,never,90%,157.44
+Asia Pacific & Europe (excl UK),20-Nov-13,26-Sep-16,1041,Model S 85,156500,150.2,376,No,156500,"1,042",185,400,twice a week,a few times a year,once or twice a year,70%,385.18
+Asia Pacific & Europe (excl UK),19-Aug-15,7-Oct-16,415,Model S 70D,58335,140.2,351,No,58335,416,203,365,daily,monthly,twice a month,80%,174.43
+Asia Pacific & Europe (excl UK),13-Sep-16,15-Oct-16,32,Model S 90D,1980,60,445,No,1980,33,214,452,monthly,a few times a year,never,80%,5.19
+Asia Pacific & Europe (excl UK),4-Jun-14,11-Oct-16,860,Model S 85,136267,158.3,380,No,136267,861,182,400,twice a month,a few times a year,a few times a year,90%,328.25
+Asia Pacific & Europe (excl UK),3-Oct-16,20-Oct-16,17,Model X P90D,2746,152.6,378,No,2746,18,261,384,twice a week,a few times a year,a few times a year,90%,8.78
+Asia Pacific & Europe (excl UK),30-Oct-14,23-Oct-16,724,Model S 85,73402,101.2,383,No,73402,725,220,400,,,,,212.92
+Asia Pacific & Europe (excl UK),15-Nov-13,23-Oct-16,1073,Model S 85,126077,117.4,371,Yes,104562,891,226,400,a few times a year,a few times a year,a few times a year,90%,314.5
+Asia Pacific & Europe (excl UK),12-Jun-15,23-Oct-16,499,Model S 85D,27700,55.4,400,No,27700,500,215,430,twice a month,a few times a year,once or twice a year,80%,79.16
+Asia Pacific & Europe (excl UK),19-Dec-14,24-Oct-16,675,Model S 85,24183,35.8,383,No,24183,676,222,400,monthly,a few times a year,never,90%,70.37
+Asia Pacific & Europe (excl UK),15-Jul-15,29-Oct-16,472,Model S 85,66849,141.3,391,No,66849,473,218,400,,,,,190.2
+Asia Pacific & Europe (excl UK),13-Sep-16,16-Oct-16,33,Model S 90D,2500,73.5,450,No,2500,34,214,452,monthly,a few times a year,never,80%,6.51
+Asia Pacific & Europe (excl UK),10-Jun-14,24-Apr-15,318,Model S 85,36302,113.8,388,No,36302,319,220,400,weekly,a few times a year,never,80%,103.98
+Asia Pacific & Europe (excl UK),10-Jun-14,30-Jun-15,385,Model S 85,39821,103.2,381,No,39821,386,220,400,weekly,a few times a year,never,80%,115.09
+Asia Pacific & Europe (excl UK),10-Jun-14,1-Oct-15,478,Model S 85,48316,100.9,373,No,48316,479,220,400,weekly,a few times a year,never,80%,141.1
+Asia Pacific & Europe (excl UK),10-Jun-14,17-Jul-16,768,Model S 85,68068,88.5,376,No,68068,769,220,400,weekly,a few times a year,never,70%,198.02
+Asia Pacific & Europe (excl UK),25-Mar-15,2-Nov-16,588,Model S P85D,50105,85.1,387,No,50105,589,185,408,twice a month,a few times a year,once or twice a year,90%,122.04
+Asia Pacific & Europe (excl UK),8-Mar-16,26-Mar-16,18,Model S 90D,1196,62.9,450,No,1196,19,228,452,twice a month,monthly,never,90%,3.32
+Asia Pacific & Europe (excl UK),8-Mar-16,6-Apr-16,29,Model S 90D,2062,68.7,448,No,2062,30,226,452,twice a month,monthly,never,90%,5.69
+Asia Pacific & Europe (excl UK),8-Mar-16,21-Jun-16,105,Model S 90D,7133,67.3,448,No,7133,106,218,452,twice a month,monthly,never,,18.98
+Asia Pacific & Europe (excl UK),8-Mar-16,5-Aug-16,150,Model S 90D,10715,71,446,No,10715,151,215,452,twice a month,monthly,never,,28.18
+Asia Pacific & Europe (excl UK),8-Mar-16,3-Oct-16,209,Model S 90D,15001,71.4,439,No,15001,210,216,452,twice a month,a few times a year,never,,39.95
+Asia Pacific & Europe (excl UK),8-Mar-16,13-Oct-16,219,Model S 90D,18602,84.6,434,No,18602,220,213,452,twice a month,a few times a year,never,,49.13
+Asia Pacific & Europe (excl UK),15-Dec-14,28-Oct-16,683,Model S 85,26110,38.2,381,No,26110,684,213,400,once or twice a year,a few times a year,never,80%,73.08
+Asia Pacific & Europe (excl UK),13-Jan-16,30-Oct-16,291,Model S 90D,23990,82.2,450,No,23990,292,195,452,twice a month,a few times a year,once or twice a year,80%,56.97
+Asia Pacific & Europe (excl UK),10-Jun-14,25-Oct-16,868,Model S 85,76800,88.4,376,No,76800,869,220,400,monthly,a few times a year,never,60%,223.42
+Asia Pacific & Europe (excl UK),16-Oct-13,4-Nov-16,1115,Model S P85+,59750,53.5,380,No,59750,"1,116",225,400,once or twice a year,a few times a year,never,70%,176.87
+Asia Pacific & Europe (excl UK),3-Apr-15,29-Oct-16,575,Model S P85D,34205,59.4,383,No,34205,576,229,408,twice a month,monthly,once or twice a year,70%,104.29
+Asia Pacific & Europe (excl UK),29-Sep-15,2-Nov-16,400,Model S 90D,37900,94.5,433,No,37900,401,229,452,monthly,monthly,a few times a year,80%,107.73
+Asia Pacific & Europe (excl UK),29-Dec-14,20-Oct-16,661,Model S 85,24950,37.7,396,No,24950,662,215,400,twice a month,a few times a year,once or twice a year,90%,69.16
+Asia Pacific & Europe (excl UK),17-Jun-14,23-Sep-16,829,Model S P85,115834,139.6,384,No,115834,830,169,400,twice a month,a few times a year,once or twice a year,90%,257.78
+Asia Pacific & Europe (excl UK),2-Jul-13,4-Nov-16,1221,Model S 85,102000,83.5,376,No,102000,"1,222",205,400,monthly,monthly,a few times a year,90%,276.51
+Asia Pacific & Europe (excl UK),13-Nov-13,7-Nov-16,1090,Model S 85,91921,84.3,379,Yes,79921,949,234,400,monthly,a few times a year,once or twice a year,90%,246.34
+Asia Pacific & Europe (excl UK),4-Dec-15,10-Nov-16,342,Model S 70D,31273,91.2,349,No,31273,343,201,365,monthly,a few times a year,never,80%,92.85
+Asia Pacific & Europe (excl UK),24-Jun-14,11-Nov-16,871,Model S 85,112000,128.4,377,No,112000,872,221,400,monthly,monthly,a few times a year,90%,328.87
+Asia Pacific & Europe (excl UK),17-Mar-14,12-Nov-16,971,Model S P85,90000,92.6,374,No,90000,972,200,400,a few times a year,a few times a year,never,90%,238.65
+Asia Pacific & Europe (excl UK),10-Jun-15,12-Jun-15,2,Model S 85D,744,248,406,No,744,3,205,430,twice a month,monthly,once or twice a year,90%,2.01
+Asia Pacific & Europe (excl UK),10-Jun-15,25-Jun-15,15,Model S 85D,2908,181.8,406,No,2908,16,205,430,twice a month,monthly,once or twice a year,90%,7.87
+Asia Pacific & Europe (excl UK),10-Jun-15,30-Jun-15,20,Model S 85D,4021,191.5,407,No,4021,21,205,430,twice a month,monthly,once or twice a year,90%,10.86
+Asia Pacific & Europe (excl UK),10-Jun-15,9-Jul-15,29,Model S 85D,5488,182.9,405,No,5488,30,205,430,twice a month,monthly,once or twice a year,90%,14.86
+Asia Pacific & Europe (excl UK),10-Jun-15,14-Jul-15,34,Model S 85D,6204,177.3,404,No,6204,35,205,430,twice a month,monthly,once or twice a year,90%,16.82
+Asia Pacific & Europe (excl UK),10-Jun-15,9-Aug-15,60,Model S 85D,8626,141.4,404,No,8626,61,205,430,twice a month,monthly,once or twice a year,90%,23.39
+Asia Pacific & Europe (excl UK),10-Jun-15,17-Aug-15,68,Model S 85D,10762,156,403,No,10762,69,205,430,twice a month,monthly,once or twice a year,90%,29.21
+Asia Pacific & Europe (excl UK),10-Jun-15,20-Oct-15,132,Model S 85D,18650,140.2,393,No,18650,133,205,430,twice a month,monthly,once or twice a year,80%,51.25
+Asia Pacific & Europe (excl UK),10-Jun-15,30-Oct-15,142,Model S 85D,26279,183.8,391,No,26279,143,205,430,twice a month,monthly,once or twice a year,80%,72.38
+Asia Pacific & Europe (excl UK),10-Jun-15,9-Mar-16,273,Model S 85D,35030,127.8,401,No,35030,274,205,430,twice a month,monthly,once or twice a year,80%,95.32
+Asia Pacific & Europe (excl UK),10-Jun-15,12-Apr-16,307,Model S 85D,39966,129.8,405,No,39966,308,205,430,twice a month,monthly,once or twice a year,80%,108.23
+Asia Pacific & Europe (excl UK),10-Jun-15,28-Apr-16,323,Model S 85D,42641,131.6,404,No,42641,324,205,430,twice a month,monthly,once or twice a year,80%,115.62
+Asia Pacific & Europe (excl UK),10-Jun-15,12-May-16,337,Model S 85D,44051,130.3,408,No,44051,338,205,430,twice a month,monthly,once or twice a year,80%,118.87
+Asia Pacific & Europe (excl UK),10-Jun-15,20-May-16,345,Model S 85D,45490,131.5,407,No,45490,346,206,430,twice a month,monthly,once or twice a year,80%,123.49
+Asia Pacific & Europe (excl UK),10-Jun-15,21-Jun-16,377,Model S 85D,49489,130.9,408,No,49489,378,206,430,twice a month,monthly,once or twice a year,80%,134.19
+Asia Pacific & Europe (excl UK),10-Jun-15,28-Jun-16,384,Model S 85D,50600,131.4,409,No,50600,385,206,430,twice a month,monthly,once or twice a year,80%,137.04
+Asia Pacific & Europe (excl UK),10-Jun-15,31-Jul-16,417,Model S 85D,53720,128.5,411,No,53720,418,206,430,twice a month,monthly,once or twice a year,80%,145.14
+Asia Pacific & Europe (excl UK),10-Jun-15,14-Aug-16,431,Model S 85D,56320,130.4,411,No,56320,432,206,430,twice a month,monthly,once or twice a year,80%,152.16
+Asia Pacific & Europe (excl UK),10-Jun-15,12-Sep-16,460,Model S 85D,61226,132.8,413,No,61226,461,206,430,twice a month,monthly,once or twice a year,80%,165.02
+Asia Pacific & Europe (excl UK),10-Jun-15,21-Sep-16,469,Model S 85D,63010,134.1,414,No,63010,470,206,430,twice a month,monthly,once or twice a year,80%,169.62
+Asia Pacific & Europe (excl UK),10-Jun-15,10-Oct-16,488,Model S 85D,64468,131.8,415,No,64468,489,206,430,twice a month,monthly,once or twice a year,80%,173.35
+Asia Pacific & Europe (excl UK),10-Jun-15,11-Oct-16,489,Model S 85D,65086,132.8,416,No,65086,490,206,430,twice a month,monthly,once or twice a year,80%,174.8
+Asia Pacific & Europe (excl UK),10-Jun-15,12-Oct-16,490,Model S 85D,65739,133.9,414,No,65739,491,206,430,twice a month,monthly,once or twice a year,80%,176.97
+Asia Pacific & Europe (excl UK),10-Jun-15,18-Oct-16,496,Model S 85D,66604,134,417,No,66604,497,206,430,twice a month,monthly,once or twice a year,80%,178.67
+Asia Pacific & Europe (excl UK),10-Jun-15,25-Oct-16,503,Model S 85D,67245,133.4,415,No,67245,504,206,430,twice a month,monthly,once or twice a year,80%,180.81
+Asia Pacific & Europe (excl UK),10-Jun-15,27-Oct-16,505,Model S 85D,68687,135.7,415,No,68687,506,206,430,twice a month,monthly,once or twice a year,80%,184.69
+Asia Pacific & Europe (excl UK),24-Jun-16,8-Oct-16,106,Model S 75,1322,12.4,381,No,1322,107,188,380,,,,90%,3.37
+Asia Pacific & Europe (excl UK),24-Jun-16,15-Oct-16,113,Model S 75,3164,27.8,381,No,3164,114,187,380,,,,90%,8.03
+Asia Pacific & Europe (excl UK),24-Jun-16,3-Nov-16,132,Model S 75,4752,35.7,383,No,4752,133,188,380,,,,90%,12.09
+Asia Pacific & Europe (excl UK),30-Oct-14,14-Nov-16,746,Model S 85,77430,103.7,377,No,77430,747,193,400,twice a week,once or twice a year,never,90%,197.36
+Asia Pacific & Europe (excl UK),15-Dec-15,17-Nov-16,338,Model S 70D,28514,84.1,359,No,28514,339,203,365,,,,,84.32
+Asia Pacific & Europe (excl UK),29-Sep-15,18-Nov-16,416,Model S 90D,39193,94,433,No,39193,417,229,452,monthly,monthly,a few times a year,80%,111.4
+Asia Pacific & Europe (excl UK),8-Mar-16,11-Nov-16,248,Model S 90D,20421,82,439,No,20421,249,214,452,twice a month,twice a month,never,80%,53.88
+Asia Pacific & Europe (excl UK),26-Apr-16,19-Nov-16,207,Model S 70D,11989,57.6,362,No,11989,208,219,365,twice a month,a few times a year,a few times a year,90%,38.09
+Asia Pacific & Europe (excl UK),28-Apr-15,23-Nov-16,575,Model S 85D,88932,154.4,410,No,88932,576,203,430,a few times a year,monthly,once or twice a year,90%,237.05
+Asia Pacific & Europe (excl UK),24-Jun-16,23-Nov-16,152,Model S 75,6500,42.5,382,No,6500,153,189,380,twice a month,twice a month,once or twice a year,90%,16.75
+Asia Pacific & Europe (excl UK),30-Oct-14,24-Nov-16,756,Model S 85,78334,103.5,376,No,78334,757,194,400,twice a week,a few times a year,never,90%,200.95
+Asia Pacific & Europe (excl UK),30-Oct-14,27-Nov-16,759,Model S 85,78456,103.2,376,No,78456,760,194,400,,,,,201.26
+Asia Pacific & Europe (excl UK),13-May-15,28-Nov-16,565,Model S 85,60825,107.5,384,No,60825,566,205,400,monthly,a few times a year,never,90%,164.2
+Asia Pacific & Europe (excl UK),25-Jun-15,24-Nov-16,518,Model S 85,58163,112.1,378,No,58163,519,226,400,weekly,a few times a year,a few times a year,90%,173.36
+Asia Pacific & Europe (excl UK),10-Sep-13,28-Nov-16,1175,Model S P85,211500,179.8,358,No,211500,"1,176",212,400,twice a month,daily,a few times a year,100%,607.04
+Asia Pacific & Europe (excl UK),15-Oct-14,28-Nov-16,775,Model S 85,97602,125.8,373,No,97602,776,215,400,daily,a few times a year,monthly,90%,278.56
+Asia Pacific & Europe (excl UK),13-Sep-16,27-Nov-16,75,Model S 90D,8000,105.3,444,No,8000,76,220,452,daily,a few times a year,never,90%,21.58
+Asia Pacific & Europe (excl UK),15-Dec-15,1-Dec-16,352,Model S 70D,30000,85,358,No,30000,353,205,365,,,,,89.71
+Asia Pacific & Europe (excl UK),29-Sep-15,2-Dec-16,430,Model S 90D,39821,92.4,433,No,39821,431,230,452,monthly,monthly,a few times a year,80%,113.68
+Asia Pacific & Europe (excl UK),25-Nov-13,3-Dec-16,1104,Model S P85+,127974,115.8,370,No,127974,"1,105",224,400,a few times a year,weekly,a few times a year,90%,384.34
+Asia Pacific & Europe (excl UK),19-Aug-15,24-Nov-16,463,Model S 70D,65470,141.1,351,No,65470,464,203,365,weekly,monthly,a few times a year,80%,195.76
+Asia Pacific & Europe (excl UK),30-Oct-14,6-Dec-16,768,Model S 85,79700,103.6,376,No,79700,769,194,400,twice a week,a few times a year,never,90%,204.46
+Asia Pacific & Europe (excl UK),24-Jun-14,27-Nov-16,887,Model S 85,83000,93.5,377,No,83000,888,215,400,daily,a few times a year,never,90%,237.11
+Asia Pacific & Europe (excl UK),22-Nov-13,9-Dec-16,1113,Model S 85,119000,106.8,375,No,119000,"1,114",200,400,monthly,monthly,never,90%,317.05
+Asia Pacific & Europe (excl UK),24-Jun-16,9-Dec-16,168,Model S 75,8000,47.3,379,No,8000,169,192,380,,,,,21.02
+Asia Pacific & Europe (excl UK),31-Mar-16,9-Dec-16,253,Model S 70D,17070,67.2,357,No,17070,254,229,365,a few times a year,a few times a year,once or twice a year,90%,57.1
+Asia Pacific & Europe (excl UK),3-Apr-15,9-Dec-16,616,Model S P85D,36095,58.5,386,No,36095,617,230,408,twice a month,monthly,once or twice a year,70%,110.11
+Asia Pacific & Europe (excl UK),1-Nov-13,13-Dec-16,1138,Model S 85,128000,112.4,371,No,128000,"1,139",212,400,,,,,363.36
+Asia Pacific & Europe (excl UK),4-Jun-14,23-Nov-16,903,Model S 85,145160,160.6,377,No,145160,904,182,400,weekly,a few times a year,once or twice a year,90%,351.02
+Asia Pacific & Europe (excl UK),24-Jun-16,16-Dec-16,175,Model S 75,8400,47.7,380,No,8400,176,194,380,,,a few times a year,,22.27
+Asia Pacific & Europe (excl UK),13-Apr-16,18-Dec-16,249,Model S P90D,10001,40,402,No,10001,250,235,417,a few times a year,a few times a year,a few times a year,80%,29.09
+Asia Pacific & Europe (excl UK),15-Dec-15,1-Dec-16,352,Model S 70D,32054,90.8,358,No,32054,353,207,365,,,,,96.79
+Asia Pacific & Europe (excl UK),15-Mar-16,23-Dec-16,283,Model S 70D,32500,114.4,362,No,32500,284,204,365,monthly,twice a month,never,90%,96.78
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Dec-16,631,Model S P85D,36535,57.8,386,No,36535,632,230,408,twice a month,monthly,once or twice a year,70%,111.46
+Asia Pacific & Europe (excl UK),25-Nov-13,24-Dec-16,1125,Model S P85+,130200,115.6,376,No,130200,"1,126",218,400,a few times a year,twice a week,a few times a year,90%,377.61
+Asia Pacific & Europe (excl UK),26-Jun-16,26-Sep-16,92,Model S 90D,8000,86,444,No,8000,93,220,452,weekly,a few times a year,a few times a year,,21.71
+Asia Pacific & Europe (excl UK),26-Jun-16,30-Dec-16,187,Model S 90D,13500,71.8,436,No,13500,188,220,452,weekly,a few times a year,a few times a year,,36.97
+Asia Pacific & Europe (excl UK),23-Mar-14,31-Dec-16,1014,Model S 85,79950,78.8,389,No,79950,"1,015",218,400,,,,,228.07
+Asia Pacific & Europe (excl UK),19-Sep-13,31-Dec-16,1199,Model S 85,135000,112.5,368,No,135000,"1,200",241,400,twice a week,monthly,twice a week,90%,437.35
+Asia Pacific & Europe (excl UK),30-Oct-14,1-Jan-17,794,Model S 85,83021,104.4,377,No,83021,795,214,400,,,,,234.63
+Asia Pacific & Europe (excl UK),10-Jun-15,18-Nov-16,527,Model S 85D,70532,133.6,415,No,70532,528,206,430,twice a month,monthly,once or twice a year,80%,189.65
+Asia Pacific & Europe (excl UK),10-Jun-15,28-Nov-16,537,Model S 85D,71619,133.1,410,No,71619,538,206,430,twice a month,monthly,once or twice a year,80%,193.72
+Asia Pacific & Europe (excl UK),26-Nov-13,23-Dec-16,1123,Model S 85,70300,62.5,382,No,70300,"1,124",200,400,monthly,a few times a year,once or twice a year,80%,184.5
+Asia Pacific & Europe (excl UK),10-Jun-15,12-Dec-16,551,Model S 85D,72843,132,410,No,72843,552,206,430,twice a month,monthly,once or twice a year,80%,197.03
+Asia Pacific & Europe (excl UK),10-Jun-15,14-Dec-16,553,Model S 85D,73770,133.2,408,No,73770,554,206,430,twice a month,monthly,once or twice a year,80%,200.03
+Asia Pacific & Europe (excl UK),10-Jun-15,27-Dec-16,566,Model S 85D,74611,131.6,413,No,74611,567,206,430,twice a month,monthly,once or twice a year,80%,201.1
+Asia Pacific & Europe (excl UK),10-Jun-15,27-Dec-16,566,Model S 85D,74973,132.2,417,No,74973,567,206,430,twice a month,monthly,once or twice a year,80%,201.12
+Asia Pacific & Europe (excl UK),15-Jan-15,9-Nov-16,664,Model S P85D,63000,94.7,379,No,63000,665,220,408,weekly,a few times a year,a few times a year,90%,184.33
+Asia Pacific & Europe (excl UK),29-Sep-15,6-Jan-17,465,Model S 90D,41845,89.8,430,No,41845,466,231,452,monthly,monthly,a few times a year,80%,120.39
+Asia Pacific & Europe (excl UK),24-Jun-16,31-Dec-16,190,Model S 75,10239,53.6,377,No,10239,191,199,380,weekly,monthly,twice a month,90%,27.78
+Asia Pacific & Europe (excl UK),20-Nov-13,10-Jan-17,1147,Model S 85,171735,149.6,365,No,171735,"1,148",185,400,weekly,monthly,never,70%,428.75
+Asia Pacific & Europe (excl UK),26-Nov-13,9-Jan-17,1140,Model S 85,127174,111.5,374,No,127174,"1,141",223,400,a few times a year,a few times a year,once or twice a year,80%,375.98
+Asia Pacific & Europe (excl UK),15-Oct-14,16-Jan-17,824,Model S 85,104958,127.2,372,No,104958,825,217,400,twice a week,a few times a year,once or twice a year,90%,302.73
+Asia Pacific & Europe (excl UK),10-Sep-13,17-Jan-17,1225,Model S P85,222000,181.1,361,No,222000,"1,226",212,400,twice a week,daily,monthly,100%,638.45
+Asia Pacific & Europe (excl UK),20-Apr-16,19-Jan-17,274,Model S 90D,26700,97.1,430,No,26700,275,230,452,twice a month,twice a month,monthly,90%,76.48
+Asia Pacific & Europe (excl UK),30-Oct-14,21-Jan-17,814,Model S 85,86130,105.7,378,No,86130,815,208,400,,,,,236.28
+Asia Pacific & Europe (excl UK),13-May-14,23-Mar-16,680,Model S 85,38500,56.5,375,No,38500,681,220,400,a few times a year,a few times a year,never,80%,112.16
+Asia Pacific & Europe (excl UK),19-Aug-15,26-Jan-17,526,Model S 70D,73105,138.7,353,No,73105,527,205,365,weekly,monthly,a few times a year,80%,220.12
+Asia Pacific & Europe (excl UK),8-Mar-16,31-Jan-17,329,Model S 90D,25581,77.5,432,No,25581,330,222,452,twice a month,monthly,never,80%,70.57
+Asia Pacific & Europe (excl UK),13-May-14,1-Feb-17,995,Model S 85,56157,56.4,377,No,56157,996,220,400,,,,,163.17
+Asia Pacific & Europe (excl UK),29-Sep-15,3-Feb-17,493,Model S 90D,43090,87.2,427,No,43090,494,233,452,monthly,monthly,a few times a year,80%,125.47
+Asia Pacific & Europe (excl UK),26-Jun-16,5-Feb-17,224,Model S 90D,15000,66.7,433,No,15000,225,240,452,weekly,a few times a year,monthly,90%,44.96
+Asia Pacific & Europe (excl UK),23-Dec-13,5-Feb-17,1140,Model S P85,98000,85.9,374,No,98000,"1,141",212,400,twice a month,monthly,monthly,90%,275.45
+Asia Pacific & Europe (excl UK),31-Mar-16,9-Feb-17,315,Model S 70D,21000,66.5,358,No,21000,316,232,365,a few times a year,a few times a year,once or twice a year,90%,71.07
+Asia Pacific & Europe (excl UK),15-Mar-16,13-Feb-17,335,Model S 70D,37124,110.5,364,No,37124,336,207,365,a few times a year,twice a month,once or twice a year,90%,111.86
+Asia Pacific & Europe (excl UK),24-Jun-16,14-Feb-17,235,Model S 75,14950,63.3,372,No,14950,236,201,380,,,,,41.5
+Asia Pacific & Europe (excl UK),20-Nov-13,20-Feb-17,1188,Model S 85,176157,148.2,368,No,176157,"1,189",185,400,weekly,twice a month,never,60%,438.08
+Asia Pacific & Europe (excl UK),3-Apr-15,18-Feb-17,687,Model S P85D,39061,56.8,387,No,39061,688,232,408,twice a month,monthly,once or twice a year,70%,120.05
+Asia Pacific & Europe (excl UK),1-Sep-16,6-Nov-16,66,Model S 90D,800,11.9,441,No,800,67,236,452,monthly,a few times a year,never,90%,2.32
+Asia Pacific & Europe (excl UK),1-Sep-16,24-Dec-16,114,Model S 90D,2361,20.5,447,No,2361,115,219,452,monthly,a few times a year,never,90%,6.32
+Asia Pacific & Europe (excl UK),1-Sep-16,14-Jan-17,135,Model S 90D,4362,32.1,447,No,4362,136,219,452,monthly,a few times a year,never,90%,11.67
+Asia Pacific & Europe (excl UK),24-Jun-14,28-Feb-17,980,Model S 60,49800,50.8,260,No,49800,981,223,289,a few times a year,once or twice a year,never,90%,199.92
+Asia Pacific & Europe (excl UK),17-Mar-14,28-Feb-17,1079,Model S P85,100000,92.6,376,No,100000,"1,080",202,400,a few times a year,a few times a year,never,90%,267.11
+Asia Pacific & Europe (excl UK),10-Sep-13,1-Mar-17,1268,Model S P85,230000,181.2,360,No,230000,"1,269",212,400,twice a month,daily,a few times a year,100%,658.38
+Asia Pacific & Europe (excl UK),1-Dec-15,1-Mar-17,456,Model S 70,38020,83.2,359,No,38020,457,210,360,monthly,a few times a year,a few times a year,90%,115.5
+Asia Pacific & Europe (excl UK),17-Sep-13,27-Feb-17,1259,Model S 85,85000,67.5,369,No,85000,"1,260",212,400,monthly,a few times a year,once or twice a year,80%,241.94
+Asia Pacific & Europe (excl UK),19-Aug-15,3-Mar-17,562,Model S 70D,80104,142.3,350,No,80104,563,207,365,weekly,monthly,a few times a year,80%,244.58
+Asia Pacific & Europe (excl UK),15-Nov-13,3-Mar-17,1204,Model S 85,144744,120.1,371,Yes,120044,999,226,400,a few times a year,monthly,a few times a year,90%,361.06
+Asia Pacific & Europe (excl UK),17-Apr-16,3-Mar-17,320,Model S 70D,20000,62.3,344,No,20000,321,193,365,monthly,monthly,a few times a year,90%,57.43
+Asia Pacific & Europe (excl UK),15-Sep-16,3-Mar-17,169,Model S 75,28385,167,373,No,28385,170,198,380,,,,,77.02
+Asia Pacific & Europe (excl UK),19-Mar-16,8-Mar-17,354,Model S 85D,26663,75.1,430,No,26663,355,211,430,weekly,never,a few times a year,50%,72.15
+Asia Pacific & Europe (excl UK),24-Mar-14,8-Mar-17,1080,Model S 85,100000,92.5,359,No,100000,"1,081",210,400,monthly,a few times a year,once or twice a year,80%,283.95
+Asia Pacific & Europe (excl UK),3-Apr-15,11-Mar-17,708,Model S P85D,40014,56.4,388,No,40014,709,232,408,twice a month,monthly,once or twice a year,70%,122.82
+Asia Pacific & Europe (excl UK),30-Oct-14,14-Mar-17,866,Model S 85,93406,107.7,380,No,93406,867,206,400,twice a week,monthly,never,90%,253.12
+Asia Pacific & Europe (excl UK),5-Jun-15,2-Mar-17,636,Model S 85D,78500,123.2,412,No,78500,637,215,430,weekly,,a few times a year,90%,221.08
+Asia Pacific & Europe (excl UK),20-Nov-13,16-Mar-17,1212,Model S 85,180600,148.9,365,No,180600,"1,213",186,400,twice a week,monthly,once or twice a year,70%,453.32
+Asia Pacific & Europe (excl UK),13-May-15,21-Mar-17,678,Model S 85,75443,111.1,381,No,75443,679,205,400,a few times a year,once or twice a year,once or twice a year,80%,204.44
+Asia Pacific & Europe (excl UK),10-Sep-13,23-Mar-17,1290,Model S P85,235000,182,362,No,235000,"1,291",212,400,twice a month,daily,a few times a year,100%,670.9
+Asia Pacific & Europe (excl UK),30-Oct-14,27-Mar-17,879,Model S 85,95393,108.4,380,No,95393,880,205,400,,,,,257.25
+Asia Pacific & Europe (excl UK),15-May-15,31-Mar-17,686,Model S P85D,51605,75.1,388,No,51605,687,212,408,monthly,twice a month,once or twice a year,90%,144.74
+Asia Pacific & Europe (excl UK),8-Mar-16,29-Mar-17,386,Model S 90D,30786,79.6,431,No,30786,387,222,452,monthly,twice a month,never,90%,85.03
+Asia Pacific & Europe (excl UK),24-Jun-16,3-Apr-17,283,Model S 75,21634,76.2,375,No,21634,284,200,380,twice a week,monthly,monthly,70%,59.51
+Asia Pacific & Europe (excl UK),19-Aug-15,6-Apr-17,596,Model S 70D,84753,142,350,No,84753,597,207,365,weekly,monthly,a few times a year,80%,258.78
+Asia Pacific & Europe (excl UK),31-Mar-14,31-Jan-17,1037,Model S 85,65500,63.1,382,No,65500,"1,038",216,400,a few times a year,once or twice a year,never,60%,185.65
+Asia Pacific & Europe (excl UK),27-Dec-13,11-Apr-17,1201,Model S P85,201000,167.2,367,No,201000,"1,202",217,400,twice a month,weekly,once or twice a year,90%,583.54
+Asia Pacific & Europe (excl UK),29-Sep-15,13-Apr-17,562,Model S 90D,47860,85,425,No,47860,563,234,452,once or twice a year,a few times a year,monthly,80%,140.28
+Asia Pacific & Europe (excl UK),24-May-14,15-Apr-17,1057,Model S 60,54100,51.1,255,No,54100,"1,058",199,289,monthly,never,a few times a year,90%,195.59
+Asia Pacific & Europe (excl UK),19-Sep-15,15-Apr-17,574,Model S 70D,31913,55.5,348,No,31913,575,219,365,monthly,a few times a year,never,90%,103.39
+Asia Pacific & Europe (excl UK),28-Sep-16,17-Apr-17,201,Model X 90D,24980,123.7,398,No,24980,202,302,405,twice a month,a few times a year,a few times a year,90%,93.04
+Asia Pacific & Europe (excl UK),15-Nov-15,17-Apr-17,519,Model S 90D,51342,98.7,431,No,51342,520,218,452,twice a month,monthly,monthly,80%,139.24
+Asia Pacific & Europe (excl UK),13-Nov-13,18-Apr-17,1252,Model S 85,106530,85,371,Yes,94530,"1,112",234,400,monthly,a few times a year,once or twice a year,90%,294.4
+Asia Pacific & Europe (excl UK),8-Oct-14,16-Apr-17,921,Model S 85,117145,127.1,381,No,117145,922,224,400,twice a month,twice a month,a few times a year,,346.86
+Asia Pacific & Europe (excl UK),1-Dec-14,19-Apr-17,870,Model S 85,106000,121.7,369,No,106000,871,250,400,twice a week,monthly,twice a month,90%,353.61
+Asia Pacific & Europe (excl UK),10-Jun-14,21-Apr-17,1046,Model S 85,84877,81.1,383,No,84877,"1,047",218,400,weekly,a few times a year,never,60%,243.98
+Asia Pacific & Europe (excl UK),19-Sep-15,22-Apr-17,581,Model S 70D,32373,55.6,352,No,32373,582,212,365,monthly,a few times a year,once or twice a year,90%,100.96
+Asia Pacific & Europe (excl UK),4-Dec-14,28-Apr-17,876,Model S 85,34485,39.3,384,No,34485,877,,400,a few times a year,a few times a year,once or twice a year,80%,
+Asia Pacific & Europe (excl UK),19-Sep-15,29-Apr-17,588,Model S 70D,32788,55.7,345,No,32788,589,,365,a few times a year,a few times a year,never,90%,
+Asia Pacific & Europe (excl UK),24-Jun-16,28-Jun-17,369,Model S 75,24000,64.9,367,No,24000,370,196,380,weekly,twice a month,monthly,90%,65.4
+Asia Pacific & Europe (excl UK),30-Oct-14,3-May-17,916,Model S 85,97893,106.8,379,No,97893,917,204,400,,,,,263.22
+Asia Pacific & Europe (excl UK),29-Sep-15,3-May-17,582,Model S 90D,51222,87.9,428,No,51222,583,234,452,twice a month,a few times a year,monthly,80%,149.63
+Asia Pacific & Europe (excl UK),20-Sep-13,6-May-17,1324,Model S P85,140000,105.7,371,No,140000,"1,325",209,400,twice a month,twice a month,monthly,70%,391.81
+Asia Pacific & Europe (excl UK),10-Sep-13,9-May-17,1337,Model S P85,240000,179.4,366,No,240000,"1,338",212,400,twice a month,daily,a few times a year,100%,681.59
+Asia Pacific & Europe (excl UK),19-Aug-15,12-May-17,632,Model S 70D,91273,144.2,349,No,91273,633,207,365,weekly,monthly,a few times a year,80%,279.07
+Asia Pacific & Europe (excl UK),31-Mar-16,12-May-17,407,Model S 70D,27991,68.6,359,No,27991,408,234,365,a few times a year,a few times a year,once or twice a year,90%,95.41
+Asia Pacific & Europe (excl UK),1-Mar-14,14-May-17,1170,Model S P85,90375,77.2,366,No,90375,"1,171",220,400,weekly,monthly,a few times a year,60%,266.37
+Asia Pacific & Europe (excl UK),15-Mar-16,13-Apr-17,394,Model S 70D,43082,109.1,365,No,43082,395,209,365,monthly,twice a month,once or twice a year,90%,130.89
+Asia Pacific & Europe (excl UK),4-Jun-14,2-May-17,1063,Model S 85,172871,162.5,380,No,172871,"1,064",182,400,twice a month,a few times a year,a few times a year,90%,416.42
+Asia Pacific & Europe (excl UK),30-Oct-14,16-May-17,929,Model S 85,99100,106.6,379,No,99100,930,206,400,,,,,268.9
+Asia Pacific & Europe (excl UK),9-May-17,16-May-17,7,Model S P100D,1364,170.5,488,No,1364,8,188,488,weekly,a few times a year,never,80%,2.61
+Asia Pacific & Europe (excl UK),20-Oct-15,17-May-17,575,Model S 85D,47834,83,420,No,47834,576,218,430,twice a month,a few times a year,once or twice a year,70%,135.31
+Asia Pacific & Europe (excl UK),13-Dec-14,19-May-17,888,Model S 85,62000,69.7,380,No,62000,889,240,400,a few times a year,a few times a year,a few times a year,,195.76
+Asia Pacific & Europe (excl UK),3-Apr-15,19-May-17,777,Model S P85D,43470,55.9,389,No,43470,778,232,408,twice a month,monthly,once or twice a year,70%,133.27
+Asia Pacific & Europe (excl UK),24-Jun-16,19-May-17,329,Model S 75,27000,81.8,370,No,27000,330,194,380,weekly,monthly,a few times a year,90%,72.53
+Asia Pacific & Europe (excl UK),23-Feb-17,20-May-17,86,Model S 90D,8600,98.9,455,No,8600,87,214,452,twice a month,twice a month,once or twice a year,90%,22.29
+Asia Pacific & Europe (excl UK),25-Nov-13,24-Dec-16,1125,Model S P85+,147768,131.2,373,No,147768,"1,126",226,400,weekly,weekly,a few times a year,90%,443.3
+Asia Pacific & Europe (excl UK),26-Apr-16,28-May-17,397,Model S 70D,23635,59.4,362,No,23635,398,218,365,twice a month,once or twice a year,monthly,90%,74.75
+Asia Pacific & Europe (excl UK),28-Apr-17,1-Jun-17,34,Model S 75D,3272,93.5,388,No,3272,35,190,389,weekly,monthly,a few times a year,90%,8.51
+Asia Pacific & Europe (excl UK),8-Mar-16,6-Jun-17,455,Model S 90D,35581,78,429,No,35581,456,219,452,twice a month,twice a month,once or twice a year,90%,97.17
+Asia Pacific & Europe (excl UK),20-Aug-14,7-Apr-17,961,Model S 85,14857,15.4,389,No,14857,962,210,400,monthly,once or twice a year,never,80%,40.61
+Asia Pacific & Europe (excl UK),8-Mar-17,1-Apr-17,24,Model X 90D,100,4,395,No,100,25,225,405,monthly,once or twice a year,never,80%,0.28
+Asia Pacific & Europe (excl UK),10-Sep-13,9-Jun-17,1368,Model S P85,246000,179.7,367,No,246000,"1,369",212,400,twice a month,daily,a few times a year,100%,697.72
+Asia Pacific & Europe (excl UK),15-Nov-13,11-Jun-17,1304,Model S 85,154801,118.6,373,Yes,126801,"1,069",226,400,,,,,380.41
+Asia Pacific & Europe (excl UK),30-Oct-14,11-Jun-17,955,Model S 85,100315,104.9,380,No,100315,956,206,400,,,,,271.85
+Asia Pacific & Europe (excl UK),13-Dec-14,13-Jun-17,913,Model S 85,30287,33.1,378,No,30287,914,224,400,a few times a year,once or twice a year,a few times a year,80%,89.5
+Asia Pacific & Europe (excl UK),13-Jun-17,17-Jun-17,4,Model S 75,350,70,373,No,350,5,194,380,a few times a year,monthly,never,90%,0.93
+Asia Pacific & Europe (excl UK),8-Sep-16,21-Jun-17,286,Model S 70D,38000,132.4,343,No,38000,287,210,365,daily,a few times a year,never,90%,118.88
+Asia Pacific & Europe (excl UK),17-Mar-14,22-Jun-17,1193,Model S P85,110000,92.1,382,No,110000,"1,194",201,400,a few times a year,a few times a year,never,90%,290.11
+Asia Pacific & Europe (excl UK),29-Sep-15,21-Jun-17,631,Model S 90D,53328,84.4,427,No,53328,632,234,452,monthly,monthly,a few times a year,80%,155.95
+Asia Pacific & Europe (excl UK),13-Jun-17,24-Jun-17,11,Model S 75,736,61.3,373,No,736,12,196,380,monthly,monthly,never,90%,1.98
+Asia Pacific & Europe (excl UK),19-Sep-15,23-Jun-17,643,Model S 70D,37050,57.5,355,No,37050,644,200,365,monthly,monthly,never,90%,108.55
+Asia Pacific & Europe (excl UK),21-Dec-13,24-Jun-17,1281,Model S 85,116500,90.9,375,No,116500,"1,282",206,400,twice a month,a few times a year,once or twice a year,90%,319.71
+Asia Pacific & Europe (excl UK),22-May-15,19-May-17,728,Model X 90D,120728,165.6,400,No,120728,729,230,405,,,,,341.58
+Asia Pacific & Europe (excl UK),19-Sep-15,1-Jul-17,651,Model S 70D,37891,58.1,355,No,37891,652,203,365,monthly,twice a month,never,90%,112.68
+Asia Pacific & Europe (excl UK),25-Jun-15,10-Feb-17,596,Model S 85,66387,111.2,382,No,66387,597,222,400,a few times a year,a few times a year,a few times a year,90%,193.37
+Asia Pacific & Europe (excl UK),25-Jun-15,1-Apr-17,646,Model S 85,72626,112.3,382,No,72626,647,222,400,a few times a year,a few times a year,a few times a year,,211.54
+Asia Pacific & Europe (excl UK),3-Dec-15,5-Jun-17,550,Model S 85D,50000,90.7,421,No,50000,551,208,430,a few times a year,once or twice a year,never,80%,134.79
+Asia Pacific & Europe (excl UK),10-Sep-13,3-Jul-17,1392,Model S P85,206254,148.1,367,Yes,186254,"1,258",223,400,twice a month,twice a week,twice a month,90%,555.68
+Asia Pacific & Europe (excl UK),15-Oct-14,5-Jul-17,994,Model S 85,26726,26.9,378,No,26726,995,218,400,a few times a year,a few times a year,once or twice a year,80%,76.87
+Asia Pacific & Europe (excl UK),10-Sep-13,12-Jul-17,1401,Model S P85,251000,179,369,No,251000,"1,402",212,400,twice a month,daily,a few times a year,100%,710.02
+Asia Pacific & Europe (excl UK),10-Sep-13,13-Jul-17,1402,Model S P85,251200,179,369,No,251200,"1,403",212,400,twice a month,daily,a few times a year,100%,710.59
+Asia Pacific & Europe (excl UK),15-Jul-15,9-Jul-17,725,Model S 85,113000,155.6,381,No,113000,726,212,400,weekly,a few times a year,monthly,90%,316.66
+Asia Pacific & Europe (excl UK),15-Jul-15,10-Dec-16,514,Model S 85,70518,136.9,388,No,70518,515,214,400,,,,,197.71
+Asia Pacific & Europe (excl UK),29-Sep-15,13-Jul-17,653,Model S 90D,55201,84.4,425,No,55201,654,233,452,monthly,monthly,a few times a year,80%,161.11
+Asia Pacific & Europe (excl UK),1-Jun-15,13-Jul-17,773,Model S 85D,169000,218.3,414,No,169000,774,248,430,twice a week,twice a month,weekly,50%,551.08
+Asia Pacific & Europe (excl UK),13-Apr-16,22-Jul-17,465,Model S P90D,19700,42.3,400,No,19700,466,230,417,a few times a year,a few times a year,once or twice a year,80%,56.21
+Asia Pacific & Europe (excl UK),26-Nov-14,24-Jul-17,971,Model S 85,44471,45.8,385,No,44471,972,221,400,twice a month,never,never,80%,128.48
+Asia Pacific & Europe (excl UK),23-Feb-17,20-Jul-17,147,Model S 90D,13977,94.4,453,No,13977,148,207,452,twice a month,monthly,a few times a year,90%,35.11
+Asia Pacific & Europe (excl UK),19-Aug-15,20-Jul-17,701,Model S 70D,100449,143.1,348,No,100449,702,205,365,weekly,monthly,a few times a year,80%,304.59
+Asia Pacific & Europe (excl UK),24-Jun-16,28-Jul-17,399,Model S 75,32600,81.5,372,No,32600,400,189,380,monthly,a few times a year,a few times a year,90%,85.09
+Asia Pacific & Europe (excl UK),31-Mar-14,29-Jul-17,1216,Model S 85,78372,64.4,378,No,78372,"1,217",215,400,a few times a year,a few times a year,never,70%,222.25
+Asia Pacific & Europe (excl UK),13-Jun-17,29-Jul-17,46,Model S 75,7500,159.6,373,No,7500,47,192,380,monthly,a few times a year,never,80%,19.73
+Asia Pacific & Europe (excl UK),25-Jun-15,1-Aug-17,768,Model S 85,145128,188.7,370,No,145128,769,227,400,weekly,monthly,twice a month,90%,441.68
+Asia Pacific & Europe (excl UK),8-Sep-16,3-Aug-17,329,Model S 70D,42193,127.9,342,No,42193,330,205,365,daily,a few times a year,never,90%,129.03
+Asia Pacific & Europe (excl UK),16-Oct-13,3-Aug-17,1387,Model S P85+,68900,49.6,380,No,68900,"1,388",227,400,once or twice a year,once or twice a year,once or twice a year,70%,205.78
+Asia Pacific & Europe (excl UK),3-Apr-15,4-Aug-17,854,Model S P85D,46881,54.8,390,No,46881,855,232,408,twice a month,monthly,once or twice a year,70%,143.54
+Asia Pacific & Europe (excl UK),3-Apr-15,8-Aug-17,858,Model S P85D,46975,54.7,389,No,46975,859,232,408,twice a month,monthly,once or twice a year,70%,144.01
+Asia Pacific & Europe (excl UK),5-Feb-14,8-Aug-17,1280,Model S 85,74181,57.9,380,No,74181,"1,281",233,400,twice a month,monthly,never,70%,227.39
+Asia Pacific & Europe (excl UK),25-Jun-15,10-Aug-17,777,Model S 85D,114321,146.9,408,No,114321,778,230,430,twice a month,a few times a year,a few times a year,90%,346.09
+Asia Pacific & Europe (excl UK),31-Mar-17,10-Aug-17,132,Model S 90D,8900,66.9,456,No,8900,133,198,452,a few times a year,a few times a year,never,90%,21.32
+Asia Pacific & Europe (excl UK),05. April 2015,10. Aug 2017,#VALUE!,Model S P85D,88900,103.5,383,No,88900,859,188,408,,a few times a year,never,90%,221.15
+Asia Pacific & Europe (excl UK),4-Dec-14,29-Jul-17,968,Model S 85,37970,39.2,386,No,37970,969,218,400,monthly,a few times a year,a few times a year,90%,108.08
+Asia Pacific & Europe (excl UK),4-Dec-14,11-Aug-17,981,Model S 85,39951,40.7,384,No,39951,982,,400,,,,,
+Asia Pacific & Europe (excl UK),14-Feb-16,11-Aug-17,544,Model S 90D,42500,78,444,No,42500,545,210,452,weekly,a few times a year,a few times a year,90%,109.42
+Asia Pacific & Europe (excl UK),15-Jun-15,13-Aug-17,790,Model S 70D,171941,217.4,351,No,171941,791,188,365,daily,a few times a year,once or twice a year,,479.07
+Asia Pacific & Europe (excl UK),28-Feb-17,25-Jul-17,147,Model S 90D,5500,37.2,450,No,5500,148,193,452,a few times a year,once or twice a year,never,90%,12.93
+Asia Pacific & Europe (excl UK),10-Jun-14,12-Aug-17,1159,Model S 85,95640,82.4,379,No,95640,"1,160",218,400,weekly,a few times a year,never,70%,274.64
+Asia Pacific & Europe (excl UK),9-May-17,15-Aug-17,98,Model S P100D,9695,97.9,484,No,9695,99,,488,weekly,monthly,never,80%,
+Asia Pacific & Europe (excl UK),30-Nov-16,16-Aug-17,259,Model S 90D,22185,85.3,439,No,22185,260,218,452,twice a month,a few times a year,never,90%,59.63
+Asia Pacific & Europe (excl UK),24-Jun-14,16-Aug-17,1149,Model S 85,143425,124.7,371,No,143425,"1,150",217,400,twice a month,monthly,a few times a year,90%,416.74
+Asia Pacific & Europe (excl UK),7-Jul-16,17-Aug-17,406,Model S 75D,23357,57.4,375,No,23357,407,215,389,a few times a year,a few times a year,never,90%,69.88
+Asia Pacific & Europe (excl UK),28-Apr-17,1-Aug-17,95,Model S 90D,4501,46.9,452,No,4501,96,190,452,twice a month,a few times a year,never,80%,10.39
+Asia Pacific & Europe (excl UK),23-Dec-13,18-Aug-17,1334,Model S P85,121000,90.6,374,No,121000,"1,335",221,400,twice a month,monthly,a few times a year,90%,356.69
+Asia Pacific & Europe (excl UK),4-Jun-14,29-Jul-17,1151,Model S 85,187618,162.9,375,No,187618,"1,152",181.4,400,twice a month,a few times a year,once or twice a year,90%,453.36
+Asia Pacific & Europe (excl UK),19-Sep-13,21-Aug-17,1432,Model S 85,158400,110.5,368,Yes,158400,"1,433",201,400,twice a month,a few times a year,a few times a year,90%,428
+Asia Pacific & Europe (excl UK),15-Dec-15,21-Aug-17,615,Model S 70,67565,109.7,356,No,67565,616,227,360,twice a month,a few times a year,a few times a year,90%,224.2
+Asia Pacific & Europe (excl UK),30-Jun-16,21-Aug-17,417,Model S 90D,45389,108.6,425,No,45389,418,216,452,twice a week,a few times a year,twice a month,60%,122.8
+Asia Pacific & Europe (excl UK),30-Jun-14,22-Aug-17,1149,Model S P85,73397,63.8,379,No,73397,"1,150",205,400,a few times a year,a few times a year,once or twice a year,80%,199.43
+Asia Pacific & Europe (excl UK),20-Nov-13,23-Aug-17,1372,Model S 85,134709,98.1,377,No,134709,"1,373",217,400,twice a month,weekly,once or twice a year,80%,388.41
+Asia Pacific & Europe (excl UK),7-Jul-17,13-Aug-17,37,Model S 75D,6548,172.3,383,No,6548,38,183,389,weekly,monthly,once or twice a year,80%,16.4
+Asia Pacific & Europe (excl UK),26-Nov-13,20-Aug-17,1363,Model S P85,187612,137.5,376,No,187612,"1,364",205,400,weekly,twice a month,weekly,90%,508.55
+Asia Pacific & Europe (excl UK),4-Apr-16,24-Aug-17,507,Model S P85,64103,126.2,408,No,64103,508,207,400,a few times a year,a few times a year,never,80%,169.54
+Asia Pacific & Europe (excl UK),13-Jun-14,17-Jul-17,1130,Model S P85+,54475,48.2,378,No,54475,"1,131",218,400,weekly,a few times a year,a few times a year,,156.65
+Asia Pacific & Europe (excl UK),26-Mar-14,18-Mar-17,1088,Model S P85,52159,47.9,381,No,52159,"1,089",218,400,weekly,a few times a year,a few times a year,,149.41
+Asia Pacific & Europe (excl UK),26-Mar-14,22-Apr-17,1123,Model S P85,55071,49,381,No,55071,"1,124",218,400,weekly,a few times a year,a few times a year,,157.75
+Asia Pacific & Europe (excl UK),26-Mar-14,23-Apr-17,1124,Model S P85,55300,49.2,381,No,55300,"1,125",218,400,weekly,a few times a year,a few times a year,,158.4
+Asia Pacific & Europe (excl UK),13-Jun-14,21-Jul-17,1134,Model S P85+,54757,48.2,377,No,54757,"1,135",218,400,weekly,a few times a year,a few times a year,,157.67
+Asia Pacific & Europe (excl UK),13-Jun-14,11-Aug-17,1155,Model S P85+,57228,49.5,379,No,57228,"1,156",218,400,weekly,a few times a year,a few times a year,,164.35
+Asia Pacific & Europe (excl UK),25-Nov-13,25-Aug-17,1369,Model S P85+,154610,112.9,361,No,154610,"1,370",225,400,weekly,weekly,a few times a year,90%,469.12
+Asia Pacific & Europe (excl UK),13-Jun-14,27-Aug-17,1171,Model S P85+,58191,49.7,380,No,58191,"1,172",218,400,weekly,a few times a year,a few times a year,,166.91
+Asia Pacific & Europe (excl UK),10-Sep-13,28-Aug-17,1448,Model S P85,269000,185.6,363,No,269000,"1,449",212,400,twice a month,daily,a few times a year,100%,766.97
+Asia Pacific & Europe (excl UK),3-Apr-15,27-Aug-17,877,Model S P85D,48204,54.9,389,No,48204,878,232,408,twice a month,monthly,once or twice a year,70%,147.78
+Asia Pacific & Europe (excl UK),8-Mar-16,29-Aug-17,539,Model S 90D,42743,79.2,429,No,42743,540,215,452,twice a month,monthly,once or twice a year,90%,114.59
+Asia Pacific & Europe (excl UK),28-Apr-17,31-Aug-17,125,Model S 75D,10025,79.6,379,No,10025,126,179,389,weekly,a few times a year,a few times a year,90%,24.84
+Asia Pacific & Europe (excl UK),15-Sep-15,31-Aug-17,716,Model S 70D,91770,128,356,No,91770,717,178,365,monthly,monthly,never,80%,240.43
+Asia Pacific & Europe (excl UK),26-Mar-14,28-Aug-17,1251,Model S P85,64584,51.6,380,No,64584,"1,252",218,400,weekly,a few times a year,a few times a year,,185.24
+Asia Pacific & Europe (excl UK),21-Jan-17,27-Aug-17,218,Model S 90D,17966,82,448,No,17966,219,184,452,twice a month,a few times a year,never,80%,40.35
+Asia Pacific & Europe (excl UK),8-Sep-16,1-Sep-17,358,Model S 70D,46445,129.4,345,No,46445,359,202,365,daily,a few times a year,never,90%,139.36
+Asia Pacific & Europe (excl UK),10-Oct-13,4-Sep-17,1425,Model S 85,95422,66.9,379,No,95422,"1,426",244,400,a few times a year,weekly,a few times a year,90%,306.69
+Asia Pacific & Europe (excl UK),15-Oct-14,4-Sep-17,1055,Model S 85,137120,129.8,374,No,137120,"1,056",215,400,,,,,390.84
+Asia Pacific & Europe (excl UK),9-May-17,5-Sep-17,119,Model S 90D,9911,82.6,460,No,9911,120,191,452,a few times a year,monthly,a few times a year,80%,22.94
+Asia Pacific & Europe (excl UK),1-Nov-13,5-Sep-17,1404,Model S 85,113418,80.7,385,No,113418,"1,405",218,400,,,,,325.19
+Asia Pacific & Europe (excl UK),30-Nov-14,6-Sep-17,1011,Model S 85,69189,68.4,388,No,69189,"1,012",204,400,weekly,once or twice a year,once or twice a year,60%,183.79
+Asia Pacific & Europe (excl UK),15-Sep-15,8-Sep-17,724,Model S 70D,93005,128.3,351,No,93005,725,178,365,twice a month,monthly,never,80%,245.37
+Asia Pacific & Europe (excl UK),19-Sep-15,8-Sep-17,720,Model S 70D,42825,59.4,348,No,42825,721,189,365,monthly,monthly,once or twice a year,90%,119.74
+Asia Pacific & Europe (excl UK),26-Apr-17,11-Sep-17,138,Model X 100D,7170,51.6,450,No,7170,139,215,453,monthly,,,,15.72
+Asia Pacific & Europe (excl UK),24-Jun-16,9-Sep-17,442,Model S 75,37850,85.4,371,No,37850,443,186,380,,,,,97.35
+Asia Pacific & Europe (excl UK),25-Nov-13,25-Aug-17,1369,Model S P85+,156486,114.2,355,No,156486,"1,370",225,400,weekly,weekly,a few times a year,90%,478.61
+Asia Pacific & Europe (excl UK),13-Jun-17,12-Sep-17,91,Model S 75,10500,114.1,373,No,10500,92,190,380,monthly,monthly,never,80%,27.34
+Asia Pacific & Europe (excl UK),2-Jun-14,2-Sep-17,1188,Model S 85,106200,89.3,378,No,106200,"1,189",219,400,twice a month,twice a month,a few times a year,90%,306.74
+Asia Pacific & Europe (excl UK),23-Dec-15,10-Sep-17,627,Model S 90D,45500,72.5,433,No,45500,628,214,452,weekly,a few times a year,a few times a year,80%,120.87
+Asia Pacific & Europe (excl UK),20-Nov-13,19-Sep-17,1399,Model S 85,98400,70.3,371,No,98400,"1,400",209,400,monthly,monthly,once or twice a year,80%,275.4
+Asia Pacific & Europe (excl UK),28-Feb-17,15-Sep-17,199,Model S 90D,8200,41,449,No,8200,200,193,452,monthly,once or twice a year,never,90%,19.3
+Asia Pacific & Europe (excl UK),26-Nov-13,20-Sep-17,1394,Model S 85,152072,109,376,No,152072,"1,395",222,400,a few times a year,once or twice a year,once or twice a year,80%,446.41
+Asia Pacific & Europe (excl UK),10-Jan-17,24-Sep-17,257,Model S 90D,15800,61.2,450,No,15800,258,204,452,twice a week,twice a month,monthly,80%,39.5
+Asia Pacific & Europe (excl UK),24-Jun-16,24-Sep-17,457,Model S 75,40000,87.3,370,No,40000,458,185,380,,,,,102.46
+Asia Pacific & Europe (excl UK),29-Sep-15,22-Sep-17,724,Model S 90D,63637,87.8,422,No,63637,725,233,452,monthly,monthly,a few times a year,80%,186.38
+Asia Pacific & Europe (excl UK),16-Sep-17,25-Sep-17,9,Model X 100D,675,67.5,453,No,675,10,267,453,monthly,monthly,a few times a year,80%,1.82
+Asia Pacific & Europe (excl UK),26-Jun-16,26-Sep-17,457,Model S 90D,37500,81.9,427,No,37500,458,204,452,twice a month,monthly,a few times a year,80%,96.2
+Asia Pacific & Europe (excl UK),,28-Sep-17,43006,Model S 75,14806,,379,No,14806,,,380,a few times a year,a few times a year,once or twice a year,90%,
+Asia Pacific & Europe (excl UK),3-Apr-15,30-Sep-17,911,Model S P85D,50068,54.9,385,No,50068,912,232,408,twice a month,monthly,once or twice a year,70%,153.32
+Asia Pacific & Europe (excl UK),4-Jun-14,19-Sep-17,1203,Model S 85,196476,163.2,374,No,196476,"1,204",182,400,weekly,a few times a year,once or twice a year,90%,476.95
+Asia Pacific & Europe (excl UK),5-Feb-14,27-Sep-17,1330,Model S 85,80240,60.3,381,No,80240,"1,331",223,400,twice a month,twice a month,never,70%,235.1
+Asia Pacific & Europe (excl UK),19-Mar-16,5-Oct-17,565,Model S 85D,39929,70.5,429,No,39929,566,206.2,430,weekly,never,never,70%,105.72
+Asia Pacific & Europe (excl UK),4-Jul-17,5-Oct-17,93,Model X 100D,2000,21.3,453,No,2000,94,247,453,daily,once or twice a year,never,90%,5.02
+Asia Pacific & Europe (excl UK),14-Mar-14,5-Oct-17,1301,Model S P85,248884,191.2,364,No,248884,"1,302",223,400,twice a week,monthly,a few times a year,90%,749.94
+Asia Pacific & Europe (excl UK),14-Feb-16,4-Aug-17,537,Model S 70,52000,96.7,361,No,52000,538,210,360,monthly,a few times a year,never,80%,158.52
+Asia Pacific & Europe (excl UK),16-Sep-17,6-Oct-17,20,Model X 100D,1327,63.2,459,No,1327,21,268,453,monthly,monthly,a few times a year,80%,3.57
+Asia Pacific & Europe (excl UK),19-Aug-15,6-Oct-17,779,Model S 70D,112335,144,347,No,112335,780,204,365,twice a week,a few times a year,a few times a year,80%,339.45
+Asia Pacific & Europe (excl UK),1-Aug-17,7-Oct-17,67,Model S 90D,605,8.9,448,No,605,68,197,452,twice a week,a few times a year,once or twice a year,90%,1.46
+Asia Pacific & Europe (excl UK),1-Jun-16,7-Oct-17,493,Model S 90D,33886,68.6,445,No,33886,494,214,452,twice a month,once or twice a year,once or twice a year,80%,89.36
+Asia Pacific & Europe (excl UK),15-Jul-15,9-Sep-17,787,Model S 85,128867,163.5,379,No,128867,788,214,400,weekly,monthly,a few times a year,90%,365.47
+Asia Pacific & Europe (excl UK),1-Jun-17,10-Oct-17,131,Model S P100D,4781,36.2,482,No,4781,132,267,488,twice a month,monthly,monthly,90%,12.98
+Asia Pacific & Europe (excl UK),23-Dec-15,25-Aug-17,611,Model S 85D,44000,71.9,424,No,44000,612,205,430,a few times a year,once or twice a year,never,70%,117.23
+Asia Pacific & Europe (excl UK),13-Jun-17,14-Oct-17,123,Model S 75,12063,97.3,373,No,12063,124,189,380,monthly,monthly,never,80%,31.25
+Asia Pacific & Europe (excl UK),1-Aug-17,14-Oct-17,74,Model S 90D,1167,15.6,446,No,1167,75,191,452,twice a week,twice a month,once or twice a year,90%,2.73
+Asia Pacific & Europe (excl UK),13-May-15,15-Oct-17,886,Model S 85,117055,132,375,No,117055,887,185,400,weekly,monthly,a few times a year,80%,286.71
+Asia Pacific & Europe (excl UK),21-Apr-16,13-Oct-17,540,Model S 90D,99390,183.7,425,No,99390,541,220,452,twice a month,a few times a year,a few times a year,80%,273.87
+Asia Pacific & Europe (excl UK),1-Dec-15,16-Oct-17,685,Model S 85D,52000,75.8,417,No,52000,686,222,430,twice a month,monthly,a few times a year,80%,150.34
+Asia Pacific & Europe (excl UK),14-Nov-14,16-Oct-17,1067,Model S 85,157556,147.5,370,No,157556,"1,068",223,400,twice a month,a few times a year,twice a month,60%,468.22
+Asia Pacific & Europe (excl UK),30-Oct-14,18-Oct-17,1084,Model S 85,110360,101.7,377,No,110360,"1,085",204,400,,,,,297.32
+Asia Pacific & Europe (excl UK),21-Dec-13,18-Oct-17,1397,Model S 85,125000,89.4,370,No,125000,"1,398",206,400,twice a month,a few times a year,never,90%,343.18
+Asia Pacific & Europe (excl UK),1-Jun-17,27-Oct-17,148,Model S P100D,6472,43.4,478,No,6472,149,260,488,twice a month,twice a month,a few times a year,90%,17.18
+Asia Pacific & Europe (excl UK),19-Sep-15,28-Oct-17,770,Model S 70D,45754,59.3,348,No,45754,771,218,365,monthly,monthly,once or twice a year,90%,147.56
+Asia Pacific & Europe (excl UK),4-Jun-14,23-Oct-17,1237,Model S 85,202506,163.6,373,No,202506,"1,238",180,400,twice a month,a few times a year,once or twice a year,90%,486.82
+Asia Pacific & Europe (excl UK),28-Sep-16,1-Nov-17,399,Model X 90D,52783,132,372,No,52783,400,289,405,monthly,twice a month,twice a month,80%,194.42
+Asia Pacific & Europe (excl UK),30-Jun-16,6-Nov-17,494,Model S 90D,55961,113.1,424,No,55961,495,213,452,twice a week,a few times a year,weekly,50%,150.39
+Asia Pacific & Europe (excl UK),10-Sep-13,9-Nov-17,1521,Model S P85,276500,181.7,355,No,276500,"1,522",212,400,twice a month,daily,a few times a year,100%,796.78
+Asia Pacific & Europe (excl UK),10-Jun-14,13-Oct-17,1221,Model S 85,100790,82.5,378,No,100790,"1,222",218,400,twice a month,monthly,never,70%,289.79
+Asia Pacific & Europe (excl UK),1-Jan-17,17-Nov-17,320,Model S 75,38288,119.3,362,No,38288,321,206,380,weekly,a few times a year,a few times a year,,109.7
+Asia Pacific & Europe (excl UK),1-Apr-16,19-Nov-17,597,Model S 90D,37425,62.6,436,No,37425,598,,452,a few times a year,twice a month,once or twice a year,80%,
+Asia Pacific & Europe (excl UK),15-Sep-15,19-Nov-17,796,Model S 70D,102748,128.9,352,No,102748,797,,365,weekly,weekly,a few times a year,80%,
+Asia Pacific & Europe (excl UK),13-Sep-17,20-Nov-17,68,Model S 75D,3200,46.4,389,No,3200,69,,389,,,,,
+Asia Pacific & Europe (excl UK),8-Sep-16,22-Nov-17,440,Model S 70D,55355,125.5,340,No,55355,441,205,365,daily,once or twice a year,never,90%,169.77
+Asia Pacific & Europe (excl UK),1-Aug-17,26-Nov-17,117,Model S 90D,3323,28.2,449,No,3323,118,198,452,twice a week,monthly,once or twice a year,90%,8.02
+Asia Pacific & Europe (excl UK),8-Mar-16,27-Nov-17,629,Model S 90D,51364,81.5,431,No,51364,630,213,452,twice a month,monthly,a few times a year,70%,136.11
+Asia Pacific & Europe (excl UK),28-Sep-16,1-Dec-17,429,Model X 90D,56417,131.2,370,No,56417,430,,405,,,,,
+Asia Pacific & Europe (excl UK),5-Jun-15,1-Dec-17,910,Model S 85D,109111,119.8,410,No,109111,911,215,430,weekly,twice a month,a few times a year,90%,308.03
+Asia Pacific & Europe (excl UK),1-Nov-15,2-Dec-17,762,Model S 85D,115665,151.6,412,No,115665,763,240,430,twice a month,weekly,a few times a year,90%,363.62
+Asia Pacific & Europe (excl UK),19-Sep-15,3-Dec-17,806,Model S 70D,47832,59.3,350,No,47832,807,218,365,monthly,monthly,once or twice a year,90%,153.83
+Asia Pacific & Europe (excl UK),16-Dec-15,7-Dec-17,722,Model S 70D,66000,91.3,360,No,66000,723,210,365,,,,,201.61
+Asia Pacific & Europe (excl UK),20-Mar-15,8-Dec-17,994,Model S P85D,93075,93.5,379,No,93075,995,239,408,twice a month,monthly,monthly,90%,297.65
+Asia Pacific & Europe (excl UK),19-Aug-15,1-Dec-17,835,Model S 70D,119635,143.1,346,No,119635,836,204,365,twice a week,a few times a year,a few times a year,80%,362.03
+Asia Pacific & Europe (excl UK),3-Oct-14,9-Dec-17,1163,Model S P85+,101887,87.5,363,No,101887,"1,164",217,400,monthly,a few times a year,once or twice a year,90%,299.17
+Asia Pacific & Europe (excl UK),3-Oct-14,19-May-17,959,Model S P85+,75000,78.1,378,No,75000,960,217,400,twice a week,weekly,once or twice a year,100%,215.98
+Asia Pacific & Europe (excl UK),10-Aug-16,4-Dec-17,481,Model X 90D,28937,60,384,No,28937,482,218,405,monthly,a few times a year,a few times a year,80%,79.19
+Asia Pacific & Europe (excl UK),26-Jun-16,12-Dec-17,534,Model S 90D,46000,86,422,No,46000,535,224,452,monthly,a few times a year,a few times a year,90%,130.31
+Asia Pacific & Europe (excl UK),29-Sep-17,12-Dec-17,74,Model S 75D,8395,111.9,383,No,8395,75,218,389,weekly,a few times a year,never,,25.04
+Asia Pacific & Europe (excl UK),17-Mar-14,16-Dec-17,1370,Model S P85,120000,87.5,373,No,120000,"1,371",200,400,a few times a year,a few times a year,never,90%,318.61
+Asia Pacific & Europe (excl UK),12-Dec-14,20-Dec-17,1104,Model S 85,82512,74.7,379,No,82512,"1,105",218,400,twice a week,a few times a year,once or twice a year,90%,236.94
+Asia Pacific & Europe (excl UK),16-May-17,21-Dec-17,219,Model S P100D,19589,89,472,No,19589,220,242.4,488,twice a week,once or twice a year,once or twice a year,80%,48.78
+Asia Pacific & Europe (excl UK),21-Dec-17,21-Dec-17,0,Model S 100D,150,150,509,No,150,1,220,515,weekly,monthly,never,90%,0.34
+Asia Pacific & Europe (excl UK),9-May-17,21-Dec-17,226,Model S P100D,13558,59.7,480,No,13558,227,182,488,twice a month,a few times a year,once or twice a year,80%,25.29
+Asia Pacific & Europe (excl UK),10-Dec-13,21-Dec-17,1472,Model S P85,175896,119.4,381,Yes,126896,"1,063",203,400,twice a week,twice a month,twice a month,90%,340.52
+Asia Pacific & Europe (excl UK),23-Mar-17,25-Dec-17,277,Model S 90D,50153,180.4,432,No,50153,278,206,452,weekly,monthly,once or twice a year,90%,128.37
+Asia Pacific & Europe (excl UK),3-Apr-15,24-Dec-17,996,Model S P85D,54120,54.3,384,No,54120,997,232,408,twice a month,monthly,once or twice a year,70%,165.94
+Asia Pacific & Europe (excl UK),26-Jun-17,23-Dec-17,180,Model S 75D,2700,14.9,393,No,2700,181,220,389,weekly,monthly,a few times a year,80%,8.03
+Asia Pacific & Europe (excl UK),16-Oct-13,26-Dec-17,1532,Model S P85+,78126,51,382,No,78126,"1,533",226,400,once or twice a year,once or twice a year,once or twice a year,70%,231.7
+Asia Pacific & Europe (excl UK),28-Mar-15,26-Dec-17,1004,Model S P85D,37444,37.3,390,No,37444,"1,005",239,408,twice a week,a few times a year,monthly,80%,117.39
+Asia Pacific & Europe (excl UK),16-Sep-17,28-Dec-17,103,Model X 100D,8600,82.7,457,No,8600,104,286,453,monthly,monthly,a few times a year,80%,24.73
+Asia Pacific & Europe (excl UK),22-Nov-17,27-Dec-17,35,Model S 75D,2642,73.4,384,No,2642,36,240,389,twice a month,a few times a year,a few times a year,90%,8.67
+Asia Pacific & Europe (excl UK),11-Dec-13,28-Dec-17,1478,Model S P85,164858,111.5,368,No,164858,"1,479",225,400,twice a month,a few times a year,a few times a year,90%,495.61
+Asia Pacific & Europe (excl UK),26-Apr-16,15-Nov-17,568,Model S 70D,38729,68.1,355,No,38729,569,208,365,twice a month,a few times a year,a few times a year,90%,118.01
+Asia Pacific & Europe (excl UK),19-Feb-15,30-Dec-16,680,Model S 90D,53335,78.3,430,No,53335,681,220,452,monthly,a few times a year,a few times a year,80%,146.14
+Asia Pacific & Europe (excl UK),23-Mar-17,20-Dec-17,272,Model S 75,18800,68.9,372,No,18800,273,168,380,a few times a year,a few times a year,never,70%,43.62
+Asia Pacific & Europe (excl UK),3-Apr-15,31-Dec-17,1003,Model S P85D,54460,54.2,382,No,54460,"1,004",232,408,twice a month,monthly,once or twice a year,70%,167.41
+Asia Pacific & Europe (excl UK),14-Jun-17,1-Jan-18,201,Model S 75,17013,84.2,368,No,17013,202,201,380,monthly,monthly,never,80%,47.18
+Asia Pacific & Europe (excl UK),24-Jun-16,2-Jan-18,557,Model S 75,51500,92.3,366,No,51500,558,187,380,twice a month,monthly,once or twice a year,70%,133.23
+Asia Pacific & Europe (excl UK),26-Mar-14,5-Jan-18,1381,Model S P85,72849,52.7,377,No,72849,"1,382",218,400,twice a month,a few times a year,a few times a year,90%,209.76
+Asia Pacific & Europe (excl UK),1-Jun-17,7-Jan-18,220,Model S 90D,10177,46,445,No,10177,221,220,452,twice a month,a few times a year,a few times a year,90%,27.43
+Asia Pacific & Europe (excl UK),31-Mar-17,26-Dec-17,270,Model S 90D,14500,53.5,446,No,14500,271,204,452,a few times a year,a few times a year,never,90%,36.19
+Asia Pacific & Europe (excl UK),8-Sep-16,10-Jan-18,489,Model S 70D,60219,122.9,342,No,60219,490,204,365,daily,monthly,never,90%,183.27
+Asia Pacific & Europe (excl UK),15-Sep-15,11-Jan-18,849,Model S 70D,110000,129.4,348,No,110000,850,205,365,weekly,twice a month,a few times a year,80%,335.62
+Asia Pacific & Europe (excl UK),7-Dec-15,13-Jan-18,768,Model S 90D,77257,100.5,423,No,77257,769,225,452,twice a month,twice a month,twice a month,80%,218.24
+Asia Pacific & Europe (excl UK),20-Oct-15,15-Jan-18,818,Model S 85D,64476,78.7,422,No,64476,819,218,430,twice a month,a few times a year,once or twice a year,70%,181.96
+Asia Pacific & Europe (excl UK),30-Sep-15,16-Jan-18,839,Model S P90D,35333,42.1,402,No,35333,840,240,417,a few times a year,a few times a year,a few times a year,,104.95
+Asia Pacific & Europe (excl UK),24-Aug-15,15-Jan-18,875,Model S 70D,30174,34.4,356,No,30174,876,230,365,a few times a year,a few times a year,a few times a year,,101.54
+Asia Pacific & Europe (excl UK),23-Nov-16,17-Jan-18,420,Model S 90D,34000,80.8,432,No,34000,421,225,452,twice a month,once or twice a year,a few times a year,,95.65
+Asia Pacific & Europe (excl UK),13-Dec-14,17-Jan-18,1131,Model S 85,75000,66.3,374,No,75000,"1,132",225,400,monthly,twice a month,a few times a year,90%,223.74
+Asia Pacific & Europe (excl UK),21-May-15,14-Dec-17,938,Model S 85D,73450,78.2,409,No,73450,939,235,430,twice a month,a few times a year,a few times a year,,226.93
+Asia Pacific & Europe (excl UK),21-May-15,15-Jan-16,239,Model S 85D,20800,86.7,414,No,20800,240,230,430,twice a month,a few times a year,a few times a year,90%,62.52
+Asia Pacific & Europe (excl UK),24-Jun-14,17-Jan-18,1303,Model S 85,159812,122.6,373,No,159812,"1,304",218,400,twice a month,monthly,a few times a year,90%,465.29
+Asia Pacific & Europe (excl UK),27-Nov-13,18-Jan-18,1513,Model S P85,115805,76.5,367,No,115805,"1,514",219,400,monthly,a few times a year,once or twice a year,80%,339.33
+Asia Pacific & Europe (excl UK),1-Jun-15,18-Jan-18,962,Model S 85D,228291,237.1,403,No,228291,963,249,430,twice a week,twice a month,twice a month,90%,757.3
+Asia Pacific & Europe (excl UK),19-Aug-15,20-Jan-18,885,Model S 70D,127380,143.8,346,No,127380,886,204,365,twice a week,a few times a year,a few times a year,80%,385.47
+Asia Pacific & Europe (excl UK),23-Dec-16,20-Jan-18,393,Model S 90D,14500,36.8,435,No,14500,394,244,452,monthly,weekly,a few times a year,90%,43.82
+Asia Pacific & Europe (excl UK),17-Dec-15,12-Jan-18,757,Model S 85,38500,50.8,385,No,38500,758,218,400,,,,80%,109.72
+Asia Pacific & Europe (excl UK),21-Jan-17,23-Jan-18,367,Model S 90D,33608,91.3,442,No,33608,368,194,452,twice a month,a few times a year,a few times a year,80%,80.11
+Asia Pacific & Europe (excl UK),22-Aug-16,18-Jan-18,514,Model S 90D,25500,49.5,431,No,25500,515,210,452,monthly,a few times a year,a few times a year,50%,66.63
+Asia Pacific & Europe (excl UK),25-Nov-13,25-Aug-17,1369,Model S P85+,171255,125,358,No,171255,"1,370",225,400,weekly,twice a month,twice a month,90%,524.8
+Asia Pacific & Europe (excl UK),2-Sep-15,24-Jan-18,875,Model S 85,62010,70.8,385,No,62010,876,215,400,twice a week,a few times a year,never,80%,174.27
+Asia Pacific & Europe (excl UK),24-Nov-17,23-Jan-18,60,Model S 75D,6900,113.1,389,No,6900,61,233,389,twice a month,weekly,a few times a year,90%,21.97
+Asia Pacific & Europe (excl UK),10-Dec-13,23-Jan-18,1505,Model S P85,361500,240,355,Yes,284500,"1,185",233,400,twice a week,twice a week,weekly,90%,906.37
+Asia Pacific & Europe (excl UK),9-Nov-17,25-Jan-18,77,Model S 75D,1672,21.4,384,No,1672,78,240,389,a few times a year,a few times a year,once or twice a year,70%,5.49
+Asia Pacific & Europe (excl UK),12-Dec-16,25-Jan-18,409,Model S 75,56000,136.6,370,No,56000,410,206,380,twice a week,twice a month,twice a month,90%,159.71
+Asia Pacific & Europe (excl UK),15-Mar-16,23-Jan-18,679,Model S 70D,68968,101.4,355,No,68968,680,207,365,monthly,a few times a year,once or twice a year,90%,209.12
+Asia Pacific & Europe (excl UK),30-Sep-16,25-Jan-18,482,Model X 90D,81000,167.7,380,No,81000,483,257,405,a few times a year,a few times a year,monthly,80%,262.61
+Asia Pacific & Europe (excl UK),5-Jun-15,26-Jan-18,966,Model S 85D,112809,116.7,405,No,112809,967,217,430,weekly,monthly,a few times a year,90%,323.38
+Asia Pacific & Europe (excl UK),18-Apr-17,18-Apr-17,0,Model X 75D,120,120,336,No,120,1,260,334,weekly,a few times a year,twice a month,80%,0.42
+Asia Pacific & Europe (excl UK),18-Apr-17,18-Jun-17,61,Model X 75D,7000,112.9,334,No,7000,62,235,334,,,,,22.48
+Asia Pacific & Europe (excl UK),18-Apr-17,12-Dec-17,238,Model X 75D,29500,123.4,322,No,29500,239,235,334,,,,,96.45
+Asia Pacific & Europe (excl UK),18-Apr-17,14-Jan-18,271,Model X 75D,33400,122.8,324,No,33400,272,238,334,,,,,110.26
+Asia Pacific & Europe (excl UK),26-Jun-17,5-Oct-17,101,Model S 90D,9500,93.1,456,No,9500,102,217,452,twice a month,once or twice a year,once or twice a year,90%,25.1
+Asia Pacific & Europe (excl UK),21-May-15,1/25/18,980,Model S 85D,74909,76.4,410,No,74909,981,228,430,,,,,224.28
+Asia Pacific & Europe (excl UK),5-Feb-14,27-Jan-18,1452,Model S 85,90048,62,379,No,90048,"1,453",224,400,monthly,a few times a year,never,60%,265.71
+Asia Pacific & Europe (excl UK),20-Mar-15,28-Jan-18,1045,Model S P85D,97594,93.3,378,No,97594,"1,046",243,408,twice a month,monthly,monthly,90%,317.72
+Asia Pacific & Europe (excl UK),20-Mar-15,31-Jan-18,1048,Model S P85D,97738,93.2,376,No,97738,"1,049",243,408,twice a month,monthly,monthly,90%,317.09
+Asia Pacific & Europe (excl UK),24-Apr-17,31-Jan-18,282,Model S 75D,18375,64.9,384,No,18375,283,198,389,twice a month,monthly,never,90%,49.73
+Asia Pacific & Europe (excl UK),1-Jun-17,1-Feb-18,245,Model S P100D,16476,67,472,No,16476,246,288,488,twice a month,a few times a year,a few times a year,90%,48.73
+Asia Pacific & Europe (excl UK),7-Jul-17,4-Feb-18,212,Model S 75D,25247,118.5,367,No,25247,213,201,389,a few times a year,once or twice a year,once or twice a year,80%,70.92
+Asia Pacific & Europe (excl UK),26-Jun-15,4-Feb-18,954,Model S P85D,112572,117.9,373,No,112572,955,234,408,twice a week,a few times a year,a few times a year,80%,355.17
+Asia Pacific & Europe (excl UK),7-Jul-17,4-Feb-18,212,Model S 75D,25456,119.5,367,No,25456,213,201,389,a few times a year,once or twice a year,once or twice a year,80%,71.95
+Asia Pacific & Europe (excl UK),15-Jul-15,6-Feb-18,937,Model S 85,157267,167.7,368,No,157267,938,216,400,twice a month,twice a month,twice a month,90%,453.86
+Asia Pacific & Europe (excl UK),16-Mar-15,6-Feb-18,1058,Model S 85,140504,132.7,371,No,140504,"1,059",220,400,twice a month,monthly,once or twice a year,80%,413.9
+Asia Pacific & Europe (excl UK),22-Dec-16,7-Feb-18,412,Model S 75D,30325,73.4,373,No,30325,413,218,389,twice a week,monthly,a few times a year,,91.66
+Asia Pacific & Europe (excl UK),26-Jun-17,31-Jan-18,219,Model S 75D,7100,32.3,392,No,7100,220,240,389,weekly,a few times a year,a few times a year,70%,23.05
+Asia Pacific & Europe (excl UK),24-Dec-14,8-Feb-18,1142,Model S 85,42419,37.1,377,No,42419,"1,143",195,400,monthly,a few times a year,never,90%,109.27
+Asia Pacific & Europe (excl UK),23-Jan-14,8-Feb-18,1477,Model S P85,113204,76.6,372,No,113204,"1,478",219,400,weekly,monthly,a few times a year,60%,329.54
+Asia Pacific & Europe (excl UK),25-Nov-13,12-Feb-18,1540,Model S P85+,173000,112.3,372,No,173000,"1,541",225,400,twice a month,twice a month,a few times a year,90%,520.54
+Asia Pacific & Europe (excl UK),24-Apr-17,12-Feb-18,294,Model S 75D,19529,66.2,383,No,19529,295,198,389,twice a month,monthly,never,90%,52.92
+Asia Pacific & Europe (excl UK),24-Jun-16,21-Feb-18,607,Model S 75,55200,90.8,364,No,55200,608,188,380,,,,,144.85
+Asia Pacific & Europe (excl UK),28-Nov-14,20-Feb-18,1180,Model S 85,178000,150.7,381,No,178000,"1,181",213,400,daily,a few times a year,monthly,50%,501.16
+Asia Pacific & Europe (excl UK),2-Jan-18,12-Feb-18,41,Model S 75D,2430,57.9,383,No,2430,42,,389,,,,,
+Asia Pacific & Europe (excl UK),28-Nov-13,28-Feb-18,1553,Model S P85,131600,84.7,375,Yes,105541,"1,246",206,400,a few times a year,once or twice a year,never,80%,287.87
+Asia Pacific & Europe (excl UK),15-Jul-15,1-Mar-18,960,Model S 85,162000,168.6,369,No,162000,961,217,400,,,,,469.07
+Asia Pacific & Europe (excl UK),16-Jul-15,2-Mar-18,960,Model S 70,50000,52,360,No,50000,961,216,360,,,,,157.02
+Asia Pacific & Europe (excl UK),10-Aug-16,17-Feb-18,556,Model X 90D,35116,63,384,No,35116,557,218,405,monthly,a few times a year,a few times a year,70%,96.1
+Asia Pacific & Europe (excl UK),26-Mar-14,25-Feb-18,1432,Model S P85,75554,52.7,375,No,75554,"1,433",218,400,,,,,218.1
+Asia Pacific & Europe (excl UK),21-Jan-17,4-Mar-18,407,Model S 90D,38003,93.1,440,No,38003,408,198,452,twice a month,a few times a year,a few times a year,80%,92.66
+Asia Pacific & Europe (excl UK),28-Mar-15,8-Mar-18,1076,Model S P85D,42500,39.5,385,No,42500,"1,077",245,408,weekly,monthly,monthly,90%,137.45
+Asia Pacific & Europe (excl UK),16-Sep-17,8-Mar-18,173,Model X 100D,14054,80.8,456,No,14054,174,292,453,monthly,a few times a year,a few times a year,90%,41.31
+Asia Pacific & Europe (excl UK),31-Mar-14,2-Mar-18,1432,Model S 85,90850,63.4,377,No,90850,"1,433",218,400,a few times a year,once or twice a year,never,70%,261.58
+Asia Pacific & Europe (excl UK),10/1/15,21-Feb-18,874,Model S 85D,115848,132.4,401,No,115848,875,238,430,monthly,a few times a year,never,70%,365.98
+Asia Pacific & Europe (excl UK),28-Sep-16,12-Mar-18,530,Model X 90D,67374,126.9,371,No,67374,531,298,405,weekly,,a few times a year,,256.23
+Asia Pacific & Europe (excl UK),26-Jun-17,26-Feb-18,245,Model S 75D,10000,40.7,392,No,10000,246,243,389,weekly,a few times a year,a few times a year,70%,32.87
+Asia Pacific & Europe (excl UK),23-Nov-13,15-Mar-18,1573,Model S 85,113500,72.1,373,No,113500,"1,574",209,400,a few times a year,a few times a year,once or twice a year,80%,316.84
+Asia Pacific & Europe (excl UK),4-Jun-14,16-Mar-18,1381,Model S 85,228132,165.1,368,No,228132,"1,382",181,400,weekly,a few times a year,once or twice a year,90%,555.06
+Asia Pacific & Europe (excl UK),20-Aug-17,16-Mar-18,208,Model S 100D,16000,76.6,490,No,16000,209,260,515,twice a month,monthly,a few times a year,90%,43.07
+Asia Pacific & Europe (excl UK),17-Mar-14,23-Mar-18,1467,Model S P85,130075,88.6,376,No,130075,"1,468",203,400,a few times a year,monthly,never,90%,349.17
+Asia Pacific & Europe (excl UK),26-Nov-13,23-Mar-18,1578,Model S 85,168691,106.8,366,No,168691,"1,579",218,400,a few times a year,a few times a year,a few times a year,70%,492.66
+Asia Pacific & Europe (excl UK),15-Aug-16,27-Mar-18,589,Model S 90D,47414,80.4,426,No,47414,590,216,452,monthly,a few times a year,never,80%,128.15
+Asia Pacific & Europe (excl UK),8-Sep-16,28-Mar-18,566,Model S 70D,69089,121.9,343,No,69089,567,212,365,daily,a few times a year,,,218.2
+Asia Pacific & Europe (excl UK),1-Aug-16,29-Mar-18,605,Model S 90D,60968,100.6,435,No,60968,606,218,452,a few times a year,monthly,monthly,90%,164.6
+Asia Pacific & Europe (excl UK),15-Sep-15,30-Mar-18,927,Model S 70D,118015,127.2,346,No,118015,928,205,365,weekly,monthly,a few times a year,80%,361.09
+Asia Pacific & Europe (excl UK),31-Mar-18,2-Apr-18,2,Model S P100D,180,60,481,No,180,3,320,488,twice a week,a few times a year,a few times a year,90%,0.59
+Asia Pacific & Europe (excl UK),10-Jan-17,27-Mar-18,441,Model S 90D,27000,61.1,443,No,27000,442,204,452,twice a week,twice a month,monthly,80%,68.03
+Asia Pacific & Europe (excl UK),26-Jun-16,2-Apr-18,645,Model S 90D,50000,77.4,420,No,50000,646,220,452,twice a month,a few times a year,once or twice a year,80%,138.59
+Asia Pacific & Europe (excl UK),16-Sep-17,6-Apr-18,202,Model X 100D,17449,86,456,No,17449,203,288,453,twice a month,monthly,a few times a year,90%,50.59
+Asia Pacific & Europe (excl UK),4-Sep-13,8-Apr-18,1677,Model S P85+,273200,162.8,360,Yes,245492,"1,508",203,400,twice a week,weekly,weekly,90%,672.9
+Asia Pacific & Europe (excl UK),11-Oct-13,2-Apr-18,1634,Model S 85,129000,78.9,360,Yes,145412,"1,843",210,400,a few times a year,a few times a year,a few times a year,80%,412.36
+Asia Pacific & Europe (excl UK),1-May-14,10-Apr-18,1440,Model S P85,50000,34.7,386,No,50000,"1,441",155,400,a few times a year,a few times a year,once or twice a year,80%,101.21
+Asia Pacific & Europe (excl UK),30-Jun-16,11-Apr-18,650,Model S 90D,74117,113.9,422,No,74117,651,217,452,daily,once or twice a year,a few times a year,60%,203.4
+Asia Pacific & Europe (excl UK),5-Feb-14,11-Apr-18,1526,Model S 85,94980,62.2,382,No,94980,"1,527",223,400,a few times a year,a few times a year,never,60%,279.65
+Asia Pacific & Europe (excl UK),10-Aug-17,12-Apr-18,245,Model S 75D,9604,39,393,No,9604,246,215,389,a few times a year,twice a month,never,80%,27.9
+Asia Pacific & Europe (excl UK),1-Aug-13,12-Apr-18,1715,Model S 85,211130,123,381,Yes,211130,"1,716",224,400,,,,,621.3
+Asia Pacific & Europe (excl UK),21-Dec-17,13-Apr-18,113,Model S 100D,8560,75.1,505,No,8560,114,243,515,twice a week,a few times a year,never,80%,21.22
+Asia Pacific & Europe (excl UK),19-Aug-15,12-Apr-18,967,Model S 70D,138550,143.1,345,No,138550,968,207,365,twice a week,a few times a year,a few times a year,80%,426.02
+Asia Pacific & Europe (excl UK),1-Sep-16,31-Mar-18,576,Model S 90D,22827,39.6,441,No,22827,577,225,452,monthly,a few times a year,a few times a year,90%,63.19
+Asia Pacific & Europe (excl UK),31-Mar-16,27-Mar-18,726,Model S 90D,37740,51.9,432,No,37740,727,214,452,monthly,monthly,a few times a year,90%,100.37
+Asia Pacific & Europe (excl UK),1-Sep-15,8-Apr-18,950,Model S P85D,15970,16.8,393,No,15970,951,,408,monthly,monthly,never,80%,
+Asia Pacific & Europe (excl UK),28-Sep-16,15-Apr-18,564,Model X 90D,72019,127.5,372,No,72019,565,294,405,monthly,monthly,a few times a year,90%,269.86
+Asia Pacific & Europe (excl UK),29-Mar-14,15-Apr-18,1478,Model S 85,110150,74.5,362,No,110150,"1,479",211,400,a few times a year,a few times a year,never,90%,313.02
+Asia Pacific & Europe (excl UK),20-Aug-14,7-Apr-18,1326,Model S 85,17888,13.5,388,No,17888,"1,327",210,400,monthly,once or twice a year,never,70%,48.96
+Asia Pacific & Europe (excl UK),8-Mar-17,20-Apr-18,408,Model X 90D,3442,8.4,393,No,3442,409,210,405,monthly,once or twice a year,never,70%,8.93
+Asia Pacific & Europe (excl UK),21-May-15,27-Mar-18,1041,Model S 85D,81631,78.3,408,No,81631,"1,042",,430,twice a month,a few times a year,monthly,90%,
+Asia Pacific & Europe (excl UK),17-Feb-16,23-Apr-18,796,Model S 90D,43642,54.8,440,No,43642,797,207,452,monthly,a few times a year,a few times a year,80%,111.95
+Asia Pacific & Europe (excl UK),17-Mar-15,20-Apr-18,1130,Model S P85D,71049,62.8,385,No,71049,"1,131",218,408,twice a month,monthly,a few times a year,70%,205.7
+Asia Pacific & Europe (excl uK),8-Dec-17,23-Mar-18,105,Model S 75D,10245,96.7,389,No,10245,106,239,389,twice a week,twice a month,a few times a year,50%,33.25
+Asia Pacific & Europe (excl UK),8-Sep-16,26-Apr-18,595,Model S 70D,72027,120.9,344,No,72027,596,214,365,daily,once or twice a year,never,90%,229.29
+Asia Pacific & Europe (excl UK),15-Jun-15,26-Apr-18,1046,Model S 85D,56469,53.9,418,No,56469,"1,047",218,430,a few times a year,a few times a year,never,90%,160.13
+Asia Pacific & Europe (excl UK),2-Sep-17,27-Apr-18,237,Model S 75,12474,52.4,350,No,12474,238,180,380,twice a month,,never,,31.75
+Asia Pacific & Europe (excl UK),10-Jun-14,24-Apr-18,1414,Model S 85,112358,79.4,376,No,112358,"1,415",,400,weekly,a few times a year,never,70%,
+Asia Pacific & Europe (excl UK),15-Nov-13,29-Apr-18,1626,Model S 85,192495,118.3,362,Yes,167444,"1,415",221,400,a few times a year,monthly,once or twice a year,80%,498.35
+Asia Pacific & Europe (excl UK),29-Jul-15,29-Jul-18,1096,Model S 70D,124898,113.9,338,No,124898,"1,097",207,365,twice a week,weekly,once or twice a year,90%,390.27
+Asia Pacific & Europe (excl UK),,29-Apr-18,43219,Model S 85,265546,,378,No,265546,,218,400,twice a month,monthly,a few times a year,90%,768.08
+Asia Pacific & Europe (excl UK),21-May-15,30-Apr-18,1075,Model S 85D,86489,80.4,407,No,86489,"1,076",225,430,twice a month,monthly,monthly,90%,256.46
