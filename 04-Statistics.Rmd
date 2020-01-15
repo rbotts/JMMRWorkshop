@@ -3,7 +3,10 @@
 One of the challenges for teaching R is that students want to get started right away without thinking about what the output should look like and what their goal actually is with programming.  Encouraging students to stop and think will help them determine the best approach in R.
 
 
-##The Grammar of Graphics for Data Visualization
+##The Grammar of Graphics for Data Visualization  
+
+Open up the the R Notebook for [Data Visualization](PracticeNotebooks/DataVizPractice.Rmd) and follow along.  
+
 
 A data visualization is a set of visual **geometries** whose **aesthetics** are mapped from data.
 
