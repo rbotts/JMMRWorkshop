@@ -8,7 +8,9 @@ For students and first time users, R can be scary because it is different from m
 
 Here is some encouragement from the creator of RStudio and the tidyverse himself:  
 
-> It's easy when you start out programming to get really frustrated and think, "oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case.  Everyone gets frustrated.  I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again. ~Hadley Wickham  
+> It's easy when you start out programming to get really frustrated and think, "oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case.  Everyone gets frustrated.  I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again. ~Hadley Wickham    
+
+
 Also, here is a [great video of Hadley Wickham on Twitter](https://twitter.com/i/status/1022057084802748416) discussing the initial stages of learning R programming. 
 
 Students will need encouragement (just as you will) to persevere.  Once the power of R is realized, especially for reproducibility, students tend to want to learn more!
@@ -18,7 +20,7 @@ Students will need encouragement (just as you will) to persevere.  Once the powe
 
 As instructors, we must always be aware of the cognitive load of our students. To learn both R and Statistics at the same time can be a challenge for students.  
 
-![[Information processing model of memory](https://www.semanticscholar.org/paper/Measuring-Effectiveness-of-Graph-Visualizations%3A-A-Huang-Eades/2c01cd884bd2d6f768f81057c380834a8e100931/figure/0)](CognitiveLoad.png)
+![[Information processing model of memory](https://www.semanticscholar.org/paper/Measuring-Effectiveness-of-Graph-Visualizations%3A-A-Huang-Eades/2c01cd884bd2d6f768f81057c380834a8e100931/figure/0)](Images/CognitiveLoad.png)
 
 Students often assume they will have total recall once they see something, but they will lose information without rehearsal and retrieval.  Patience is key to learning R and unfortunately, to learn patience in programming usually means experience some form of trial first.
 
