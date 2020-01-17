@@ -24,7 +24,7 @@
 <meta name="author" content="Judith E. Canner &amp; Ryan Botts" />
 
 
-<meta name="date" content="2020-01-14" />
+<meta name="date" content="2020-01-16" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -106,6 +106,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#welcome"><i class="fa fa-check"></i>Welcome</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#purpose"><i class="fa fa-check"></i>Purpose</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#outline"><i class="fa fa-check"></i>Outline</a></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html#data-and-notebooks"><i class="fa fa-check"></i>Data and Notebooks</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#downloading-software"><i class="fa fa-check"></i>Downloading software</a></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#who-we-are"><i class="fa fa-check"></i>Who we are</a></li>
 </ul></li>
@@ -128,7 +129,8 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </ul></li>
 <li class="chapter" data-level="3.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#visualization-using-base-r-graphics"><i class="fa fa-check"></i><b>3.2</b> Visualization using base R graphics</a><ul>
 <li class="chapter" data-level="3.2.1" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#histograms-and-boxplots"><i class="fa fa-check"></i><b>3.2.1</b> Histograms and boxplots</a></li>
-<li class="chapter" data-level="3.2.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#bar-graphs"><i class="fa fa-check"></i><b>3.2.2</b> Bar graphs</a></li>
+<li class="chapter" data-level="3.2.2" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#scatterplots"><i class="fa fa-check"></i><b>3.2.2</b> Scatterplots</a></li>
+<li class="chapter" data-level="3.2.3" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#bar-graphs"><i class="fa fa-check"></i><b>3.2.3</b> Bar graphs</a></li>
 </ul></li>
 <li class="chapter" data-level="3.3" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#what-is-a-package"><i class="fa fa-check"></i><b>3.3</b> What is a package?</a></li>
 <li class="chapter" data-level="3.4" data-path="teaching-r-and-statistics-together.html"><a href="teaching-r-and-statistics-together.html#package-ggplot2"><i class="fa fa-check"></i><b>3.4</b> Package ggplot2</a><ul>
@@ -202,16 +204,16 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p>For students and first time users, R can be scary because it is different from most of the technology we engage with daily. Our smartphones and operating systems are structured to make us passive users of technology - the programs makes many of the decisions for us. In contrast, R can only do what it is told and the instructions provided must be exact (including punctuation, capitalization, and grammar). The challenges of learning programming often lead students to think they are simply not programmers. Just as we have to quash the “I’m not a math person” myth, we must also quash the “I’m not a programmer” myth.</p>
 <p>Here is some encouragement from the creator of RStudio and the tidyverse himself:</p>
 <blockquote>
-<p>It’s easy when you start out programming to get really frustrated and think, “oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again. ~Hadley Wickham<br />
-Also, here is a <a href="https://twitter.com/i/status/1022057084802748416">great video of Hadley Wickham on Twitter</a> discussing the initial stages of learning R programming.</p>
+<p>It’s easy when you start out programming to get really frustrated and think, “oh it’s me, I’m really stupid,” or, “I’m not made out to program.” But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It’s just a natural part of programming. So, it happens to everyone and gets less and less over time. Don’t blame yourself. Just take a break, do something fun, and then come back and try again. ~Hadley Wickham</p>
 </blockquote>
+<p>Also, here is a <a href="https://twitter.com/i/status/1022057084802748416">great video of Hadley Wickham on Twitter</a> discussing the initial stages of learning R programming.</p>
 <p>Students will need encouragement (just as you will) to persevere. Once the power of R is realized, especially for reproducibility, students tend to want to learn more!</p>
 </div>
 <div id="getting-started-with-r-in-the-classroom" class="section level3">
 <h3><span class="header-section-number">4.1.2</span> Getting Started with R in the Classroom</h3>
 <p>As instructors, we must always be aware of the cognitive load of our students. To learn both R and Statistics at the same time can be a challenge for students.</p>
 <div class="figure">
-<img src="CognitiveLoad.png" alt="Information processing model of memory" />
+<img src="Images/CognitiveLoad.png" alt="Information processing model of memory" />
 <p class="caption"><a href="https://www.semanticscholar.org/paper/Measuring-Effectiveness-of-Graph-Visualizations%3A-A-Huang-Eades/2c01cd884bd2d6f768f81057c380834a8e100931/figure/0">Information processing model of memory</a></p>
 </div>
 <p>Students often assume they will have total recall once they see something, but they will lose information without rehearsal and retrieval. Patience is key to learning R and unfortunately, to learn patience in programming usually means experience some form of trial first.</p>
